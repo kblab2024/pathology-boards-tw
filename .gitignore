@@ -16,6 +16,9 @@ Thumbs.db
 # Rendered PDFs committed deliberately; uncomment below to exclude.
 # rendered/*.pdf
 
+# Render staging (temporary HTML during PDF render)
+.render-stage/
+
 # Local secrets / env
 .env
 .env.local
