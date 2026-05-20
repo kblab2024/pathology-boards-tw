@@ -112,7 +112,17 @@
   font-family: "Noto Sans TC", sans-serif;
   font-size: 8.5pt;
   color: rgba(251, 250, 246, 0.7);
+  margin: 0 0 3mm;
+}
+
+.cover-page .cover-repo {
+  font-family: "Consolas", "Noto Sans TC", monospace;
+  font-size: 9pt;
+  letter-spacing: 1pt;
+  color: #c9a14a;
   margin: 0;
+  padding-top: 2mm;
+  border-top: 0.4pt solid rgba(201, 161, 74, 0.45);
 }
 
 /* ---- Back cover ---- */

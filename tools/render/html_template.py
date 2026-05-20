@@ -24,6 +24,7 @@ def _common_ctx() -> dict:
         "safety_line": cfg.SAFETY_LINE,
         "back_cover_tagline": cfg.BACK_COVER_TAGLINE,
         "license_line": cfg.LICENSE_LINE,
+        "repo_url": cfg.REPO_URL,
         "chapters": cfg.CHAPTERS,
         "palette": cfg.PALETTE,
         "chapter_accent": cfg.CHAPTER_ACCENT,
