@@ -1,0 +1,7477 @@
+[
+  {
+    "題號": 76,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "活體肝移植捐贈者於部分肝切除後剩下的肝臟變化，下列敘述何者正確？",
+    "options": {
+      "A": "被切除的肝葉重新長出",
+      "B": "剩下的肝臟至少需半年以上才能長大一倍",
+      "C": "肝細胞與庫弗氏細胞（Kupffer's cells）及內皮細胞同步複製",
+      "D": "肝臟切除後的代償性生長主要是由於肝內幹細胞（intrahepatic stem cells）之生長"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 77,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "下列有關細胞凋亡（apoptosis）的敘述，何者正確？",
+    "options": {
+      "A": "細胞變大",
+      "B": "細胞質在H＆E染色時呈嗜鹼性（basophilia）",
+      "C": "凋亡體（apoptotic bodies）很快會被吞噬",
+      "D": "會引起炎症反應"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 78,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "下列有關體幹細胞（adult/somatic stem cells）的敘述，何者正確？",
+    "options": {
+      "A": "肝臟的幹細胞是在哈維氏管（canals of Havers）",
+      "B": "腦部的幹細胞是在海馬迴（hippocampus）的CA1及CA2區",
+      "C": "皮膚的幹細胞是在毛囊膨出部（hair follicle bulge）、毛囊間之表皮（interfollicular areas of surface epidermis）及皮脂腺（sebaceous glands）",
+      "D": "骨骼肌的幹細胞是在肌外膜（epimysium）之間質細胞"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 79,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "有關家族性高膽固醇血症（familial hypercholesterolemia）之敘述，下列何者正確？",
+    "options": {
+      "A": "主要是低密度脂蛋白結構異常引起的遺傳性疾病",
+      "B": "大多是低密度脂蛋白基因印記（genomic imprinting）異常所致",
+      "C": "大多是調控低密度脂蛋白表現的基因被甲基化（methylation）所致",
+      "D": "大多是低密度脂蛋白受器（receptor）基因突變引起的遺傳性疾病"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 80,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "普拉德-威利症候群（Prader-Willi Syndrome）是下列何種異常造成的遺傳性疾病？",
+    "options": {
+      "A": "組織結構蛋白（structural proteins）異常",
+      "B": "細胞受器（receptor）異常",
+      "C": "基因印記（genomic imprinting）異常",
+      "D": "染色體轉位（translocation）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 81,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "下列何者最適合利用聚合酶鏈鎖反應（polymerase chain reaction）法分析基因長度的變化以作診斷？",
+    "options": {
+      "A": "柯林菲特氏症候群（Klinefelter syndrome）",
+      "B": "X染色體脆折症候群（fragile-X syndrome）",
+      "C": "馬凡氏症候群（Marfan syndrome）",
+      "D": "龐貝氏症（Pompe disease）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 82,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "有關腫瘤細胞的敘述，下列何者錯誤？",
+    "options": {
+      "A": "依目前普遍的觀點，整個腫瘤是源自單株的腫瘤細胞增生而成",
+      "B": "一顆5公分大的腫瘤，其所有細胞普遍為同質性（homogeneity）",
+      "C": "一顆5公分大的腫瘤，其實所含的腫瘤細胞大部分不處於增生複製期（replicative pool）",
+      "D": "依理論如果腫瘤細胞的倍增時間為3天，那在體內由單一細胞經過120天即可能長成1公斤的腫瘤，但實際上並非如此，因為許多腫瘤細胞會進入G0週期，進行分化或凋亡"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 83,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "下列抑癌基因，何者不直接調控細胞週期（G1→S）？",
+    "options": {
+      "A": "RB",
+      "B": "E-cadherin",
+      "C": "p16/INK4a",
+      "D": "p53"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 84,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "一位25歲女性在生產後不久突發呼吸困難、發紺、血壓下降及休克，病人接續發生肺水腫。下列何者最不可能出現在病人的肺部微血管循環中？",
+    "options": {
+      "A": "空氣",
+      "B": "鱗狀細胞",
+      "C": "脂肪",
+      "D": "黏液"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 85,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "從受傷或死亡的心肌細胞釋放於血液中某些成分可用於判定心肌梗塞的發生，下列蛋白質何者為心肌缺氧性損傷最具特異性的標示物質（biomarker）？",
+    "options": {
+      "A": "C-reactive protein",
+      "B": "creatine kinase muscle dimer",
+      "C": "lactate dehydrogenase",
+      "D": "troponin T and troponin I"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 86,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "一位10歲男童最近發生上呼吸道感染並在心肌中出現Aschoff bodies。下列有關此心肌病變的敘述中，何者最不適當？",
+    "options": {
+      "A": "類纖維蛋白壞死併膨脹嗜伊紅性的膠原",
+      "B": "出現Anitschkow細胞（毛毛蟲樣細胞）",
+      "C": "多核巨細胞形成Aschoff巨細胞",
+      "D": "只發生於心肌"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 87,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "下列有關惡性貧血（pernicious anemia）的敘述，何者正確？",
+    "options": {
+      "A": "自體抗體攻擊十二指腸腺體所致",
+      "B": "周邊血液出現細胞變大且細胞核有超多葉的嗜中性白血球",
+      "C": "腸胃道黏膜相關淋巴癌（mucosa-associated lymphoid tumor）的重要危險因子",
+      "D": "周邊血液出現變大及淡染的卵形紅血球"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 88,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "下列有關周邊血液紅血球病變的敘述，何者錯誤？",
+    "options": {
+      "A": "具有靶狀細胞（target cells），則病人可能有慢性酒精中毒、脾臟切除，或海洋性貧血等",
+      "B": "紅血球具有好威爾-久麗氏體（Howell-Jolly bodies），則病人可能有脾臟切除之病史",
+      "C": "紅血球具有嗜鹼性彩斑（basophilic stippling），則病人骨髓可能受到藥物或毒素的傷害",
+      "D": "具有裂細胞（schistocytes），則病人可能有缺鐵性貧血"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 89,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "下列有關非特異性間質肺炎（non-specific interstitial pneumonia）的敘述，何者正確？",
+    "options": {
+      "A": "可分細胞性（cellular）和纖維化（fibrosing）兩種型態",
+      "B": "時間異質性（temporal heterogeneity）明顯",
+      "C": "可見纖維母細胞增生病灶（fibroblastic focus）",
+      "D": "可見蜂巢狀纖維化（honeycomb fibrosis）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 90,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "一位45歲中年男子，主訴呼吸短促，胸部X光顯示，右肺區hyperlucent且有右肺塌陷呈白色陰影貼近心臟邊緣，縱膈腔左移。下列何項為最有可能的診斷？",
+    "options": {
+      "A": "肺結核",
+      "B": "肋膜炎",
+      "C": "肺氣腫破裂",
+      "D": "肺癌"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 91,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "下列何種疾病最常伴隨原發性硬化性膽管炎（primary sclerosing cholangitis）？",
+    "options": {
+      "A": "全身性紅斑性狼瘡（systemic lupus erythematosus）",
+      "B": "葛雷夫氏病（Graves' disease）",
+      "C": "胰臟炎（pancreatitis）",
+      "D": "潰瘍性結腸炎（ulcerative colitis）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 92,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "一位20歲的女大學生最近幾個月來早晨有嗜睡的情形，一直到吃完早餐才會恢復正常。醫師為她做了一系列的檢查，發現在胰臟的尾部長了一個1公分大小的腫瘤，顯微鏡下的圖形如下圖。則下列那一個診斷最有可能？",
+    "options": {
+      "A": "腺癌（adenocarcinoma）",
+      "B": "血管瘤（hemangioma）",
+      "C": "胰島素瘤（insulinoma）",
+      "D": "偽囊腫（pseudocyst）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 93,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "一新生男嬰，出生時體重2950克，在嬰兒室餵奶量正常。一個月後，母親發現餵奶量減少，嘔吐次數增加，上腹部摸到橄欖狀腫塊，則最可能的診斷為何？",
+    "options": {
+      "A": "梅克爾氏憩室（Meckel diverticulum）",
+      "B": "膽道閉鎖（biliary atresia）",
+      "C": "賁門痙攣（cardiospasm）",
+      "D": "幼兒性肥大性幽門狹窄（infantile hypertrophic pyloric stenosis）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 94,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "一位20歲女性，因為肚子痛而至急診，腹部超音波發現胰臟有一直徑約8公分的腫瘤，腫瘤內有囊狀結構。經手術切除腫瘤，組織學檢查腫瘤內有一些囊狀結構內充滿出血，腫瘤細胞生長方式為成片排列或者為乳突狀突起。則下列何者為最有可能的診斷？",
+    "options": {
+      "A": "congenital cyst of pancreas",
+      "B": "pancreas divisum",
+      "C": "solid-pseudopapillary neoplasm",
+      "D": "pancreatic pseudocyst"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 95,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "有關副甲狀腺腺瘤常見的病理特徵，下列何者錯誤？",
+    "options": {
+      "A": "腫瘤界限明顯",
+      "B": "大部分以多個結節腫瘤呈現",
+      "C": "重量約為0.5公克至5.0公克之間",
+      "D": "腫瘤細胞主要由主細胞（chief cells）所構成"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 96,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "下列腎絲球疾病中，何者最易產生新月形（crescent）腎絲球細胞增生？",
+    "options": {
+      "A": "細基底膜病（thin basement membrane disease）",
+      "B": "抗基底膜病（anti-basement membrane disease）",
+      "C": "瀰漫性膜性腎絲球腎炎（diffuse membranous glomerulonephritis）",
+      "D": "糖尿病腎絲球疾病（diabetic glomerular disease）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 97,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "一位30歲女性，因下腹痛來急診，身體檢查發現病人血壓過低，緊急開刀發現右側輸卵管有血塊。病理檢查發現如下圖的構造，最可能的診斷是：",
+    "options": {
+      "A": "絨毛癌（choriocarcinoma）",
+      "B": "子宮外孕（ectopic pregnancy）",
+      "C": "水泡狀胎塊（hydatidiform mole）",
+      "D": "漿液性癌（serous carcinoma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 98,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "以帶血的乳頭分泌物（bloody discharge）呈現的乳房疾病，下列何種最常見？",
+    "options": {
+      "A": "乳管內乳突瘤（intraductal papilloma）",
+      "B": "乳管原位癌（ductal carcinoma in situ）",
+      "C": "侵襲性乳管癌（invasive ductal carcinoma）",
+      "D": "派吉特氏病（Paget's disease）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 99,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "病人大腦有病灶，發生Kernohan切跡（Kernohan's notch），導致病灶同側輕偏癱（hemiparesis），與之直接相關的變化為何？",
+    "options": {
+      "A": "大腦鎌下脫出（subfalcial herniation）",
+      "B": "經小腦天幕脫出（transtentorial herniation）",
+      "C": "小腦扁桃體脫出（tonsillar herniation）",
+      "D": "杜雷特氏出血（Duret's hemorrhage）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 100,
+    "年度": 104,
+    "第幾次": 1,
+    "question": "下列腫瘤的組織學型態，何者與其他三者相差最多？",
+    "options": {
+      "A": "縱膈腔的卵黃囊腫瘤（yolk sac tumor）",
+      "B": "睪丸的精細胞瘤（seminoma）",
+      "C": "卵巢的dysgerminoma",
+      "D": "松果腺地區的germinoma"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 76,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "中年婦女長年腎病，死後解剖，腎臟較小，且表面有無數1-3 mm之凹陷，下列那一項是其組織變化？",
+    "options": {
+      "A": "水腫",
+      "B": "膿瘍",
+      "C": "疤瘢纖維化",
+      "D": "嗜中性球浸潤"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 77,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "懷孕期間，子宮平滑肌細胞因受到內分泌刺激之影響，其細胞變化為：",
+    "options": {
+      "A": "增生，不肥大",
+      "B": "肥大，不增生",
+      "C": "",
+      "D": ""
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 78,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "關於下列四種疾病的主要致病機轉，那兩種疾病的免疫過度反應（hypersensitivity reaction）最為接近？①自體免疫性溶血性貧血（autoimmune hemolytic anemia）②全身性硬化症（systemic sclerosis）③克隆氏症（Crohn's disease）④急性風濕熱（acute rheumatic fever）",
+    "options": {
+      "A": "①②",
+      "B": "②④",
+      "C": "①④",
+      "D": "②③"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 79,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "一女性具有45,XX,der(14;21)(q10;q10)之染色體組型。則下列敘述何者正確？",
+    "options": {
+      "A": "此為典型之21三染色體症（Trisomy 21）",
+      "B": "此女性是唐氏症病人",
+      "C": "此女性之女兒有可能為46,XX,der(14;21)(q10;q10),+21之染色體組型",
+      "D": "此女性為不孕症患者"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 80,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "Anaplasia代表癌細胞的分化程度為何？",
+    "options": {
+      "A": "良好",
+      "B": "中等度",
+      "C": "不良",
+      "D": "未分化"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 81,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "50歲男性，發生左心室梗塞，二週後出現肺充血及肋膜腔積水，在肺部出現大量褐色的心衰竭細胞（heart failure cells），下列何者是此種褐色細胞的來源？",
+    "options": {
+      "A": "心肌細胞",
+      "B": "心內膜細胞",
+      "C": "巨噬細胞",
+      "D": "纖維芽細胞"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 82,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "78歲女性在準備進行心導管檢查前突然發生休克，影像學檢查顯示左心室壁破裂。緊急手術治療將破裂處修補後，病人狀況暫時穩定。下列何者最能代表破裂處心肌的病理變化？",
+    "options": {
+      "A": "transmural coagulative necrosis and neurophilic infiltration",
+      "B": "myocardial hypertrophy with subendocardial zone coagulative necrosis",
+      "C": "diffuse interstitial fibrosis and myocytolysis",
+      "D": "mild waviness of myocytes"
+    },
+    "answer": "#"
+  },
+  {
+    "題號": 83,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "2歲女童因跌倒撞到臉頰後口腔滲血不止被送到急診室。女童自小斷斷續續就會有口腔滲血或流鼻血情形出現，但都不是很嚴重，另外注射疫苗時要比其他人較長的時間才會止血。病人沒有瘀血、血腫情形，父母兩邊家族都沒有親戚有出血性的疾病。病人血液檢查血紅素、血球容積比、白血球數目、血小板數目、血漿凝血酶原時間（PT）在正常範圍內，活化部分凝血活酶時間（aPTT）延長為 37.2秒（正常為24.4-33.2秒）。最可能造成病人口腔滲血不止的原因為：",
+    "options": {
+      "A": "先天性von Willebrand因子減少",
+      "B": "第八凝血因子缺乏",
+      "C": "葡萄糖六磷酸去氫酵素（glucose 6-phosphate dehydrogenase）缺乏",
+      "D": "免疫複合體（immune complex）堆積引起血管內皮傷害"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 84,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "下列有關白血病（leukemia）各器官病理變化之敘述，何者錯誤？",
+    "options": {
+      "A": "急性骨髓性白血病（acute myeloid leukemia）中單核球分化之亞型較可能浸潤皮膚及其附屬構造",
+      "B": "急性淋巴球性白血病（acute lymphoid leukemia）比急性骨髓性白血病較常見有中樞神經系統之浸潤",
+      "C": "綠色瘤（chloroma）多會進展為急性骨髓性白血病",
+      "D": "慢性淋巴球性白血病（chronic lymphoid leukemia）之肝臟浸潤在於肝竇狀隙內"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 85,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "下列何種肺氣腫（emphysema）與α1-antitrypsin缺乏最有相關？",
+    "options": {
+      "A": "中央腺泡型肺氣腫（centriacinar emphysema）",
+      "B": "泛腺泡型肺氣腫（panacinar emphysema）",
+      "C": "旁中隔型肺氣腫（paraseptal emphysema）",
+      "D": "不規則型肺氣腫（irregular emphysema）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 86,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "",
+    "options": {
+      "A": "",
+      "B": "硬皮病表現尋常間質肺炎較非特異性間質肺炎常見",
+      "C": "紅斑性狼瘡可以表現狼瘡肺炎",
+      "D": "肺高血壓可見於類風濕性關節炎侵犯肺部"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 87,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "下列有關間皮瘤（mesothelioma）的敘述，何者錯誤？",
+    "options": {
+      "A": "可由壁層胸膜或臟層胸膜發生",
+      "B": "可見上皮樣或肉瘤樣之腫瘤細胞型態",
+      "C": "腫瘤細胞通常表現Calretinin",
+      "D": "大多數病患發生腫瘤時，肺部通常同時發生石棉肺纖維化（asbestosis fibrosis）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 88,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "以下何者不是造成肺部嗜酸性白血球增多的原因？",
+    "options": {
+      "A": "過敏性麴菌感染",
+      "B": "藥物反應",
+      "C": "寄生蟲感染",
+      "D": "病毒感染"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 89,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "出生三週的男孩，餵食時常出現嘔吐，進而演變成不含膽汁的噴射性嘔吐，身體檢查發現腹部有一腫塊，最可能的診斷為何？",
+    "options": {
+      "A": "食道失弛症（achalasia）",
+      "B": "幽門狹窄（pyloric stenosis）",
+      "C": "環狀胰臟（annular pancreas）",
+      "D": "小腸閉鎖（small intestine atresia）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 90,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "病人左側腮腺有顆腫瘤2公分大，經鏡檢發現有增生的小腺管、角化的鱗狀上皮細胞、肌上皮細胞、類似軟骨分化的細胞及有些類黏液的基質。有關該腫瘤的敘述，下列何者最不適當？",
+    "options": {
+      "A": "診斷為多形性腺瘤（混合瘤）",
+      "B": "是來自多種胚層",
+      "C": "轉化為惡性的機率不高",
+      "D": "手術切除後可能會復發"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 91,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "65歲女性因右上腹痛、黃疸及兩個月內瘦了6公斤而來求診，下列疾病中，最不可能是：",
+    "options": {
+      "A": "膽管癌（cholangiocarcinoma）",
+      "B": "膽結石腸阻塞（gallstone ileus）",
+      "C": "肝癌細胞（hepatocellular carcinoma）",
+      "D": "胰臟癌（pancreatic carcinoma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 92,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "下列何者為良性家族型血尿（benign familial hematuria）的特徵？",
+    "options": {
+      "A": "神經性聽障",
+      "B": "眼睛水晶體脫位、後白內障",
+      "C": "腎絲球基底膜瀰漫性變薄",
+      "D": "有腎衰竭的家族史"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 93,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "若睪丸腫瘤顯微鏡檢，發現大量出血壞死及cytotrophoblastic cells，另外血中β-HCG異常升高，下列診斷何者最適當？",
+    "options": {
+      "A": "choriocarcinoma",
+      "B": "yolk sac tumor",
+      "C": "embryonal carcinoma",
+      "D": "spermatocytic seminoma"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 94,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "45歲女性有輕微程度甲狀腺機能不全以及甲狀腺無痛對稱性的增大。手術切除的腺體在顯微鏡下出現廣泛的單核球浸潤。浸潤的發炎細胞主要是漿細胞以及小淋巴球並形成生發中心。下列敘述中何者最可能代表她甲狀腺濾泡細胞（follicular cells）的病理變化？",
+    "options": {
+      "A": "甲狀腺濾泡細胞增大並包含水狀膠質",
+      "B": "甲狀腺中許多區域的濾泡破壞，細胞呈現Hürthle細胞狀",
+      "C": "濾泡細胞萎縮，甲狀腺呈現嚴重的纖維化並與附近組織黏連在一起",
+      "D": "甲狀腺濾泡細胞增生並發生癌化現象"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 95,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "下列何者是診斷卵黃囊瘤（yolk sac tumor）最常用的血清標記？",
+    "options": {
+      "A": "甲型胎兒蛋白（alpha-fetoprotein）",
+      "B": "癌胚抗原（carcinoembryonic antigen）",
+      "C": "人類絨毛膜促性腺激素（ human chorionic gonadotropin）",
+      "D": "胎盤鹼性磷酸酶（ placental alkaline phosphatase）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 96,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "",
+    "options": {
+      "A": "",
+      "B": "大多數為腺癌（adenocarcinoma）",
+      "C": "好發的位置是周邊區（peripheral zone）",
+      "D": "其骨轉移常是成骨性（osteoblastic）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 97,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "一位生過三個小孩的45歲婦女來門診接受子宮頸抹片檢查，醫師在子宮頸口處發現有一個1公分大小的囊腫，於是順便做病理切片檢查，切片之後傷口有一些清澈黏液流出來。顯微鏡下發現這些囊腫的上皮為單層立方或柱狀上皮（附圖），則最有可能的診斷為：",
+    "options": {
+      "A": "疱疹性子宮頸炎（Herpes cervicitis）",
+      "B": "子宮頸上皮內贅生（cervical intraepithelial neoplasia, CIN）",
+      "C": "納波德氏囊腫（Nabothian cyst）",
+      "D": "毛滴蟲感染（Trichomonas infection）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 98,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "40歲女性，患蜘蛛膜下腔出血（subarachnoid hemorrhage），檢查發現囊狀動脈瘤出血，下列敘述何者正確？",
+    "options": {
+      "A": "該血管瘤在病人出生時即已存在",
+      "B": "主要的缺損是血管的內膜（intima）",
+      "C": "病人的一等親患此病的機率與一般人相同",
+      "D": "若該血管瘤為剝離性動脈瘤（dissecting aneurysm）而非囊狀動脈瘤，它的臨床表現通常是大腦梗塞（cerebral infarct）而非出血"
+    },
+    "answer": "#"
+  },
+  {
+    "題號": 99,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "下列何者最可能是癌前病變？",
+    "options": {
+      "A": "化膿性肉芽腫（pyogenic granuloma）",
+      "B": "日照性角化症（actinic keratosis）",
+      "C": "脂漏性角質化（seborrheic keratosis）",
+      "D": "皮纖維瘤（dermatofibroma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 100,
+    "年度": 104,
+    "第幾次": 2,
+    "question": "患者做腦部切片檢查，鏡下觀察發現噬神經元的現象（neuronophagia），該變化最常出現於下列何病況？",
+    "options": {
+      "A": "缺血性液化壞死",
+      "B": "病毒性腦炎",
+      "C": "神經退化疾病",
+      "D": "高度惡性腦瘤"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 76,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "下列何種細胞不屬於永久性組織（nondividing or permanent tissues）?",
+    "options": {
+      "A": "神經元（neurons）",
+      "B": "骨骼肌細胞（skeletal muscle cells）",
+      "C": "平滑肌細胞（smooth muscle cells）",
+      "D": "心肌細胞（cardiac muscle cells）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 77,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "下列有關炎症反應與介質（mediator）的配對，何者錯誤？",
+    "options": {
+      "A": "血管擴張（vasodilation）與TNF, IL-1",
+      "B": "增加血管滲透性與C3a及C5a",
+      "C": "發燒（fever）與前列腺素（prostaglandins）",
+      "D": "疼痛（pain）與遲緩激肽（bradykinin）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 78,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "下列何者是第一期與第二期梅毒病灶中最主要的發炎反應細胞？",
+    "options": {
+      "A": "淋巴球（lymphocyte）",
+      "B": "嗜中性白血球（neutrophil）",
+      "C": "漿細胞（plasma cell）",
+      "D": "嗜酸性白血球（eosinophil）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 79,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "下列器官中，最少受到腮腺炎病毒侵襲，所以無顯病理變化的是：",
+    "options": {
+      "A": "肝臟",
+      "B": "中樞神經系統",
+      "C": "睪丸",
+      "D": "胰臟"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 80,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "流行病學研究發現，移民美國第一代的日本人死於胃癌的比率小於原日本住民，但高於當地美國人；移民美國第二代的日本人死於胃癌的比率小於移民美國第一代的日本人，但仍高於當地美國人。由這研究結果所得到的推論，何者為最適當？",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "環境與基因遺傳均可影響癌症的發生",
+      "D": "年齡是影響癌症發生的因素"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 81,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "下列何種致癌物最容易引起白血病及惡性淋巴瘤？",
+    "options": {
+      "A": "Asbestos",
+      "B": "Cadmium compounds",
+      "C": "Vinyl chloride",
+      "D": "Benzene"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 82,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "有關肺心症（cor pulmonale）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "在急性肺心症，右心室明顯肥厚",
+      "B": "在急性肺心症，右心室擴張且呈卵圓形",
+      "C": "在慢性肺心症，右心室壁增厚",
+      "D": "在慢性肺心症，右心室壁的脂肪消失"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 83,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "45歲男性胰臟腺癌末期患者，數度發生下肢短暫性靜脈血栓（evanescent phlebothrombosis），病人如同時發生腦梗塞，其最可能的心臟併發症為何？",
+    "options": {
+      "A": "非細菌性血栓性心內膜炎（non-bacterial thrombotic endocarditis）",
+      "B": "Libman-Sacks氏心內膜炎（Libman-Sacks endocarditis）",
+      "C": "急性感染性心內膜炎（acute infective endocarditis）",
+      "D": "急性心肌梗塞（acute myocardial infarction）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 84,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "下列四種血液疾病中，那兩種疾病最常發生變異的基因相同？ ①增多性紅血球症（polycythemia vera） ②原發性血小板增多症（essential thrombocythemia） ③全身性肥大細胞增生症（systemic mastocytosis） ④急性淋巴性白血病（acute lymphoblastic leukemia）",
+    "options": {
+      "A": "①②",
+      "B": "①③",
+      "C": "②③",
+      "D": "③④"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 85,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "5歲女童兩周來出現面色蒼白、精神不佳。血液中出現terminal deoxynucleotidyl transferase （TdT）、CD10、CD19染色陽性的原始細胞（blast cells）。染色體檢查發現腫瘤細胞有t （12;21）的染色體轉位。下列何者為最可能的診斷？",
+    "options": {
+      "A": "T細胞慢性淋巴母細胞白血病（T-cell chronic lymphoblastic leukemia）",
+      "B": "T細胞急性淋巴母細胞白血病（T-cell acute lymphoblastic leukemia）",
+      "C": "B細胞急性淋巴母細胞白血病（B-cell acute lymphoblastic leukemia）",
+      "D": "B細胞慢性淋巴母細胞白血病（B-cell chronic lymphoblastic leukemia）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 86,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "下列何者為移植肺發生慢性排斥之最主要的病理變化？",
+    "options": {
+      "A": "發炎細胞浸潤",
+      "B": "瀰漫性肺泡傷害",
+      "C": "阻塞性支氣管炎",
+      "D": "巨細胞病毒感染"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 87,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "急性間質性肺炎與下列那一項較無關？",
+    "options": {
+      "A": "吸入毒氣",
+      "B": "過敏性反應",
+      "C": "病毒性感染",
+      "D": "吸入胃部內含異物"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 88,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "下列何種藥物造成的肝傷害以肝細胞壞死為主？",
+    "options": {
+      "A": "amiodarone",
+      "B": "acetaminophen",
+      "C": "phenothiazine",
+      "D": "methotrexate"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 89,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "24歲男性主訴過去一個星期腹痛、發燒及拉肚子，身體檢查發現右下腹有壓痛的情形，糞便檢查並有潛血反應。內視鏡下看見廻腸及升結腸的黏膜較為水腫，且有潰瘍的現象；但橫結腸及降結腸則為正常。他的升結腸切片檢查最有可能看到下列何種病理表現？",
+    "options": {
+      "A": "隱窩膿瘍（crypt abscess）",
+      "B": "腺癌（adenocarcinoma）",
+      "C": "",
+      "D": ""
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 90,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "4週大的女嬰全身皮膚變黃，大便顏色由黃棕色逐漸變成淡黃色甚至灰白色。身體檢查發現女嬰有肝腫大的情形，肝臟切片檢查發現膽小管（bile ductule）增生，門脈區水腫及纖維化，肝細胞有明顯膽汁鬱積（cholestasis）。以下何者為最有可能的診斷？",
+    "options": {
+      "A": "總膽管囊腫（choledochal cyst）",
+      "B": "膽管炎（cholangitis）",
+      "C": "膽道閉鎖（biliary atresia）",
+      "D": "膽管癌（cholangiocarcinoma）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 91,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "下列何種疾病主要是因大腸桿菌產生之類志賀氏毒素（Shiga-like toxin）所導致？",
+    "options": {
+      "A": "血栓性血小板減少性紫斑症（thrombotic thrombocytopenic purpura）",
+      "B": "特發性血小板減少性紫斑症（idiopathic thrombocytopenic purpura）",
+      "C": "典型溶血性尿毒症候群（typical hemolytic-uremic syndrome）",
+      "D": "非典型溶血性尿毒症候群（atypical hemolytic-uremic syndrome）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 92,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "下列那一個基因的突變與甲狀腺髓質癌（medullary carcinoma）的形成最有關係？",
+    "options": {
+      "A": "RAS",
+      "B": "RET",
+      "C": "BRAF",
+      "D": "PTEN"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 93,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "下列分子缺陷中，何者最常與偶發性（sporadic）副甲狀腺腺瘤有關？",
+    "options": {
+      "A": "cyclin D1",
+      "B": "calcium-sensing receptor",
+      "C": "vitamin D receptor",
+      "D": "parathyroid hormone"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 94,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "生過3個小孩的26歲婦女在懷孕28週時發生自發性流產，其流產生出的男嬰比一般正常週數的胎兒要小，而且兩手的第三指和第四指有連在一起的畸形。胎盤除了比較小之外，還可以看到一些大小約0.8公分像葡萄狀的水泡。則這些胎盤組織最可能有下列那種染色體異常？",
+    "options": {
+      "A": "69,XXY",
+      "B": "46,XX",
+      "C": "23,Y",
+      "D": "47,XXY"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 95,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "40歲男性發現在龜頭上數個亮紅色表面光滑的斑塊，病理診斷為”Erythroplasia of Queyrat”，則應如何向病人解釋此疾病？",
+    "options": {
+      "A": "淋病，須以抗生素治療",
+      "B": "尖頭濕疣（condyloma acuminatum）",
+      "C": "原位癌，出現異生細胞",
+      "D": "梅毒，須以抗生素治療"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 96,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "有關軟骨肉瘤（chondrosarcoma）的敘述，下列何者正確？",
+    "options": {
+      "A": "大多數病人的年齡為20幾歲",
+      "B": "腫瘤內少有鈣化",
+      "C": "第一級（grade 1）腫瘤的轉移機率約10%",
+      "D": "見到第三級（grade 3）惡性軟骨之形態時，要先想到該腫瘤是否為軟骨母細胞骨肉瘤（chondroblastic osteosarcoma），因第三級軟骨肉瘤較少見"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 97,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "一名小孩因感冒而服用阿斯匹林（aspirin），隨後發生了肝及腦的病變。肝臟變化如圖所",
+    "options": {
+      "A": "核黃疸（kernicterus）",
+      "B": "點狀出血（petechial hemorrhage）",
+      "C": "腦水腫（brain edema）",
+      "D": "豆狀核變性（lenticular degeneration）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 98,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "病人因腦膿瘍顱內壓上升而發生經天幕腦脫疝（transtentorial herniation）時，會壓迫到那一條血管而造成局部缺血？",
+    "options": {
+      "A": "前大腦動脈",
+      "B": "中大腦動脈",
+      "C": "後大腦動脈",
+      "D": "基底動脈"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 99,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "有一農夫經常在稻穀收割期時發生急性發燒、咳嗽、呼吸困難，且血中白血球增高，其最可能的診斷為：",
+    "options": {
+      "A": "支氣管肺炎",
+      "B": "結核性肺炎",
+      "C": "過敏性肺炎",
+      "D": "成人呼吸窘迫症候群"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 100,
+    "年度": 105,
+    "第幾次": 1,
+    "question": "承上題，經由病理切片診斷，下列現象最可能發生？",
+    "options": {
+      "A": "間質纖維化，淋巴球，漿細胞浸潤",
+      "B": "間質纖維化，嗜酸性球浸潤",
+      "C": "乾酪性壞死及肉芽腫",
+      "D": "嗜中性白血球浸潤及化膿"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 76,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "下列有關急性炎症（acute inflammation）之血管反應，何者正確？",
+    "options": {
+      "A": "自血管滲出之液體主要為漏出液（transudate）",
+      "B": "血管擴張是由於組織胺（histamine）及一氧化氮（nitric oxide, NO）等作用在血管內皮（endothelium）所致",
+      "C": "血管滲透性（permeability）增加的最常見機轉是血管內皮受損、細胞壞死及脫落所致",
+      "D": "血管內皮細胞收縮導致血管滲漏是因為組織胺（histamine）、遲緩激肽（bradykinin）等物質所引起"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 77,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "下列有關細胞壞死（necrosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "壞死細胞的細胞質在H＆E染色較正常細胞嗜鹼性（basophilia）",
+      "B": "細胞質中出現液泡是因為細胞質中胞器被消化所致",
+      "C": "細胞核凝縮（pyknosis）可見於細胞凋亡（apoptotic cell death）",
+      "D": "髓鞘質像（myelin figures）的形成是來自破損的細胞膜"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 78,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "人類乳突病毒（HPV）16及18型與子宮頸癌的發生有密切關係，病毒的E6及E7蛋白較不會抑制下列何種抑癌基因的功能？",
+    "options": {
+      "A": "p53",
+      "B": "RB",
+      "C": "p21",
+      "D": "BRCA1及BRCA2"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 79,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "下肢深層靜脈栓塞（deep venous thrombosis）所導致的下肢水腫，其主要機轉為：",
+    "options": {
+      "A": "靜水壓上升",
+      "B": "血漿滲透壓下降",
+      "C": "淋巴管阻塞",
+      "D": "鈉與水的滯留"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 80,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "有關肥厚性心肌病變（hypertrophic cardiomyopathy）的病理變化，下列何者錯誤？",
+    "options": {
+      "A": "主動脈瓣下（subaortic region）心室中隔呈明顯肥厚",
+      "B": "心室通常會明顯擴大",
+      "C": "心肌細胞呈雜亂排列",
+      "D": "心肌間質呈現纖維化"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 81,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "有關淋巴癌的敘述，下列何者正確？",
+    "options": {
+      "A": "一旦血液中發現淋巴腫瘤細胞，就應歸類為白血病（leukemia）而非淋巴癌",
+      "B": "淋巴結外的被套細胞淋巴癌（mantle cell lymphoma）主要與幽門螺旋桿菌（Helicobacter pylori）有關",
+      "C": "無論是T細胞或B細胞淋巴癌，淋巴癌常常都會有抗原受體（antigen receptor）基因重組的現象",
+      "D": "在臺灣何杰金氏淋巴癌（Hodgkin lymphoma）較非何杰金氏淋巴癌（non-Hodgkin lymphoma）常見"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 82,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "下列有關肺隔離（pulmonary sequestration）之敘述，何者錯誤？",
+    "options": {
+      "A": "肺組織與氣道系統無正常聯結",
+      "B": "血流供應來自肺動脈",
+      "C": "肺葉外肺隔離常合併其他先天異常",
+      "D": "肺葉內肺隔離常合併感染"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 83,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "下列有關塵肺症（pneumoconioses）的敘述，何者錯誤？",
+    "options": {
+      "A": "吸入礦物塵埃、有機塵埃、化學煙霧或蒸氣引起",
+      "B": "最易造成塵肺症的顆粒大小在5到10微米",
+      "C": "體積較小之顆粒較易引起急性肺傷害",
+      "D": "吸菸可加重吸入礦物塵埃造成的傷害"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 84,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "脫落性間質肺炎（desquamative interstitial pneumonia）病人肺泡內大量含有色素顆粒的細胞為：",
+    "options": {
+      "A": "中性白血球",
+      "B": "脫落之上皮細胞",
+      "C": "巨噬細胞",
+      "D": "活化之淋巴母細胞"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 85,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "下列何種病原體通常引起非典型肺炎（atypical pneumonia）？",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "Mycoplasma pneumoniae",
+      "D": "Nocardia"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 86,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "65歲女性，兩側性肋膜積水，其所含蛋白質濃度較低。其最有可能診斷為下列何者？",
+    "options": {
+      "A": "肺癌",
+      "B": "細菌性肺炎",
+      "C": "結核性肺炎",
+      "D": "心臟衰竭"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 87,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "有關幽門桿菌性胃炎的敘述，下列何者最不適當？",
+    "options": {
+      "A": "在竇部（antrum）比體部（body）嚴重",
+      "B": "感染帶有CagA基因的細菌者，比較會產生胃癌",
+      "C": "細菌較易出現在腸道化生（intestinal metaplasia）的部位",
+      "D": "是胃淋巴瘤的主要成因"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 88,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "慢性胰臟炎最常見的原因為何？",
+    "options": {
+      "A": "膽結石",
+      "B": "長期酗酒",
+      "C": "慢性肝炎",
+      "D": "CFTR基因突變"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 89,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "56歲男性皮膚及鞏膜泛黃，且有茶色尿及灰白便。下列敘述何者正確？",
+    "options": {
+      "A": "此病人有溶血性黃疸",
+      "B": "若摸到腫大的膽囊，病人肝外膽管阻塞",
+      "C": "血中升高的膽紅素主要是非接合型膽紅素",
+      "D": "肝癌細胞因為會製造過多膽紅素也特別容易出現此類黃疸"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 90,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "5 歲男孩，一週前出現頭痛、發燒及頸部僵硬而住院治療，腦脊椎液培養出奈瑟氏腦膜炎雙球菌（Neisseria meningitidis），入院後病患發生低血壓性休克及皮膚出現紫斑，此病患的腎上腺最有可能呈現何種病理變化？",
+    "options": {
+      "A": "皮質細胞增生",
+      "B": "髓質細胞增生",
+      "C": "大量出血",
+      "D": "功能性腺瘤的產生"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 91,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "有關攝護腺結節狀增生（prostatic nodular hyperplasia）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "Dihydrotestosterone可作用於細胞核的androgen receptor，只導致上皮細胞增生",
+      "B": "主要發生的區域是移形區（transitional zone）",
+      "C": "可用α-adrenergic receptor抑制劑降低平滑肌張力以緩解尿路阻塞的症狀",
+      "D": "顯微鏡檢有時可在梗塞（infarct）附近發現上皮細胞有局部鱗狀化生"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 92,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "42歲女性病人因胃癌手術進行mitomycin-C化學治療。三個月後發生急性腎臟衰竭，高血壓和全身水腫，實驗室數據顯示microangiopathic hemolytic anemia。下列敘述中何者最可能代表她腎絲球裡面的病理變化？",
+    "options": {
+      "A": "血管內皮細胞腫脹及沉積纖維蛋白性小血栓",
+      "B": "大量沉積免疫複合體",
+      "C": "半月形細胞增生及壞死",
+      "D": "細胞增生及中性球浸潤"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 93,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "下列疾病與其病理特徵的組合，何者正確？",
+    "options": {
+      "A": "疱疹（ herpes） 病毒感染與空洞細胞（koilocyte）",
+      "B": "水泡狀胎塊（hydatidiform mole）與Call-Exner bodies",
+      "C": "卵黃囊瘤（yolk sac tumor）與Birbeck granules",
+      "D": "萊氏細胞瘤（Leydig cell tumor）與Reinke crystalloids"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 94,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "功能不良性子宮出血（dysfunctional uterine bleeding）最常見的機轉為何？",
+    "options": {
+      "A": "濾泡期太短（short follicular phase）",
+      "B": "黃體期不足（inadequate luteal phase）",
+      "C": "無排卵周期（anovulatory cycle）",
+      "D": "外源性黃體激素（exogenous progesterone）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 95,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "56歲女性，大陰唇處有一個界限明顯、會癢、表面較紅且會結痂的病變。她接受切片檢查。圖示是病變區在顯微鏡下的變化。下列有關此病的敘述何者正確？",
+    "options": {
+      "A": "由human papillomavirus所引起",
+      "B": "是源自黑色素細胞的良性腫瘤",
+      "C": "是原發性的鱗狀細胞癌",
+      "D": "病變細胞的細胞質PAS染色為陽性"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 96,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "70歲長者在大腿內側及前臂屈側、腋窩、腹股溝及下腹部之皮膚有多個水泡（bullae），組織切片呈現表皮下非棘層鬆解的水泡（subepidermal nonacantholytic blisters），免疫螢光檢查見免疫球蛋白及補體呈線形沉積於基底膜部位，其診斷為何？",
+    "options": {
+      "A": "尋常性天疱瘡（pemphigus vulgaris）",
+      "B": "紅斑性天疱瘡（pemphigus erythematosus）",
+      "C": "大水泡性類天疱瘡（bullous pemphigoid）",
+      "D": "疱疹性皮炎（dermatitis herpetiformis）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 97,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "34歲男性，因中樞神經系統症狀住院，腦部切片顯示多個髓鞘脫失（demyelination）病灶，其內之神經軸索（axons）數目略減，病灶邊緣之寡樹突膠質細胞核呈玻璃狀雙染的包涵物（glassy amphophilic inclusions），亦見到奇異且巨大的星狀膠原細胞（bizarre giant astrocytes），其診斷為何？",
+    "options": {
+      "A": "人類免疫力不足病毒腦炎（human immunodeficiency virus encephalitis）",
+      "B": "進行性多病灶腦白質病（progressive multifocal leukoencephalopathy）",
+      "C": "亞急性硬化性全腦炎（subacute sclerosing panencephalitis）",
+      "D": "第二型單純疱疹病毒腦炎（herpes simplex virus type 2 encephalitis）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 98,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "下列有關原發性中樞神經系統淋巴瘤的敘述，何者錯誤？",
+    "options": {
+      "A": "此為免疫抑制病人最常見的中樞神經系統腫瘤",
+      "B": "中樞神經系統以外的組織亦常被侵犯",
+      "C": "絕大多數的腫瘤為B細胞淋巴瘤，且大多數細胞會表現BCL-6",
+      "D": "血管內淋巴瘤（intravascular lymphoma）通常以廣泛的微小梗塞表現，而不是以腫塊表現"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 99,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "55歲女性因眼睛容易感到疲勞、出現燒熱感前來就診。另外病人抱怨口腔內也會有燒熱感，咀嚼及吞嚥乾的食物時會有困難。身體檢查發現兩側耳下腺腫脹但不會感覺疼痛。血清檢查發現病人血中抗SS-A與抗SS-B抗體升高。有關此疾病之敘述，下列何者正確？",
+    "options": {
+      "A": "唾液腺會有很多淋巴細胞（lymphocyte）浸潤，主要以CD8陽性T淋巴細胞為主",
+      "B": "應立即進行腎臟切片檢查以評估疾病嚴重度",
+      "C": "此類病人常會有類風濕因子（rheumatoid factor）升高現象",
+      "D": "此類病人常會有抗染色體中節抗體（anti-centromere antibody）升高現象"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 100,
+    "年度": 105,
+    "第幾次": 2,
+    "question": "（承上題）病人日後較容易罹患下列何種淋巴癌？",
+    "options": {
+      "A": "瀰漫型T淋巴細胞為主的淋巴癌（diffuse T-cell lymphoma）",
+      "B": "周邊區域型淋巴癌（marginal zone lymphoma）",
+      "C": "被套細胞淋巴癌（mantle cell lymphoma）",
+      "D": "何杰金氏淋巴癌（Hodgkin lymphoma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 76,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "下列有關血清素（serotonin）的敘述，何者錯誤？",
+    "options": {
+      "A": "是一種血管活性的介質（vasoactive mediator）",
+      "B": "主要存在於肥大細胞（mast cells）",
+      "C": "可存在於胃腸道的神經內分泌細胞（neuroendocrine cells）",
+      "D": "對血管的作用與組織胺（histamine）類似"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 77,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "腦梗塞後，最容易造成下列何種壞死？",
+    "options": {
+      "A": "液化性壞死",
+      "B": "凝固性壞死",
+      "C": "脂肪壞死",
+      "D": "壞疽性壞死"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 78,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "下列感染症中，何者可造成肝臟纖維化的病變？\n①梅毒（syphilis）\n②血吸蟲病（schistosomiasis）\n③痲瘋病（leprosy）",
+    "options": {
+      "A": "僅①②",
+      "B": "僅①③",
+      "C": "僅②③",
+      "D": "①②③"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 79,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "39歲未婚婦女，自20歲即有性經驗，且換過幾位性伴侶，身體一向健康沒有任何不適。因響應政府衛生教育宣導6分鐘護一生，接受子宮頸抹片篩檢，結果發現上皮細胞有重度異生（severe dysplasia）。下列對病人的建議及處理，何者最適當？",
+    "options": {
+      "A": "停止性接觸，3個月後再追蹤檢查一次",
+      "B": "接受抗生素治療後，3個月再追蹤檢查一次",
+      "C": "接受人類乳突病毒的偵測，並接受子宮全切除",
+      "D": "先做子宮頸錐狀切片檢查，評估病情後再決定後續治療方法"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 80,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "心肌中最容易並且最先因冠狀動脈血流減少而缺氧損傷的區域是：",
+    "options": {
+      "A": "心內膜下區（subendocardial zone）",
+      "B": "心外膜區（epicardial zone）",
+      "C": "心肌中層（mid-myocardial zone）",
+      "D": "整層心壁（transmural zone）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 81,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "85歲男性被發現左心室血液外流阻力增加及同心性左心肥大，病人因此接受主動脈瓣置換，病理檢查時在手術切除的瓣膜上發現有許多小結狀鈣化結構於sinus of Valsalva中。此病人主動脈瓣在未發生病變前的解剖構造最可能是：",
+    "options": {
+      "A": "three-cuspid valve",
+      "B": "two-cuspid valve",
+      "C": "un-commissural valve",
+      "D": "fissured valve"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 82,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "下列三種淋巴癌中，何者與Epstein-Barr病毒有密切關係？\n① 鼻腔NK/T細胞淋巴癌（NK/T-cell lymphoma）\n② 濾泡性淋巴癌（follicular lymphoma）\n③ 後天免疫不全症候群合併之原發性中樞神經系統B細胞淋巴癌（B-cell lymphoma）",
+    "options": {
+      "A": "僅①②",
+      "B": "僅②③",
+      "C": "僅①③",
+      "D": "①②③"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 83,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "下列何種肺膨脹不全（atelectasis）通常為不可逆之變化？",
+    "options": {
+      "A": "吸收性肺膨脹不全（resorption atelectasis）",
+      "B": "阻塞性肺膨脹不全（obstruction atelectasis）",
+      "C": "壓迫性肺膨脹不全（compression atelectasis）",
+      "D": "收縮性肺膨脹不全（contraction atelectasis）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 84,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "下列有關煤工塵肺症（coal worker pneumoconiosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "簡單型煤工塵肺症可見煤斑塊（coal macule）及煤結節（coal nodule）的病理變化",
+      "B": "複雜型煤工塵肺症可見密集之膠原和色素沉積",
+      "C": "煤工塵肺症患者較一般人易感染結核病",
+      "D": "煤工塵肺症患者若無吸菸則發生癌症的機率與一般人相近"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 85,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "下列有關肺泡蛋白沉積症（alveolar proteinosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "病理變化為肺泡內充滿表面活性蛋白（surfactant）",
+      "B": "大部分患者為後天型（acquired type）",
+      "C": "抗GM-CSF抗體為可能之病因",
+      "D": "臨床治療以手術切除病灶為主"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 86,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "50歲男性咳血，ㄧ週後產生急性腎衰竭，血中C-ANCA檢查陰性，肺部切片顯示肺泡壞死及出血，合併血鐵質（hemosiderin）沉積。此病人最有可能患有下列何種肺部出血疾病？",
+    "options": {
+      "A": "肺出血腎炎（Goodpasture）症候群",
+      "B": "原因不明肺部血鐵症（idiopathic pulmonary hemosiderosis）",
+      "C": "韋格納氏肉芽腫（Wegener granulomatosis）",
+      "D": "腎細胞癌轉移至肺部，合併出血"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 87,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "下列那項肺臟疾病，最有可能出現嗜中性白血球滲出物？",
+    "options": {
+      "A": "病毒性肺炎",
+      "B": "肺氣喘",
+      "C": "細菌性肺炎",
+      "D": "肺癌"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 88,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "55歲女性，長期有搔癢，疲倦和腹部不適。身體檢查發現病人有黃疸，皮膚有黃色瘤（xanthoma），肝臟切片檢查發現肝內小膽管被破壞，並在門脈區發現有非乾酪性肉芽腫（noncaseating granuloma），她血清中最可能出現下列何種抗體？",
+    "options": {
+      "A": "抗平滑肌抗體（anti-smooth muscle antibody）",
+      "B": "抗粒線體抗體（anti-mitochondrial antibody）",
+      "C": "抗可溶性肝抗原／肝胰抗體（anti-soluable liver antigen/liver pancreas antigen antibody）",
+      "D": "抗肝腎微粒體-1抗體（anti-liver kidney microsome-1 antibody）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 89,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "48歲男性B型肝炎患者，腹部超音波發現一大型肝臟腫瘤，且主要肝門靜脈也有腫瘤栓塞，顯微鏡下腫瘤細胞含有膽色素，則下列敘述何者為最有可能的診斷？",
+    "options": {
+      "A": "膽管癌",
+      "B": "肝臟血管瘤",
+      "C": "肝細胞癌",
+      "D": "轉移性膽囊癌"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 90,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "有關腦下腺促皮質素腺瘤（corticotroph adenoma）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "在診斷時常以巨腺瘤（macroadenoma）呈現",
+      "B": "大部分屬於嗜鹼性腺瘤（basophilic），只有少數為難染色性腺瘤（chromophobic）",
+      "C": "Periodic-acid-Schiff（PAS）染色呈陽性反應",
+      "D": "易導致庫欣氏症候群（Cushing syndrome）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 91,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "下列有關黏液浮腫（myxedema）的敘述，何者最不適當？",
+    "options": {
+      "A": "發生於甲狀腺機能不足的成人或較大的孩童",
+      "B": "皮膚、皮下或某些內臟貯積glycosaminoglycans及hyaluronic acid",
+      "C": "所有病人的血清TSH均上升",
+      "D": "所有病人的血清T4下降"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 92,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "圖示為50歲女性甲狀腺腫瘤之病理切片。下列敘述何者最不符合此腫瘤的臨床或病理特徵？",
+    "options": {
+      "A": "細胞核常有溝狀特徵（nuclear grooving）",
+      "B": "發生在40歲之前者預後極好",
+      "C": "常有PAX-PPAR γ 1染色體轉位（translocation）",
+      "D": "腫瘤細胞呈高柱狀者較具侵犯性"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 93,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "28歲女性，出現多毛，聲音沙啞，和經期不順等症狀，腹部超音波檢查發現一卵巢腫瘤，最可能的診斷是：",
+    "options": {
+      "A": "顆粒細胞瘤（granulosa cell tumor）",
+      "B": "濾泡膜細胞瘤（thecoma）",
+      "C": "索特利－萊汀細胞瘤（Sertoli-Leydig cell tumor）",
+      "D": "布雷納氏腫瘤（Brenner tumor）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 94,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "關於子宮內膜增生（endometrial hyperplasia），一般認為與下列何種基因最有關？",
+    "options": {
+      "A": "PTEN",
+      "B": "BRCA1",
+      "C": "HER2",
+      "D": "BRCA2"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 95,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "有關睪丸炎（orchitis）與副睪丸炎（epididymitis）的描述，下列何者錯誤？",
+    "options": {
+      "A": "淋病與結核病的感染常先發生於睪丸，而梅毒則常從副睪丸開始",
+      "B": "腮腺炎的感染好發於學齡兒童，這個年齡群極少有睪丸炎的併發症發生",
+      "C": "35歲以上的年齡群副睪丸炎以大腸桿菌與綠膿桿菌的感染為主",
+      "D": "梅毒的感染可於顯微鏡下觀察到大量漿細胞與淋巴球的浸潤"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 96,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "有關化膿性骨髓炎（pyogenic osteomyelitis）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "在兒童引發此病的原因可能只是黏膜的輕微受損",
+      "B": "金黃色葡萄球菌（Staphylococcus aureus）為最常被培養出來的細菌",
+      "C": "在兒童，典型的病灶是在長骨的幹骺端（metaphysis）",
+      "D": "一般而言，能培養出細菌的機率為80-90 %"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 97,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "周邊神經因創傷而橫斷所發生的變化，下列敘述何者正確？",
+    "options": {
+      "A": "軸索（axon）被破壞，髓鞘一般仍維持完好",
+      "B": "橫斷近端（近神經細胞體）之神經纖維發生華勒氏變性（Wallerian degeneration）",
+      "C": "創傷性神經瘤（traumatic neuroma）是因神經再生而形成，它的成分是軸索，但不含其他支持細胞如許旺氏細胞（Schwann cell），纖維組織母細胞（fibroblasts）等",
+      "D": "被切斷的神經之近端退化，一般只影響2-3個結間節的距離"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 98,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "有關弗克斯氏內皮失養症（Fuchs endothelial dystrophy）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "是角膜移植的常見原因",
+      "B": "角膜基質水腫",
+      "C": "水泡形角膜病變（bullous keratopathy）",
+      "D": "Guttata是角膜Bowman層不正常的物質沉著"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 99,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "20歲女性，過去兩周持續性的低度發燒。病人兩側臉頰出現紅斑，口腔有一無痛性潰瘍。尿液出現紅血球圓柱（erythrocyte casts）。血液中抗細胞核抗體（antinuclear antibody）、抗雙股去氧核醣核酸抗體（anti-double stranded DNA antibody）、抗史密斯抗原（anti-Smith antigen）抗體、類風濕因子（rheumatoid factor）呈陽性反應；抗染色體中節抗體（anti-centromere antibody）、抗Scl-70抗體，抗SS-A抗體、抗SS-B抗體等則呈現陰性反應。此疾病主要的致病機轉，與引起下列何種疾病的免疫過度反應（hypersensitivity）最接近？",
+    "options": {
+      "A": "多發性硬化症（multiple sclerosis）",
+      "B": "急性風濕熱（acute rheumatic fever）",
+      "C": "鏈球菌感染後腎絲球腎炎（poststreptococcal glomerulonephritis）",
+      "D": "重症肌無力（myasthenia gravis）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 100,
+    "年度": 106,
+    "第幾次": 1,
+    "question": "（承上題）此病人罹患的疾病是造成下列何項檢驗偽陽性的常見的原因之一？",
+    "options": {
+      "A": "肺炎黴漿菌（Mycoplasma pneumoniae）抗體試驗",
+      "B": "退伍軍人菌（Legionella pneumophila）抗體試驗",
+      "C": "肺炎披衣菌（Chlamydia pneumoniae）IgG抗體試驗",
+      "D": "梅毒血清VDRL試驗"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 76,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "血管擴張、水腫、纖維蛋白（fibrin）出現，是下列何項之特徵？",
+    "options": {
+      "A": "急性發炎",
+      "B": "慢性發炎",
+      "C": "乾性壞疽",
+      "D": "肉芽腫性發炎"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 77,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "細胞缺氧時，最不可能出現下列何種變化？",
+    "options": {
+      "A": "鈉和水進入細胞",
+      "B": "細胞內pH值下降",
+      "C": "鈣離子由細胞內流出",
+      "D": "細胞內ATP下降"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 78,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "下列何者是組織結構蛋白（structural proteins）缺損引起的遺傳性疾病？",
+    "options": {
+      "A": "埃勒斯－當洛症候群（Ehlers-Danlos syndrome）",
+      "B": "黏多醣貯積症（mucopolysaccharidoses）",
+      "C": "高雪氏症（Gaucher disease）",
+      "D": "戴－薩克斯症（Tay-Sachs disease）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 79,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "抗酸性染色（acid-fast stain）不適用於下列那一種疾病的診斷？",
+    "options": {
+      "A": "癩瘤性痲瘋（lepromatous leprosy）",
+      "B": "Mycobacterium tuberculosis感染",
+      "C": "Mycobacterium avium-intracellulare complex感染",
+      "D": "Cryptococcus neoformans感染"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 80,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "梅毒病變中，最顯著且多量的浸潤細胞是：",
+    "options": {
+      "A": "漿細胞",
+      "B": "淋巴球",
+      "C": "巨噬細胞",
+      "D": "嗜伊紅性白血球"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 81,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "培養正常的纖維母細胞，經過放射線照射後，再測其細胞週期的變化，經分析後發現80％的細胞週期停留在G1 phase。細胞週期的變化與下列何者關係最少？",
+    "options": {
+      "A": "細胞的DNA破壞",
+      "B": "p21的活化",
+      "C": "",
+      "D": "Cyclin A/cdk 1被活化"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 82,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "在續發性高血液凝固狀態（hypercoagulable states）的因素中，下列何者發生血栓的風險相對性最低？",
+    "options": {
+      "A": "長期臥床",
+      "B": "心肌梗塞",
+      "C": "心房顫動",
+      "D": "抽菸"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 83,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "30歲男性，長期有大量吸菸習慣，最近發現左側下肢疼痛並有間歇跛行，戒菸後明顯減少發作次數，下列何者為最有可能的診斷？",
+    "options": {
+      "A": "顯微型多發性血管炎（microscopic polyangiitis）",
+      "B": "結節性多發性動脈炎（polyarteritis nodosa）",
+      "C": "堵塞性血栓血管炎（thromboangiitis obliterans）",
+      "D": "韋氏多發性肉芽腫（Wegener granulomatosis）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 84,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "60歲男性因喉嚨疼痛與潰瘍在就醫時被發現血中白血球增加（50×103/µL；參考區間為4.8-10.8×103/µL），紅血球、血小板數目減少。骨髓切片顯示骨髓中細胞佔70-80%，大部分都是中等大小原始細胞（blast cells），細胞質中有非常多火紅顆粒及針狀小體。染色體檢查發現有t（15;17）的染色體轉位。下列何者為最可能的診斷？",
+    "options": {
+      "A": "骨髓化生不良症候群（myelodysplastic syndrome）",
+      "B": "蘭格罕組織球增生症（Langerhans cell histiocytosis）",
+      "C": "慢性骨髓性白血病（chronic myeloid leukemia）",
+      "D": "急性骨髓性白血病（acute myeloid leukemia）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 85,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "下列何種腫瘤最少見於前縱隔腔？",
+    "options": {
+      "A": "何杰金氏淋巴瘤（Hodgkin lymphoma）",
+      "B": "生殖細胞腫瘤（germ cell tumor）",
+      "C": "副甲狀腺瘤（parathyroid adenoma）",
+      "D": "節細胞神經母細胞瘤（ganglioneuroblastoma）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 86,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "下列有關石棉塵肺症（asbestosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "閃石石棉（amphibole）較溫石棉（chrysotile）易引起間皮瘤",
+      "B": "病人罹患肺癌的機率比一般人高",
+      "C": "病理可見石棉小體（asbestos body），為石棉纖維經中性白血球吞噬所產生",
+      "D": "接觸石棉是造成間皮瘤最主要的原因"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 87,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "對於免疫力低落的病人，下列何者最少感染其肺部？",
+    "options": {
+      "A": "細胞巨大型病毒（Cytomegalovirus）",
+      "B": "肺囊蟲（Pneumocystis）",
+      "C": "麴菌（Aspergillus）",
+      "D": "弓漿蟲（Toxoplasma）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 88,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "肺鱗狀上皮細胞癌之特徵與下列那一項最不相關？",
+    "options": {
+      "A": "",
+      "B": "常發生於支氣管",
+      "C": "常發生於肺門",
+      "D": "常產生神經內分泌物質"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 89,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "62歲女性，有多年的腸胃症狀，內視鏡檢查發現有萎縮性胃炎（atrophic gastritis），特別是在體部較嚴重，血清學檢查發現有抗壁細胞抗體（anti-parietal cell antibody），此病人同時有貧血。她的貧血最可能是：",
+    "options": {
+      "A": "惡性貧血（pernicious anemia）",
+      "B": "再生不良性貧血（aplastic anemia）",
+      "C": "溶血性貧血（hemolytic anemia）",
+      "D": "缺鐵性貧血（iron deficiency anemia）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 90,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "腸胃道基質瘤（gastrointestinal stromal tumor, GIST）最常見的突變基因是：",
+    "options": {
+      "A": "KRAS",
+      "B": "c-KIT",
+      "C": "BRAF",
+      "D": "Her2/Neu"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 91,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "闌尾（appendix）最常見的腫瘤為：",
+    "options": {
+      "A": "黏液性腺癌（mucinous adenocarcinoma）",
+      "B": "漿液性腺癌（serous adenocarcinoma）",
+      "C": "管狀腺瘤（tubular adenoma）",
+      "D": "類癌（carcinoid tumor）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 92,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "60歲男性，最近出現腰痛及血尿，電腦斷層發現左腎有一個4公分大小的腫瘤，腫瘤的手術標本切面呈黃色且有壞死區域，顯微變化如圖示。此種腫瘤最不可能發生下列何者基因異常？",
+    "options": {
+      "A": "第三對染色體短臂有缺失（3p-）",
+      "B": "第三對染色體發生不平衡易位",
+      "C": "VHL基因發生體細胞突變（somatic mutation）",
+      "D": "VHL基因發生低甲基化（hypomethylation）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 93,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "下列何種膀胱腫瘤的病理變化，為扁平病灶，可見惡性細胞散布於形態正常的尿道上皮細胞中，以帕哲氏病樣形式擴展（pagetoid spread）？",
+    "options": {
+      "A": "原位癌（carcinoma in situ）",
+      "B": "",
+      "C": "低組織分級乳突狀尿道上皮癌（low-grade papillary urothelial carcinoma）",
+      "D": "高組織分級乳突狀尿道上皮癌（high-grade papillary urothelial carcinoma）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 94,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "下列副甲狀腺疾病，最常造成原發性副甲狀腺機能亢進（primary hyperparathyroidism）的病變是：",
+    "options": {
+      "A": "腺瘤",
+      "B": "增生",
+      "C": "腺癌",
+      "D": "發炎"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 95,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "下列四種細胞，何者最不易出現於正常之子宮內膜中？",
+    "options": {
+      "A": "嗜中性白血球（neutrophils）",
+      "B": "巨噬細胞（macrophages）",
+      "C": "漿細胞（plasma cells）",
+      "D": "淋巴球（lymphocytes）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 96,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "20歲女性，發現右側乳房外上方有一個2公分大小，界限明顯且能移動的腫瘤。下列何者是最可能的診斷？",
+    "options": {
+      "A": "慢性乳房炎（chronic mastitis）",
+      "B": "纖維腺瘤（fibroadenoma）",
+      "C": "管內乳突瘤（intraductal papilloma）",
+      "D": "侵襲性管腺癌（invasive ductal carcinoma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 97,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "36歲女性20年來每天抽一包菸，發現自己右側乳房乳暈旁皮膚紅腫熱痛，乳暈下有一腫塊，做切片檢查發現乳小管上皮有明顯鱗狀上皮化生，乳小管被角質堵塞而擴張成囊狀，乳小管旁有明顯肉芽腫樣發炎反應。則下列何者為最可能之診斷？",
+    "options": {
+      "A": "管內乳突狀瘤（intraductal papilloma）",
+      "B": "急性乳房炎（acute mastitis）",
+      "C": "分枝桿菌感染（mycobacterial infection）",
+      "D": "周邊乳腺管性乳房炎（periductal mastitis）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 98,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "8歲男孩罹患麻疹一星期，突然昏迷而死亡。解剖診斷為急性瀰漫性腦脊髓炎（acute disseminated encephalomyelitis），下列有關這種形式腦脊髓炎的敘述，何者正確？",
+    "options": {
+      "A": "是傳染性疾病",
+      "B": "是髓鞘脫失疾病（demyelinating disease）",
+      "C": "以破壞軸突（axon）為主",
+      "D": "以破壞星狀細胞（astrocyte）為主"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 99,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "一名罹患慢性白血病的女孩化療並未完全得到緩解，六個月後，X光檢查發現右中肺葉浸潤。接著大腦出現壞死，其鏡下所見如圖，則所見到的是：",
+    "options": {
+      "A": "細菌",
+      "B": "黴菌",
+      "C": "病毒",
+      "D": "白血病細胞"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 100,
+    "年度": 106,
+    "第幾次": 2,
+    "question": "下列那一種疾病不會有代償性水腦症（hydrocephalus ex vacuo）？",
+    "options": {
+      "A": "Alzheimer氏病",
+      "B": "Huntington氏舞蹈症",
+      "C": "腦挫傷",
+      "D": "全身輕性麻痺（general paresis of the insane）"
+    },
+    "answer": "#"
+  },
+  {
+    "題號": 76,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "下列有關色素（pigments）的敘述，何者錯誤？",
+    "options": {
+      "A": "皮膚刺青（tattoo）的色素是存在於表皮（epidermis）",
+      "B": "刺青色素（tattoo）通常不會引起炎症反應",
+      "C": "脂褐質（lipofuscin）並不會傷害細胞或影響它的功能",
+      "D": "脂褐質（lipofuscin）的出現是顯示游離基損傷（free radical injury）及脂質過氧化作用（peroxidation）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 77,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "下列有關組織胺（histamine）在炎症反應的敘述，何者正確？",
+    "options": {
+      "A": "主要來源是白血球（leukocytes）及內皮（endothelium）",
+      "B": "可經由創傷、冷或熱等損傷釋放",
+      "C": "引起微血管（capillaries）擴張及增加其滲透性",
+      "D": "與血管內皮之H2受體（H2 receptors）結合導致血管擴大"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 78,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "細胞傷害中，鈣離子流入細胞內，不會引起那一項變化？",
+    "options": {
+      "A": "磷脂酶活化性降低",
+      "B": "蛋白質磷酸化",
+      "C": "細胞骨架分離",
+      "D": "細胞膜受損"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 79,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "下列三類病毒，何者可在神經系統造成如圖箭頭所指的病變？①水痘－帶狀疱疹病毒（Varicella-zoster virus）②腸病毒（Enterovirus genus）③西尼羅河病毒（West Nile virus）",
+    "options": {
+      "A": "僅①",
+      "B": "僅②",
+      "C": "僅①②",
+      "D": "①②③"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 80,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "",
+    "options": {
+      "A": "立克次體感染血管內皮細胞引起血管炎與血管栓塞",
+      "B": "立克次體感染皮膚上皮細胞，造成上皮細胞壞死，形成潰瘍",
+      "C": "立克次體感染皮膚上皮細胞，造成上皮細胞壞死，引起繼發性細菌感染",
+      "D": "立克次體感染皮膚皮下神經元細胞，造成痛覺喪失，引起繼發性細菌感染"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 81,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "下列細菌中，何者最常引起燒傷所致的敗血症？",
+    "options": {
+      "A": "Pseudomonas aeruginosa",
+      "B": "E. coli",
+      "C": "Proteus mirabilis",
+      "D": "Klebsiella pneumoniae"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 82,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "下列何者與細胞週期G1 phase進到S phase的調控關係（modulation）最少？",
+    "options": {
+      "A": "cyclin D/cdk 4",
+      "B": "cyclin E/cdk 2",
+      "C": "RB phosphorylation",
+      "D": "cyclin B/cdk 1"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 83,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "有關穩定性（stable）與脆弱性（vulnerable）動脈硬化斑（atherosclerotic plaque）之比較，下列敘述何者錯誤？",
+    "options": {
+      "A": "穩定性斑塊的脂質核心較大",
+      "B": "穩定性斑塊較少發炎細胞浸潤",
+      "C": "脆弱性斑塊含大量泡沫狀細胞",
+      "D": "脆弱性斑塊的纖維帽較薄"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 84,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "下列何種疾病的病人較可能會有巨大的脾腫大達3000公克以上？",
+    "options": {
+      "A": "髓纖維化（myelofibrosis）",
+      "B": "肝門脈高血壓（portal hypertension）",
+      "C": "感染性單核球症（infectious mononucleosis）",
+      "D": "血色素沉積症（hemochromatosis）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 85,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "10歲小孩有一個下頷腫塊。病理切片如圖，腫瘤細胞較小，核不分葉，常見細胞分裂。則下列敘述何者錯誤？",
+    "options": {
+      "A": "有EB病毒感染",
+      "B": "此病好發於非洲兒童",
+      "C": "此腫瘤屬T-細胞來源",
+      "D": "腫瘤之成長雖極快，但少見轉化為白血病"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 86,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "下列何者是診斷急性肺傷害引起之急性呼吸窘迫症候群最重要的病理特徵？",
+    "options": {
+      "A": "透明膜（hyaline membrane）",
+      "B": "第二型肺細胞增生（type II pneumocyte proliferation）",
+      "C": "肺泡壁及肺泡空腔內肉芽組織（granulation tissue in alveolar wall and spaces）",
+      "D": "肺泡中隔纖維化增厚（fibrotic thickening of alveolar septa）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 87,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "下列有關特發性肺纖維化（idiopathic pulmonary fibrosis）的病理變化的敘述，何者錯誤？",
+    "options": {
+      "A": "非特異性間質肺炎（non-specific interstitial pneumonia）",
+      "B": "區塊狀間質纖維化（patchy interstitial fibrosis）",
+      "C": "纖維母細胞增生病灶（fibroblastic focus）",
+      "D": "蜂巢狀纖維化（honeycomb fibrosis）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 88,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "下列有關肺部血流疾病之敘述，何者正確？",
+    "options": {
+      "A": "肺部大血管內產生血塊大部分是血栓形成（thrombosis）",
+      "B": "肺部栓塞（embolism）的栓子（embolus）主要來自腿部靜脈",
+      "C": "肺動脈栓塞可引起左心急性衰竭，造成病人死亡",
+      "D": "大部分的肺部栓塞可引起肺梗塞（infarct）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 89,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "女性的肺癌以下列何種組織型態最常見？",
+    "options": {
+      "A": "腺癌",
+      "B": "鱗狀上皮細胞癌",
+      "C": "小細胞癌",
+      "D": "大細胞癌"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 90,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "有關克隆氏病（Crohn disease）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "好發於直腸",
+      "B": "常出現跳躍性病灶（skip lesion）",
+      "C": "病理特徵是非乾酪性肉芽腫（noncaseating granuloma）",
+      "D": "腸道狹窄是常見的併發症"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 91,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "一名媽媽發現她10個月大，一向很健康的女嬰腹部腫脹且一整天未解便而就醫。身體檢查發現女嬰腹部有明顯壓痛且腸音幾乎消失。腹部X光檢查發現小腸明顯擴張，但無游離空氣的存在。下列何種情況最可能發生在女嬰身上？",
+    "options": {
+      "A": "十二指腸閉鎖（duodenal atresia）",
+      "B": "赫希普氏病（Hirschsprung disease）",
+      "C": "腸套疊（intussusception）",
+      "D": "梅克爾氏憩室（Meckel diverticulum）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 92,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "40歲男性因肝硬化接受肝臟移植，移植手術過程順利，目前服用抗排斥藥。則肝臟移植急性排斥主要病理變化為何？",
+    "options": {
+      "A": "急性排斥常在術後前兩個月內發生",
+      "B": "門脈區、中心靜脈區發炎，內皮細胞腫脹",
+      "C": "膽小管被破壞",
+      "D": "細胞浸潤主要在門脈區，以多形核白血球為主"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 93,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "有關次發性副甲狀腺功能亢進所導致的病理變化，下列何者錯誤？",
+    "options": {
+      "A": "副甲狀腺內主細胞（chief cells）增生為主",
+      "B": "造成囊狀纖維性骨炎（osteitis fibrosa cystica）",
+      "C": "副甲狀腺內的脂肪細胞增多",
+      "D": "在多處組織器官可見轉移性鈣化（metastatic calcification）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 94,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "附圖顯示一位40歲病人的睪丸腫瘤之局部，下列有關敘述，何者最不適當？",
+    "options": {
+      "A": "臨床表現常為惡性",
+      "B": "常合併其他惡性生殖細胞瘤",
+      "C": "血中的腫瘤標記AFP及β-HCG可能上升",
+      "D": "此腫瘤為表皮囊腫"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 95,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "下列何種卵巢癌最常伴隨子宮內膜異位（endometriosis）？",
+    "options": {
+      "A": "漿液性癌（serous carcinoma）",
+      "B": "黏液性癌（mucinous carcinoma）",
+      "C": "亮細胞癌（clear cell carcinoma）",
+      "D": "絨毛癌（choriocarcinoma）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 96,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "侵襲性小葉癌（invasive lobular carcinoma）主要的分子特徵為何？",
+    "options": {
+      "A": "不表現E-cadherin",
+      "B": "Her2基因增幅（amplification）",
+      "C": "BRCA1基因突變",
+      "D": "上皮生長因子受體（epidermal growth factor receptor）過度表現"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 97,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "32歲女性近2個月月經週期紊亂，一個月來潮兩次但經血量卻很少，體重增加3公斤，臉上毛髮增多，超音波下發現兩側卵巢有許多囊狀濾泡。關於此疾病，下列敘述何者錯誤？",
+    "options": {
+      "A": "又稱作史雷二氏症候群（Stein-Leventhal syndrome）",
+      "B": "組織學檢查以stromal hyperthecosis的現象為主",
+      "C": "會分泌過量的雄性素",
+      "D": "和第二型糖尿病一樣與胰島素抗性有關"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 98,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "有關骨肉瘤（osteosarcoma）的敘述，下列何者正確？",
+    "options": {
+      "A": "此腫瘤好發於年輕人及老年人，他們的發生率相當",
+      "B": "在成人，此腫瘤主要是發生在長骨（long bone），發生在平骨（flat bone）的機率約為長骨的一半",
+      "C": "腫瘤細胞除產生骨母質（bone matrix）外，亦可產生軟骨母質（cartilage matrix）",
+      "D": "在長骨的好發部位為骺部（epiphyseal region）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 99,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "有關中樞神經系統星狀膠原細胞（astrocyte）對損傷之反應，下列何者正確？",
+    "options": {
+      "A": "膠樣變性（gliosis）只有星狀膠原細胞的增生（hyperplasia）而無肥大（hypertrophy）",
+      "B": "阿滋海默第二型（Alzheimer type Ⅱ）星狀膠原細胞主要見於阿滋海默病（Alzheimer disease）",
+      "C": "羅森賽氏纖維（Rosenthal fibers）常見於毛狀細胞星細胞瘤（pilocytic astrocytoma）",
+      "D": "澱粉小體（corpora amylacea）在不同年齡病人所見到的機率大致相同"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 100,
+    "年度": 107,
+    "第幾次": 1,
+    "question": "下列有關一氧化碳中毒之腦部變化，何者錯誤？",
+    "options": {
+      "A": "大腦皮質第三層及第五層之神經元受損最嚴重",
+      "B": "小腦受損最嚴重的細胞為普金奇氏細胞（Purkinje cells）",
+      "C": "最常見有雙側殼（putamen）壞死",
+      "D": "長期存活的病人，可能會有白質的髓鞘脫失（demyelination）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 76,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "為了瞭解不同物質是否有助於上皮細胞的生長而進行一項實驗。在含有上皮細胞的細胞培養中，加入表皮細胞生長因子（epidermal growth factor）時，它會與細胞表面的受器（receptor）結合，導致RAS蛋白活化，造成轉錄因子（transcription factor）活化。上述實驗對上皮細胞的作用，主要是經由下列何種細胞內的途徑進行？",
+    "options": {
+      "A": "Cyclic AMP",
+      "B": "Cyclin-dependent kinases",
+      "C": "JAK/STAT system",
+      "D": "Mitogen-activated protein kinase"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 77,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "8歲男孩出現發燒、喉嚨痛症狀，身體檢查發現兩側頸部淋巴腺腫大，咽喉與扁桃腺發炎。常規血液檢查發現白血球數上升，其中70%為淋巴細胞，淋巴細胞之中30%為非典型淋巴細胞。血中IgM嗜異性抗體（IgM heterophil antibody）與抗Epstein -Barr病毒IgM抗體呈陽性反應。此非典型淋巴細胞最可能是下列何種細胞？",
+    "options": {
+      "A": "CD4陽性的T淋巴細胞",
+      "B": "CD8陽性的T淋巴細胞",
+      "C": "NK-T細胞",
+      "D": "B淋巴細胞"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 78,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "下列那一項不是腮腺炎（mumps）的合併症？",
+    "options": {
+      "A": "睪丸炎（orchitis）",
+      "B": "胰臟炎（pancreatitis）",
+      "C": "感染後腦炎（postinfectious encephalitis）",
+      "D": "進行性多灶性白質腦病（progressive multifocal leukoencephalopathy）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 79,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "下列有關痲瘋的敘述，何者錯誤？",
+    "options": {
+      "A": "癩瘤型痲瘋（lepromatous leprosy）病變組織中可以發現有極多的痲瘋桿菌",
+      "B": "在癩瘤型痲瘋，是由於細胞性及體液性（humoral）免疫反應兩者均有缺失的緣故",
+      "C": "在類結核型痲瘋（tuberculoid leprosy），是由於細胞性免疫反應太強的緣故，其肉芽腫中較難發現細菌",
+      "D": "痲瘋桿菌經由人與人之間散布，可能由呼吸傳染"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 80,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "有關癌細胞常見之基本生理特性，下列敘述何者錯誤？",
+    "options": {
+      "A": "自發性生長訊息（self-sufficiency in growth signals）",
+      "B": "DNA修復缺陷及不引發細胞凋亡（defects in DNA repair and evasion of apoptosis）",
+      "C": "具侵襲和轉移能力（ability to invade and metastasize）",
+      "D": "需大量生長因子（growth factors）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 81,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "60歲男性，因為車禍造成脾臟破裂失血，臨床表現皮膚乾燥、無尿、血壓下降，經手術、輸血及體液補充後，症狀改善，在病程中所導致的器官變化，下列何者最易發生？",
+    "options": {
+      "A": "肝臟廣泛性壞死",
+      "B": "急性腎小管壞死",
+      "C": "瀰漫性肺泡壞死",
+      "D": "腎上腺皮質細胞中脂肪堆積"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 82,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "42歲女性突發呼吸困難、嘔吐、胸骨後疼痛並且延伸到上顎部。病人最後陷入意識不清及暈厥。影像學檢查發現升主動脈（ascending aorta）中度擴張，內膜出現裂口（tear）。身體檢查顯示此病人身長高於同年齡者，上肢水平長度亦大於身高。下列何者最能代表其主動脈病變？",
+    "options": {
+      "A": "囊狀中膜變性併主動脈剝離",
+      "B": "嚴重粥狀硬化併動脈瘤",
+      "C": "主動脈炎併有淋巴球及漿細胞浸潤",
+      "D": "粥腫併化膿性感染"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 83,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "下列何種血液性疾病主要的特徵是骨髓造血功能旺盛，造成骨髓明顯擴張？",
+    "options": {
+      "A": "地中海貧血（thalassemia）",
+      "B": "再生不良性貧血（aplastic anemia）",
+      "C": "免疫性血小板缺乏紫斑症（immune thrombocytopenic purpura）",
+      "D": "急性骨髓性白血病（acute myelogenous leukemia）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 84,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "30歲男性病人因一個月以來咳嗽逐漸加劇而求診。病人腋窩有數個小淋巴結節，脾尖可以摸到。血色素10.2 g/dl稍低，白血球甚高，血小板下降。血液抹片如附圖。最可能的診斷為：",
+    "options": {
+      "A": "急性骨髓性白血病（acute myelogenous leukemia）",
+      "B": "漿細胞性白血病（plasma cell leukemia）",
+      "C": "慢性淋巴球性白血病（chronic lymphocytic leukemia）",
+      "D": "急性淋巴母細胞白血病（acute lymphoblastic leukemia）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 85,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "下列有關矽肺症（silicosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "盛行率最高的塵肺症",
+      "B": "即使患者停止接觸二氧化矽疾病仍可以持續進展",
+      "C": "患者感染結核病的機率與一般人相近",
+      "D": "疾病晚期可見進展性大量纖維化（progressive massive fibrosis）"
+    },
+    "answer": "#"
+  },
+  {
+    "題號": 86,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "肺小細胞癌之特徵，與下列那一項最無關？",
+    "options": {
+      "A": "可能分泌ACTH",
+      "B": "形成蜂巢肺",
+      "C": "常會轉移至腎上腺",
+      "D": "咳血，呼吸困難"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 87,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "有關波雷特氏食道（Barrett esophagus）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "是逆流性食道炎（reflux esophagitis）的併發症",
+      "B": "好發於白人男性",
+      "C": "是食道腺癌（adenocarcinoma）的危險因子之一",
+      "D": "組織學特徵是在食道壁看見壁細胞（parietal cell）和主細胞（chief cell）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 88,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "有關肝臟疾病，下列敘述何者錯誤？",
+    "options": {
+      "A": "黃麴毒素（aflatoxin）是肝細胞癌的危險因子",
+      "B": "結節性再生性增生（nodular regenerative hyperplasia）中央有星狀的纖維化區域",
+      "C": "肝腺瘤（hepatic adenoma）可能破裂，造成腹腔內出血",
+      "D": "肝母細胞瘤（hepatoblastoma）可出現間質分化（mesenchymal differentiation），例如類骨質，橫紋肌，軟骨等成分"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 89,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "在生產過程中，從母親傳給嬰兒的肝炎病毒，下列何者最常見？",
+    "options": {
+      "A": "A型",
+      "B": "B型",
+      "C": "C型",
+      "D": "D型"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 90,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "下列何種腎絲球疾病的顯微變化，經銀染色可見腎絲球微血管壁呈現雙層（double contour）或車軌（tram-track）的形式？",
+    "options": {
+      "A": "微小變化腎病（minimal change disease）",
+      "B": "膜性腎絲球腎炎（membranous glomerulonephritis）",
+      "C": "局部分葉性腎絲球硬化（focal segmental glomerulosclerosis）",
+      "D": "膜增殖性腎絲球腎炎（membranoproliferative glomerulonephritis）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 91,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "45歲女性，有間歇性恥骨上方疼痛、頻尿、血尿及排尿疼痛。病理顯微變化可見膀胱黏膜有慢性潰瘍，膀胱壁有慢性發炎細胞浸潤及纖維化。下列何者為最可能的診斷？",
+    "options": {
+      "A": "息肉狀膀胱炎",
+      "B": "濾泡性膀胱炎",
+      "C": "間質性膀胱炎",
+      "D": "出血性膀胱炎"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 92,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "有關睪丸的精細胞瘤（seminoma）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "類似腫瘤也可發生在卵巢或中樞神經系統",
+      "B": "常發生在嬰兒",
+      "C": "是對放射治療敏感的腫瘤",
+      "D": "腫瘤細胞通常不含α-fetoprotein"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 93,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "有關子宮內膜癌的敘述，下列何者錯誤？",
+    "options": {
+      "A": "第一型與動情素（estrogen）的刺激較有關",
+      "B": "漿液性癌（serous carcinoma）屬於第一型",
+      "C": "第二型的預後較不好",
+      "D": "子宮內膜增生是第一型的前驅病灶"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 94,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "31歲女性，在懷孕第35週時出現高血壓，水腫，蛋白尿，和肝功能異常。下列有關此病的敘述何者錯誤？",
+    "options": {
+      "A": "此病較易發生在多次懷孕的婦女",
+      "B": "病人易有血小板低下",
+      "C": "肝臟會出現纖維蛋白血栓（fibrin thrombi）",
+      "D": "引產是對此病人的合適治療方法"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 95,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "30歲女性，最近幾天發覺右側乳頭有血樣分泌物而就醫。身體檢查發現乳頭並無凹陷，乳房皮膚亦無異常，觸診時並未發現有腫塊存在，腋下淋巴結無腫大現象。她月經週期正常且以口服避孕藥避孕。她的乳房切片檢查最可能出現何種形態變化？",
+    "options": {
+      "A": "乳突狀構造",
+      "B": "嗜中性白血球浸潤",
+      "C": "乳頭表皮出現惡性細胞浸潤",
+      "D": "多發性乳管囊狀擴張及乳管周圍組織纖維化"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 96,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "8歲女童，有一小腦囊性腫瘤（cystic tumor），腫瘤細胞為（gliofibrillary acidic protein, GFAP）陽性之毛狀星狀膠原細胞，細胞排列呈兩相型（biphasic pattern），下列敘述何者正確？",
+    "options": {
+      "A": "腫瘤生長迅速",
+      "B": "同類腫瘤亦常見於老年人的大腦",
+      "C": "常見到羅森賽纖維（Rosenthal fibers）",
+      "D": "腫瘤細胞廣泛浸潤於周圍的腦組織"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 97,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "下列有關腦部小窩性梗塞（lacunar infarcts）的敘述，何者錯誤？",
+    "options": {
+      "A": "最常出現於高血壓",
+      "B": "最常出現在基底核",
+      "C": "不超過15毫米",
+      "D": "係播散性血管內凝血（DIC）的結果"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 98,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "一名不足1000公克的早產兒以高濃度氧氣治療，常見的後遺症之一是：",
+    "options": {
+      "A": "原發性青光眼（primary glaucoma）",
+      "B": "霰粒腫（chalazion）",
+      "C": "交感性眼炎（sympathetic ophthalmia）",
+      "D": "水晶體後纖維增生（retrolental fibroplasia）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 99,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "誤食農藥，造成呼吸困難，肺部彈性降低（low compliance），X光顯示瀰漫性肺陰影。其診斷最有可能是：",
+    "options": {
+      "A": "成人呼吸窘迫症候群（ARDS）",
+      "B": "肺氣腫（pulmonary emphysema）",
+      "C": "急性氣管炎（acute bronchitis）",
+      "D": "Wegener氏肉芽腫病（Wegener's granulomatosis）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 100,
+    "年度": 107,
+    "第幾次": 2,
+    "question": "承上題，上述病症最有可能的組織變化為：",
+    "options": {
+      "A": "瀰漫性肺泡傷害",
+      "B": "肺泡擴大",
+      "C": "肉芽腫性血管炎",
+      "D": "嗜中性白血球浸潤"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 76,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "74歲男性，發燒咳嗽，右下肺葉有一個圓形病灶，內含很多中性球、壞死細胞的黏稠液，此病灶最可能為：",
+    "options": {
+      "A": "肥厚性瘢痕（hypertrophic scar）",
+      "B": "膿瘍（abscess）",
+      "C": "血腫（hematoma）",
+      "D": "結核（tuberculosis）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 77,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "懷孕時乳房最可能發生何種變化？",
+    "options": {
+      "A": "間質纖維化（stromal fibrosis）",
+      "B": "乳管上皮鱗狀化生（ductal epithelium squamous metaplasia）",
+      "C": "腺泡細胞異生（acinic cell dysplasia）",
+      "D": "小葉增生（lobular hyperplasia）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 78,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "在產前染色體檢查分析的20個羊水細胞中，發現5個細胞有46條正常染色體，15個細胞多了一條第21號染色體。下列何者為最可能的診斷？",
+    "options": {
+      "A": "無分離（nondisjunction）型唐氏症候群（Down syndrome）",
+      "B": "無分離（nondisjunction）型愛德華氏症候群（Edwards syndrome）",
+      "C": "轉位（translocation）型愛德華氏症候群（Edwards syndrome）",
+      "D": "異常細胞鑲嵌（mosaicism）型唐氏症候群（Down syndrome）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 79,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "關於類澱粉沉積症（amyloidosis）的敘述，下列何者正確？",
+    "options": {
+      "A": "阿茲海默症（Alzheimer disease）沉積的類澱粉，主要是屬AA（amyloid-associated）型澱粉樣蛋白",
+      "B": "甲狀腺髓質癌（medullary thyroid cancer）造成的類澱粉沉積主要因癌細胞產生的降鈣素（calcitonin）所致",
+      "C": "剛果紅（Congo red）染色只適合用來診斷輕鏈蛋白相關之類澱粉沉積症，無法偵測非原發性的類澱粉沉積",
+      "D": "交叉α折疊（crossed α-pleated）結構是剛果紅染色陽性的原因"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 80,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "關於癌症病人的惡體質（cachexia），下列何者為最可能之原因？①TNF produced by macrophages ②TNF produced by tumor cells ③IL-10 produced by macrophages ④IL-10 produced by tumor cells",
+    "options": {
+      "A": "①②",
+      "B": "②③",
+      "C": "①④",
+      "D": "③④"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 81,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "70歲男性因為心臟衰竭與心律不整住院，心臟內膜與心肌切片（endomyocardial biopsy）顯示有粉紅色物質沉積於心肌細胞之間，這些物質用剛果紅（Congo red）染色於偏光顯微鏡下呈現蘋果綠的顏色；病人經檢查沒有惡性腫瘤、慢性發炎疾病、腎臟疾病或是神經病變，下列何者是最可能堆積的物質？",
+    "options": {
+      "A": "免疫球蛋白（immunoglobulin）",
+      "B": "β2-microglobulin",
+      "C": "transthyretin",
+      "D": "calcitonin"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 82,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "下列何者會出現溶血性貧血（hemolytic anemia）、血小板低下與血液抹片出現碎裂紅血球（schistocytes）？①栓塞性血小板低下紫斑（thrombotic thrombocytopenic purpura） ②巨大的血管瘤（hemangioma） ③瀰漫性血管內凝血（disseminated intravascular coagulation） ④免疫性血小板低下紫斑（immune thrombocytopenic purpura）",
+    "options": {
+      "A": "僅①②",
+      "B": "僅①③",
+      "C": "①②③",
+      "D": "②③④"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 83,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "下列物質於血液中的濃度上升與粥狀動脈硬化（atherosclerosis）發生有關，但何者除外？",
+    "options": {
+      "A": "C-reactive protein",
+      "B": "高密度脂蛋白（high-density lipoprotein）",
+      "C": "同半胱胺酸（homocysteine）",
+      "D": "血糖"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 84,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "下列何者是成年人最常見的惡性淋巴瘤？",
+    "options": {
+      "A": "瀰漫大B細胞淋巴瘤（diffuse large B-cell lymphoma）",
+      "B": "未特指周邊T細胞淋巴瘤（peripheral T-cell lymphoma, unspecified）",
+      "C": "退行性大細胞淋巴瘤（anaplastic large cell lymphoma）",
+      "D": "被套細胞淋巴瘤（mantle cell lymphoma）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 85,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "9歲男孩自上週以來四肢瘀傷。身體檢查：四肢瘀傷及出血斑點；血色素、血容積比、平均紅血球體積（MCV）及白血球計數正常，血小板明顯降低。病人3週前曾有呼吸道融合病毒（respiratory syncytial virus）感染。病人狀況經使用類固醇治療後緩和。下列何者為此病人出血傾向之最可能原因？",
+    "options": {
+      "A": "抗血小板抗體（anti-platelet antibodies）",
+      "B": "骨髓造血不良",
+      "C": "醣蛋白IIb-IIIa功能不全",
+      "D": "vWF金屬酵素缺乏（vWF metalloprotease deficiency）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 86,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "上呼吸道腫瘤利用免疫組織化學染色，發現腫瘤細胞表現synaptophysin與chromogranin抗原時，下列何者為最可能的診斷？",
+    "options": {
+      "A": "鼻咽上皮細胞癌",
+      "B": "嗅母神經胚細胞癌（olfactory neuroblastoma）",
+      "C": "喉頭上皮細胞癌",
+      "D": "NUT中線癌（NUT midline carcinoma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 87,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "下列有關類肉瘤（sarcoidosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "大多數的病人表現雙側肺門淋巴結腫大",
+      "B": "CD4陽性T細胞所驅動之免疫反應",
+      "C": "病理變化為壞死性肉芽腫",
+      "D": "病灶可在肺、脾、肝等器官發現"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 88,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "大學生騎機車不幸發生車禍，造成左小腿複雜性骨折，經開刀固定後，病情穩定。數日後胸痛、呼吸困難，轉入加護病房，其診斷最可能為：",
+    "options": {
+      "A": "敗血症",
+      "B": "肺栓塞",
+      "C": "顱內出血",
+      "D": "細菌性肺炎"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 89,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "以下何種肝炎病毒常是造成旅行者肝炎（traveler hepatitis）的元凶，並且懷孕婦女感染有將近20%的死亡率？",
+    "options": {
+      "A": "A型肝炎病毒",
+      "B": "B型肝炎病毒",
+      "C": "D型肝炎病毒",
+      "D": "E型肝炎病毒"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 90,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "關於纖維薄層型肝細胞癌（fibrolamellar carcinoma），下列敘述何者錯誤？",
+    "options": {
+      "A": "好發於年輕人",
+      "B": "背景肝臟通常已有嚴重纖維化或肝硬化",
+      "C": "腫瘤細胞為含有許多粒線體的oncocytes，由緻密的纖維帶分開",
+      "D": "通常預後較好"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 91,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "下列那一項不是潰瘍性結腸炎（ulcerative colitis）的特徵？",
+    "options": {
+      "A": "大部分（＞50％）的潰瘍性結腸炎患者也患有原發性硬化性膽管炎（primary sclerosing cholangitis）",
+      "B": "可見pseudopolyps，嚴重時可造成toxic megacolon",
+      "C": "它通常影響直腸並向近端延伸",
+      "D": "發炎通常侷限於黏膜層及表淺的黏膜下層"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 92,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "以下病理變化在高血壓性腎硬化（hypertensive nephrosclerosis）病灶中最不可能發生的是：",
+    "options": {
+      "A": "腎小球硬化（glomerulosclerosis）",
+      "B": "小動脈硬化（arteriosclerosis）",
+      "C": "細動脈硬化（arteriolosclerosis）",
+      "D": "靜脈硬化（phlebosclerosis）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 93,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "腦下垂體中風（pituitary apoplexy）最常見的原因為：",
+    "options": {
+      "A": "嚴重之腦下垂體出血",
+      "B": "血管之阻塞導致缺血性壞死",
+      "C": "膿瘍之產生",
+      "D": "惡性腫瘤細胞之侵犯"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 94,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "45歲女性，甲狀腺呈結節性、對稱性腫大，與四周組織無沾黏。實驗室檢查發現血中有抗微粒體抗體（antimicrosomal antibody）。病理顯微變化如圖示，下列何者為最有可能的診斷？",
+    "options": {
+      "A": "橋本氏甲狀腺炎（Hashimoto thyroiditis）",
+      "B": "亞急性甲狀腺炎（subacute thyroiditis）",
+      "C": "雷得氏甲狀腺炎（Riedel thyroiditis）",
+      "D": "慢性纖維性甲狀腺炎（chronic fibrosing thyroiditis）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 95,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "下列有關子宮頸上皮內瘤變／鱗狀上皮內病灶（cervical intraepithelial neoplasia/squamous intraepithelial lesions）的敘述， 何者較不正確？",
+    "options": {
+      "A": "大部分的低度鱗狀上皮內病灶（low-grade squamous intraepithelial lesion, LSIL）會持續存在而不會回復（regress）",
+      "B": "約有10%的低度鱗狀上皮內病灶（low-grade squamous intraepithelial lesion, LSIL）會進展（progress）成高度鱗狀上皮內病灶（high-grade squamous intraepithelial lesion, HSIL）",
+      "C": "少數高度鱗狀上皮內病灶（high-grade squamous intraepithelial lesion, HSIL）會回復（regress）",
+      "D": "大部分高度鱗狀上皮內病灶（high-grade squamous intraepithelial lesion, HSIL）會持續存在（persist）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 96,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "下列有關前列腺炎（prostatitis）的敘述， 何者較不正確？",
+    "options": {
+      "A": "急性細菌性前列腺炎（acute bacterial prostatitis），其致病病原菌通常與引起泌尿道感染的病原菌類似",
+      "B": "慢性細菌性前列腺炎（chronic bacterial prostatitis）一般不易診斷與治療，病人常有反覆泌尿道感染的病史",
+      "C": "在美國，最常引起肉芽腫性前列腺炎（granulomatous prostatitis）的原因是使用Bacillus Calmette-Guérin（BCG）治療表面性膀胱癌（superficial bladder cancer）",
+      "D": "慢性非細菌性前列腺炎（chronic abacterial prostatitis）的病人一般沒有反覆泌尿道感染的病史，其發生率是各種前列腺炎中最低的"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 97,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "下列有關睪丸精母細胞瘤（testicular seminoma）的敘述， 何者較不正確？",
+    "options": {
+      "A": "",
+      "B": "腫瘤細胞會表現OCT3/4與NANOG",
+      "C": "常常發生在嬰兒時期（infant）",
+      "D": "部分腫瘤會有KIT gene的活化性突變（activating mutations）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 98,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "病理診斷狂犬病（Rabies）的最主要依據是觀察到：",
+    "options": {
+      "A": "Lewy body",
+      "B": "Kuru plaque",
+      "C": "Negri body",
+      "D": "Stress granules"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 99,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "肉芽腫性葡萄膜炎（granulomatous uveitis）是下列何種疾病的常見併發症？",
+    "options": {
+      "A": "惡性黑色素瘤（malignant melanoma）",
+      "B": "惡性淋巴瘤（malignant lymphoma）",
+      "C": "類肉瘤病（sarcoidosis）",
+      "D": "紅斑性狼瘡（lupus erythematosus）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 100,
+    "年度": 108,
+    "第幾次": 1,
+    "question": "50歲男性，患胃炎且常嘔吐，亦有記憶衰退及虛談（confabulation），病理解剖發現腦部乳頭體（mamillary bodies）及第三及第四腦室壁出血及壞死，其腦部病變與下列何種維生素（vitamin）缺乏有關？",
+    "options": {
+      "A": "A",
+      "B": "B1",
+      "C": "B6",
+      "D": "B12"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 76,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "骨化性肌炎（myositis ossificans）病灶中的骨頭組織，最可能為何種變化？",
+    "options": {
+      "A": "異生（dysplasia）",
+      "B": "增生（hyperplasia）",
+      "C": "萎縮（atrophy）",
+      "D": "化生（metaplasia）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 77,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "漿細胞（plasma cell）內堆積大量免疫球蛋白，所形成的細胞內粉紅色物質，稱為：",
+    "options": {
+      "A": "Russell body",
+      "B": "amyloid",
+      "C": "Mallory-Denk body",
+      "D": "psammoma body"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 78,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "下列疾病患者在使用小兒麻痺口服沙賓活病毒疫苗後，其中何者引起癱瘓性脊髓灰質炎（poliomyelitis）的風險較高？",
+    "options": {
+      "A": "狄喬治氏症候群（DiGeorge syndrome）",
+      "B": "Bruton氏病（性聯丙種免疫球蛋白缺乏血症）（X-linked agammaglobulinemia [Bruton disease]）",
+      "C": "慢性肉芽腫疾病（chronic granulomatous disease）",
+      "D": "威斯科特－奧爾德里奇症候群（Wiskott-Aldrich syndrome）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 79,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "下列疾病中，何者致病機轉主要跟自體抗體（autoantibody）的產生有關？①尋常型天皰瘡（pemphigus vulgaris） ②多發性結節性動脈炎（polyarteritis nodosa） ③惡性貧血（pernicious anemia）",
+    "options": {
+      "A": "①②③",
+      "B": "僅①②",
+      "C": "僅②③",
+      "D": "僅①③"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 80,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "臨床上高度懷疑是肺癌的病人，同時呈現高血鈣（hypercalcemia）之現象時，則其肺部腫瘤之病理切片結果最可能是：",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Pleomorphic carcinoma",
+      "C": "Small cell carcinoma",
+      "D": "Squamous cell carcinoma"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 81,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "Li-Fraumeni症候群之特性為平均發病年齡比正常族群低，且可同時發生一種以上的癌症。它與下列何種基因的變異關係最高？",
+    "options": {
+      "A": "RB",
+      "B": "TP53",
+      "C": "WT-1",
+      "D": "BRCA-1及BRCA-2"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 82,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "下列血管炎中，何者與吸菸的關係最為密切，在疾病早期階段，戒菸可以緩解疾病的惡化？",
+    "options": {
+      "A": "Churg-Strauss syndrome",
+      "B": "結節性多動脈炎（polyarteritis nodosa）",
+      "C": "血栓閉塞性血管炎（thromboangiitis obliterans）",
+      "D": "Henoch-Schönlein purpura"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 83,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "下列何種先天性心臟病必須保持開放的動脈導管（ductus arteriosus），否則嬰兒出生後通常很快致命？",
+    "options": {
+      "A": "心室中隔缺損（ventricular septal defect）",
+      "B": "主動脈縮窄（coarctation of aorta）",
+      "C": "心房中隔缺損（atrial septal defect）",
+      "D": "主動脈閉鎖（aortic atresia）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 84,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "有關何杰金氏淋巴瘤（Hodgkin lymphoma）的敘述，下列何者正確？",
+    "options": {
+      "A": "整體來說，治療效果與存活率低於非何杰金氏淋巴瘤（non-Hodgkin lymphoma）",
+      "B": "大多數發生在淋巴結以外的器官",
+      "C": "典型腫瘤中，腫瘤細胞只占所有細胞的小部分",
+      "D": "病理亞型比臨床分期對存活率影響較大"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 85,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "下列有關單株丙型球蛋白病變（monoclonal gammopathy）之敘述，何者錯誤？",
+    "options": {
+      "A": "常見於急性發炎之病人",
+      "B": "不一定會有Bence-Jones蛋白尿現象",
+      "C": "可能只含有免疫球蛋白之重鏈",
+      "D": "不一定會有漿細胞瘤或多發性骨髓瘤"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 86,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "下列有關機化性肺炎（organizing pneumonia）的敘述，何者錯誤？",
+    "options": {
+      "A": "肺泡中塞滿球狀之纖維母細胞增生（Masson body）",
+      "B": "病變不涉及小支氣管",
+      "C": "通常無間質性纖維化",
+      "D": "通常無蜂巢狀纖維化"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 87,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "急性氣管炎合併肺部瀰漫性間質發炎，最可能是下列那一類感染引起？",
+    "options": {
+      "A": "病毒",
+      "B": "肺炎雙球菌",
+      "C": "葡萄球菌",
+      "D": "黴菌"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 88,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "肺膨脹不全（atelectasis）最少見於：",
+    "options": {
+      "A": "氣道阻塞",
+      "B": "肋膜腔積水",
+      "C": "肺泡表面張力素不足",
+      "D": "急性肺炎"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 89,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "關於酒精性肝炎之敘述，何者錯誤？",
+    "options": {
+      "A": "AST通常比ALT高約兩倍以上",
+      "B": "典型可見肝臟脂肪堆積，Mallory-Denk bodies，嗜中性白血球（neutrophils）浸潤",
+      "C": "纖維化通常由portal areas開始，之後往central vein延伸",
+      "D": "酗酒而言，女性似乎比男性更容易受到肝臟損傷"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 90,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "下列關於hepatocellular adenoma的敘述何者錯誤？",
+    "options": {
+      "A": "為良性肝細胞的增生",
+      "B": "與maturity onset diabetes of the young type 3（MODY-3）有關的是HNF1-alpha inactivated hepatocellular adenoma",
+      "C": "beta-catenin activated adenoma在所有hepatocellular adenoma型別中，惡性化風險（risk for malignant transformation）最低",
+      "D": "gp130的突變出現在inflammatory type adenoma"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 91,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "關於自身免疫性胃炎（autoimmune gastritis）何者錯誤？",
+    "options": {
+      "A": "針對壁細胞和內在因子的自體抗體（antibodies to parietal cells & intrinsic factor）可在血清及胃液中測得",
+      "B": "維生素B 12 缺乏（vitamin B 12 deficiency）",
+      "C": "胃酸分泌不足，胃泌素（gastrin）分泌增加",
+      "D": "胃竇（antrum）內分泌細胞減少"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 92,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "以下何種膀胱病灶最常發生FGFR3基因突變？",
+    "options": {
+      "A": "非侵襲性低惡性度泌尿上皮癌（noninvasive low-grade papillary urothelial carcinoma）",
+      "B": "非侵襲性高惡性度泌尿上皮癌（noninvasive high-grade papillary urothelial carcinoma）",
+      "C": "原位癌（carcinoma in situ）",
+      "D": "侵襲性高惡性度泌尿上皮癌（invasive high-grade papillary urothelial carcinoma）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 93,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "在原發性膜性腎病變（primary membranous nephropathy）沉積在腎小球最主要的免疫球蛋白為：",
+    "options": {
+      "A": "IgG1",
+      "B": "IgG2",
+      "C": "IgG3",
+      "D": "IgG4"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 94,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "亞急性肉芽腫性甲狀腺炎（subacute granulomatous thyroiditis）之致病機轉尚未完全清楚，但是目前認為此疾病最可能是由下列何種感染所引發的？",
+    "options": {
+      "A": "細菌感染（bacterial infection）",
+      "B": "黴菌感染（fungal infection）",
+      "C": "病毒感染（viral infection）",
+      "D": "結核菌感染（tuberculosis）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 95,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "下列何者不是前列腺癌（prostate cancer）較常見的基因變化？",
+    "options": {
+      "A": "TMPRSS2-ERG或TMPRSS2-ETV1基因融合（gene fusions）",
+      "B": "染色體8q24缺失（deletion）",
+      "C": "PTEN基因缺失（deletion）",
+      "D": "TP53基因缺失（deletion）或突變（mutation）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 96,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "下列有關成人睪丸生殖細胞腫瘤（testicular germ cell tumor）的敘述， 何者較不正確？",
+    "options": {
+      "A": "卵黃囊腫瘤（yolk sac tumor）常常為單一組織學型態，很少與其他組織學型態如胚胎癌（embryonal carcinoma）混合",
+      "B": "精母細胞瘤（seminoma）是最常見的組織學型態",
+      "C": "胚胎癌（embryonal carcinoma）的腫瘤生物特性較精母細胞瘤（seminoma）更具侵襲性",
+      "D": "由絨毛膜癌（choriocarcinoma）單一組織學型態所組成的睪丸腫瘤相當罕見"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 97,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "50歲女性因例行性子宮頸抹片結果異常，接受進一步子宮頸切片檢查，發現異生的細胞取代了整層原有的子宮上皮細胞，以原位雜交法（in situ hybridization）發現在這些異生的細胞有人類乳突病毒（human papillomavirus）第16型的DNA，則下列何者為最可能之診斷？",
+    "options": {
+      "A": "尖形濕疣（condyloma acuminatum）",
+      "B": "慢性子宮頸炎併鱗狀細胞化生（chronic cervicitis with squamous metaplasia）",
+      "C": "子宮頸上皮內贅生第三級（cervical intraepithelial neoplasia III）",
+      "D": "子宮頸息肉（cervical polyp）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 98,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "有關發育不良痣（dysplastic nevi）的敘述，下列何者正確？",
+    "options": {
+      "A": "通常較一般的痣（nevi）小，常小於5mm",
+      "B": "只見於曬到陽光的皮膚",
+      "C": "組織形態通常是皮內痣（intradermal nevi）",
+      "D": "大部分此類病灶都不會轉變成黑色素瘤（melanoma）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 99,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "鏡下描述牛皮癬（psoriasis）有所謂的角化不全（parakeratosis），這是指下列何種表皮角質層的變化而言？",
+    "options": {
+      "A": "增厚",
+      "B": "形成玻璃質樣物質",
+      "C": "角質並不成熟，仍有細胞核存在",
+      "D": "變薄"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 100,
+    "年度": 108,
+    "第幾次": 2,
+    "question": "惡性貧血（pernicious anemia）患者所伴隨發生的特殊神經病理學病變是在何部位？",
+    "options": {
+      "A": "大腦白質",
+      "B": "脊髓",
+      "C": "大腦皮質",
+      "D": "小腦"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 76,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "黃瘤（xanthoma）病灶中，foamy cells細胞質堆積的物質，最可能為：",
+    "options": {
+      "A": "磷酸鈣",
+      "B": "膽固醇",
+      "C": "Mallory-Denk body",
+      "D": "尿酸"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 77,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "下列有關萎縮（atrophy）的敘述，何者錯誤？",
+    "options": {
+      "A": "在胚胎時期，某些組織已開始萎縮",
+      "B": "萎縮是組織或器官的細胞變小，但細胞數目並不會減少",
+      "C": "老年人腦部萎縮（senile atrophy）的主要原因是由於血液供應減少",
+      "D": "脂褐質（lipofuscin）可見於某些器官的萎縮"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 78,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "下列關於染色體22q11.2缺失症候群（chromosome 22q11.2 deletion syndrome）的敘述，何者正確？",
+    "options": {
+      "A": "免疫系統主要會有B淋巴細胞的功能異常",
+      "B": "內分泌系統主要是腦下腺發育不良的問題",
+      "C": "多數的個案其染色體的缺失或突變是隨機的發生在生殖細胞（精或卵）形成的過程",
+      "D": "必須靠傳統染色體核型分析（karyotyping）才能確診"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 79,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "下列感染性疾病，何者的典型病理變化會出現小血管炎？①第一、二、三期梅毒 ②斑疹傷寒（typhus） ③壞疽性臁瘡（ecthyma gangrenosum）",
+    "options": {
+      "A": "①②③",
+      "B": "僅①②",
+      "C": "僅②③",
+      "D": "僅①③"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 80,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "關於鉛（lead）中毒的相關症狀與病變，下列何者較不常見？",
+    "options": {
+      "A": "溶血性貧血（hemolytic anemia）",
+      "B": "擴張性心肌病變（dilated cardiomyopathy）",
+      "C": "周邊神經脫髓鞘性病變（peripheral demyelinating neuropathy）",
+      "D": "痛風（gout）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 81,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "相對而言，下列何者較少發生 BRAF V600E mutation？",
+    "options": {
+      "A": "Breast cancer",
+      "B": "Colon cancer",
+      "C": "Malignant melanoma",
+      "D": "Papillary thyroid carcinoma"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 82,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "下列身體水腫（edema）與積液的情況中，何者致病機制與其他三者不同？",
+    "options": {
+      "A": "血絲蟲感染引起的象皮病（elephantiasis）",
+      "B": "乳糜胸（chylothorax）",
+      "C": "乳癌病患接受乳房切除與腋下淋巴結清除後引起的上肢水腫",
+      "D": "肺梗塞（lung infarct）引起的肋膜積水（pleural effusion）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 83,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "有關肥厚型心肌病變（hypertrophic cardiomyopathy）的特徵，何者錯誤？",
+    "options": {
+      "A": "β–myosin heavy chain的基因產生突變是最常見的原因",
+      "B": "年輕人猝死的常見原因之一",
+      "C": "左心室游離壁（left ventricular free wall）增厚程度比心室中隔（ventricular septum）增厚程度要來得明顯",
+      "D": "主動脈開口附近心室變厚導致左心室流出通道阻塞（left ventricular outflow tract obstruction）是常見的特徵"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 84,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "有關慢性骨髓性白血病（chronic myelogenous leukemia）的敘述，下列何者正確？",
+    "options": {
+      "A": "病人多數為兒童及青少年",
+      "B": "骨髓中的細胞量明顯比正常減少（hypocellular marrow）",
+      "C": "病人血液中的骨髓母細胞（myeloblasts）占比超過20%",
+      "D": "腫瘤細胞有第9對及第22對染色體轉位，造成BCR-ABL融合基因"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 85,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "下列何者是最常見的胸腺癌（thymic carcinoma）？",
+    "options": {
+      "A": "腺癌（adenocarcinoma）",
+      "B": "淋巴上皮瘤樣癌（lymphoepithelioma-like carcinoma）",
+      "C": "神經內分泌癌（neuroendocrine carcinoma）",
+      "D": "鱗狀細胞癌（squamous cell carcinoma）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 86,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "關於鼻腔血管纖維瘤（angiofibroma）的敘述，下列何者正確？",
+    "options": {
+      "A": "最常發生在中老年男性",
+      "B": "一般相信是從鼻腔後側壁的富含纖維血管的間質長出來的",
+      "C": "是造成鼻腔中隔壞死性潰瘍最常見的原因",
+      "D": "屬良性腫瘤，不會復發或造成病患死亡"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 87,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "下列何種疾病的發生與石棉塵肺症（asbestosis）較沒有相關？",
+    "options": {
+      "A": "纖維疤塊（fibrous plaque）",
+      "B": "肺淋巴瘤",
+      "C": "肺上皮癌",
+      "D": "間皮瘤（mesothelioma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 88,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "下列何種肺癌相對其它選項較常具有表皮生長因子受體（epidermal growth factor receptor）基因的突變？",
+    "options": {
+      "A": "腺癌",
+      "B": "鱗狀上皮細胞癌",
+      "C": "小細胞癌",
+      "D": "大細胞癌"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 89,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "關於原發性硬化性膽管炎（primary sclerosing cholangitis），下列敘述何者錯誤？",
+    "options": {
+      "A": "肝內及肝外膽管會有閉塞性纖維化（obliterative fibrosis）和節段性擴張（segmental dilatation）",
+      "B": "與HLA-B8相關",
+      "C": "常伴隨炎症性腸病（inflammatory bowel disease）",
+      "D": "發生於女性較男性多，會出現疲勞，搔癢和黃疸"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 90,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "關於胰臟腫瘤下列敘述何者正確？",
+    "options": {
+      "A": "卵巢間質（ovarian stroma）結構常見於黏液性囊腺瘤（mucinous cystadenoma）",
+      "B": "固體假乳頭狀腫瘤（solid-pseudopapillary neoplasm）是良性腫瘤，通常發生在年輕男性",
+      "C": "漿液性囊性腫瘤（serous cystic neoplasm）於男性較常見，約為女性的兩倍",
+      "D": "管內乳頭狀黏液性腫瘤（intraductal papillary mucinous neoplasm）組成包括柱狀、含黏液（mucin）的上皮細胞，與胰管系統沒有流通"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 91,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "下列何種口腔病灶最容易演變為鱗狀細胞癌（squamous cell carcinoma）？",
+    "options": {
+      "A": "白斑（leukoplakia）",
+      "B": "紅斑（erythroplakia）",
+      "C": "毛狀白斑（hairy leukoplakia）",
+      "D": "口瘡性潰瘍（aphthous ulcer）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 92,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "沉積在腎上腺微結節性增生（micronodular hyperplasia）最主要的色素為：",
+    "options": {
+      "A": "黑色素",
+      "B": "血鐵素",
+      "C": "血色素",
+      "D": "脂褐質"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 93,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "在嗜鉻細胞瘤（pheochromocytoma）中的支持細胞（sustentacular cells）最有可能以下列何種免疫組織化學染色標記將其突顯出來？",
+    "options": {
+      "A": "嗜鉻粒蛋白（chromogranin）",
+      "B": "S100蛋白（S100）",
+      "C": "突觸素（synaptophysin）",
+      "D": "神經元特異性烯醇化酶（neuron specific enolase）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 94,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "關於纖維肌肉發育不良（fibromuscular dysplasia）所導致之腎動脈狹窄，以下何者最不可能發生？",
+    "options": {
+      "A": "女性較多",
+      "B": "好發年齡為20至40歲",
+      "C": "僅會侵犯血管中層",
+      "D": "腎臟呈現缺血性萎縮"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 95,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "下列有關外陰部乳房外柏哲德氏病（extramammary Paget disease）的敘述， 何者較不正確？",
+    "options": {
+      "A": "此罕見病灶的臨床表徵與乳房的柏哲德氏病相似",
+      "B": "與乳頭的柏哲德氏病相同，外陰部乳房外柏哲德氏病大多數有伴隨的潛在侵襲癌",
+      "C": "該疾病的腫瘤細胞–柏哲德氏細胞（Paget cell）常常表現cytokeratin 7",
+      "D": "柏哲德氏細胞可能向周邊上皮蔓延，超越外觀上肉眼可以辨識的區域，所以有時無法將病灶完全切除而導致復發"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 96,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "下列有關卵巢生殖細胞瘤（germ cell tumor）的敘述， 何者較不正確？",
+    "options": {
+      "A": "良性囊性畸胎瘤（benign cystic teratoma）為最常見的卵巢生殖細胞瘤",
+      "B": "無性細胞瘤（dysgerminoma）為最常見的惡性卵巢生殖細胞瘤",
+      "C": "大部分的無性細胞瘤（dysgerminoma）發生在10歲以下",
+      "D": "卵黃囊腫瘤（yolk sac tumor）為第二常見的惡性卵巢生殖細胞瘤，其腫瘤細胞會分泌alpha-fetoprotein"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 97,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "下列有關葡萄胎（hydatidiform mole）的敘述，何者較不正確？",
+    "options": {
+      "A": "完全性葡萄胎（complete mole）意指合子的遺傳物質皆為父源",
+      "B": "不完全性葡萄胎（partial mole）患者比完全性葡萄胎患者有較高危險性發生絨毛膜癌（choriocarcinoma）",
+      "C": "完全性葡萄胎（complete mole）患者比不完全性葡萄胎患者有較高危險性發生侵入性葡萄胎（invasive mole）",
+      "D": "不完全性葡萄胎（partial mole）意指合子的遺傳物質為母源加父源"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 98,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "退化性關節炎（osteoarthritis）主要的致病機轉是：",
+    "options": {
+      "A": "關節軟骨下之成骨細胞（subchondral osteocyte）因年紀累積之過度使用而損傷，引起該關節發炎反應",
+      "B": "關節滑液膜細胞（synoviocyte）退化，導致淋巴球浸潤該關節，引起發炎反應",
+      "C": "關節軟骨退化（articular cartilage degeneration）和軟骨細胞異常的修復能力（disordered repair of chondrocytes）",
+      "D": "關節滑液膜細胞（synoviocyte）損傷退化，導致synoviocyte因修復而過度增生，阻礙關節附近組織之血管通透性及養分供給"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 99,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "下列有關大腦類澱粉血管病變（cerebral amyloid angiopathy, CAA）的描述何者正確？①CAA是造成lobar hemorrhage的危險因子之一 ②導因於中小型腦膜或皮質腦動脈血管壁有包含tau蛋白之類澱粉沉積 ③CAA 致病率與ApoE基因（與阿茲海默症有因果關聯的基因）多形性變異（polymorphism）有關 ④CAA血管病變 常會引起血管纖維化（arteriolar sclerosis/fibrosis）",
+    "options": {
+      "A": "①②",
+      "B": "①③",
+      "C": "②③",
+      "D": "②④"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 100,
+    "年度": 109,
+    "第幾次": 1,
+    "question": "髓芽細胞瘤（medulloblastoma, WHO grade IV）是一好發於兒童小腦，分化差之中樞神經腫瘤。其腫瘤分子分類（molecular subtype）中，何者預後最佳？",
+    "options": {
+      "A": "the WNT type",
+      "B": "the SHH type",
+      "C": "group 3 medulloblastoma",
+      "D": "group 4 medulloblastoma"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 76,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "下列有關脂肪變性（steatosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "脂肪變性是指在實質細胞（parenchymal cell）內膽固醇（cholesterol）不正常的積聚",
+      "B": "肝臟脂肪變性常見於糖尿病患者",
+      "C": "NADH的量上升是酒精造成脂肪變性的機制之一",
+      "D": "蛋白質營養不良，亦常見肝臟脂肪變性"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 77,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "下列那一項與慢性發炎之組織表現相關性最低？",
+    "options": {
+      "A": "淋巴球和漿細胞",
+      "B": "巨噬細胞",
+      "C": "纖維化",
+      "D": "水腫"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 78,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "有關全身性紅斑性狼瘡（systemic lupus erythematosus）之敘述，下列何者正確？",
+    "options": {
+      "A": "容易引起腎絲球腎炎，其病理變化極具特異性，可據以直接診斷紅斑性狼瘡",
+      "B": "引起的腎絲球腎炎中，最嚴重的病理型態為膜狀腎絲球腎炎（membranous glomerulonephritis）",
+      "C": "是造成非細菌性疣贅性心內膜炎（nonbacterial verrucous endocarditis）的成因之一",
+      "D": "引起的血管炎是造成壞疽性臁瘡（ecthyma gangrenosum）的主要成因"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 79,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "下列腫瘤之發生何者與Epstein-Barr病毒的相關性最低？",
+    "options": {
+      "A": "子宮頸癌",
+      "B": "鼻咽癌",
+      "C": "伯基特氏淋巴瘤（Burkitt lymphoma）",
+      "D": "何杰金氏淋巴瘤（Hodgkin lymphoma）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 80,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "下列何者最常於惡性腫瘤細胞中出現基因靜默（gene silencing）之現象？",
+    "options": {
+      "A": "CDK4",
+      "B": "MDM2",
+      "C": "p16",
+      "D": "EWS"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 81,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "有關肺臟血栓性栓塞症（pulmonary thromboembolism）的特徵，下列何者錯誤？",
+    "options": {
+      "A": "下肢的表層靜脈曲張（varicosis of superficial veins）的血栓比深層靜脈血栓（deep vein thrombosis）更容易引起肺臟血栓性栓塞症",
+      "B": "大部分的肺臟血栓性栓塞症沒有明顯臨床症狀",
+      "C": "慢性肺臟血栓性栓塞症會引起肺動脈高壓（pulmonary hypertension）",
+      "D": "肺出血比肺梗塞（pulmonary infarct）常見"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 82,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "腹主動脈瘤（abdominal aortic aneurysm）最可能出現的病因為何？",
+    "options": {
+      "A": "巨細胞動脈炎（giant cell arteritis）",
+      "B": "IgG4相關疾病（IgG4-related disease）",
+      "C": "粥狀動脈硬化（atherosclerosis）",
+      "D": "第三期梅毒（tertiary syphilis）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 83,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "小動脈受損時會因神經性的反應機制而發生短暫收縮，下列何種物質最有可能會加強此種收縮反應？",
+    "options": {
+      "A": "組織型胞漿素原活化因子（tissue-type plasminogen activator）",
+      "B": "組織因子（tissue factor）",
+      "C": "凝血酵素（thrombin）",
+      "D": "內皮素（endothelin）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 84,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "有關血栓性血小板減少性紫斑症（thrombotic thrombocytopenic purpura）的敘述，下列何者正確？",
+    "options": {
+      "A": "病人通常症狀輕微，即使不接受治療也很少造成死亡",
+      "B": "以血漿置換術（plasma exchange）治療對大多數病人有效",
+      "C": "病人血漿中的ADAMTS13酵素活性過高，促進血栓生成",
+      "D": "病人血漿中有異常巨大的第九因子（factor IX）多聚體（multimer）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 85,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "下列有關非何杰金氏淋巴癌（non-Hodgkin lymphoma）的腫瘤細胞來源，何者正確？",
+    "options": {
+      "A": "成人型T細胞白血病／淋巴瘤（adult T cell leukemia/lymphoma）主要被歸類為自然殺手T細胞（natural killer T lymphocyte）",
+      "B": "蕈狀肉芽腫（mycosis fungoides）主要被歸類為記憶B細胞（memory B lymphocyte）",
+      "C": "異生性大細胞淋巴瘤（anaplastic large cell lymphoma）主要被歸類為毒殺型T細胞（cytotoxic T lymphocyte）",
+      "D": "Burkitt氏淋巴癌主要被歸類為純真B細胞（naive B cell）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 86,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "關於鼻腔鼻竇Schneiderian乳頭狀瘤（sinonasal Schneiderian papilloma）的敘述，下列何者正確？",
+    "options": {
+      "A": "依組織型態可分為倒生型（inverted）、外生型（exophytic）、圓柱型（cylindrical），其中圓柱型腫瘤最常見，與第6及第11型人類乳突病毒（human papillomavirus）關係最密切",
+      "B": "倒生型的腫瘤如果只有進行局部腫瘤切除，容易切不乾淨而復發",
+      "C": "外生型腫瘤好發於20～30歲性活躍的年輕男性，為最常見的亞型",
+      "D": "此類腫瘤屬良性腫瘤，無轉化惡性之虞"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 87,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "下列有關氣喘的病理變化的敘述，何者錯誤？",
+    "options": {
+      "A": "基底膜下纖維化",
+      "B": "黏膜下腺體肥大",
+      "C": "血管增生",
+      "D": "支氣管壁肌肉萎縮"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 88,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "下列何種疾病與吸菸較無相關？",
+    "options": {
+      "A": "脫落性間質肺炎（desquamative interstitial pneumonia）",
+      "B": "呼吸小支氣管炎相關之肺間質疾病（respiratory bronchiolitis-associated interstitial lung disease）",
+      "C": "類肉瘤（sarcoidosis）",
+      "D": "肺癌（lung carcinoma）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 89,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "D型肝炎病毒（HDV）是一種有缺陷的病毒。下列那種肝炎病毒對肝細胞中HDV的複製至關重要？",
+    "options": {
+      "A": "A型肝炎病毒",
+      "B": "B型肝炎病毒",
+      "C": "C型肝炎病毒",
+      "D": "E型肝炎病毒"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 90,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "有關家族性結腸息肉病（familial adenomatous polyposis）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "體染色體顯性遺傳（autosomal dominant）",
+      "B": "大腸腺瘤息肉（adenomas）通常在出生時就已存在",
+      "C": "APC基因突變與Gardner syndrome及Turcot syndrome有關",
+      "D": "未治療的患者產生大腸腺癌的機率幾乎是100%"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 91,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "關於急性膽囊炎，以下敘述何者錯誤？",
+    "options": {
+      "A": "約90%為急性結石性膽囊炎，因膽囊頸部或膽囊管阻塞造成",
+      "B": "前列腺素（prostaglandin）的釋放與發炎有關",
+      "C": "急性非結石性膽囊炎主要與缺血有關",
+      "D": "急性非結石性膽囊炎主要的風險因子包括敗血症及喝酒"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 92,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "關於Waterhouse-Friderichsen症候群的敘述，下列何者錯誤？",
+    "options": {
+      "A": "常合併腦膜炎雙球菌（Neisseria meningitidis）敗血症",
+      "B": "嚴重之低血壓",
+      "C": "常併發瀰漫性血管內凝血",
+      "D": "腎上腺自周邊之皮質開始出血，之後擴展至髓質"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 93,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "在藥物或毒物所引起的腎小管間質性腎炎，在間質中浸潤的炎症細胞主要為：",
+    "options": {
+      "A": "淋巴球及巨噬細胞",
+      "B": "嗜酸性白血球",
+      "C": "漿細胞",
+      "D": "肥大細胞"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 94,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "下列何者不是甲狀腺乳突狀癌（papillary carcinoma）之典型細胞核變化？",
+    "options": {
+      "A": "Ground-glass nuclei",
+      "B": "Intranuclear pseudo-inclusions",
+      "C": "Giant and red nucleoli",
+      "D": "Intranuclear grooves"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 95,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "下列有關異位妊娠（ectopic pregnancy）的敘述，何者較不正確？",
+    "options": {
+      "A": "最常見異位妊娠的著床位置為卵巢",
+      "B": "最重要的誘發因素（predisposing factor）是骨盆腔發炎",
+      "C": "相關因子包括子宮內膜異位症（endometriosis）或之前開刀的病史",
+      "D": "異位妊娠的著床位置有可能產生蛻膜變化（decidual changes）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 96,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "下列有關良性前列腺增生症（benign prostatic hyperplasia, BPH）的敘述，何者較不正確？",
+    "options": {
+      "A": "是50歲以上男性最常見良性前列腺疾病",
+      "B": "組織學上可見前列腺上皮與間質的結節性增生（nodular hyperplasia）",
+      "C": "其致病機轉，主要是上皮細胞的大量增生",
+      "D": "雄性素（androgen）在良性前列腺增生症的形成很重要"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 97,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "下列有關隱睪症（cryptorchidism）的敘述，何者較不正確？",
+    "options": {
+      "A": "睪丸的下移可以分為兩個時期，在第一時期，腹部位移時期（transabdominal phase），主要是受穆勒氏管抑制素（müllerian-inhibiting substance）的控制",
+      "B": "睪丸的下移可以分為兩個時期，在第二時期，腹股溝陰囊時期（inguinoscrotal phase），主要是受雄性素（androgen）的控制",
+      "C": "未下降的睪丸，如未及時治療，比正常下降的睪丸有更高發生睪丸癌的危險性",
+      "D": "腹腔是睪丸未能按照正常發育程序從腰部腹膜後下降至陰囊而停留（arrest）的最常見位置"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 98,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "成骨不全症（osteogenesis imperfecta）其基本缺陷是第幾型膠原蛋白（collagen）合成異常？",
+    "options": {
+      "A": "第一型",
+      "B": "第二型",
+      "C": "第三型",
+      "D": "第四型"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 99,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "神經退化性疾病（neurodegenerative diseases）的共同病理表徵是蛋白質異常堆積（protein aggregates），下列疾病與蛋白質堆積的配對，何者錯誤？",
+    "options": {
+      "A": "Frontotemporal lobar dementia；TDP-43",
+      "B": "Alzheimer disease；Aβ",
+      "C": "Amyotrophic lateral sclerosis；Tau",
+      "D": "Parkinson disease ；α-synuclein"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 100,
+    "年度": 109,
+    "第幾次": 2,
+    "question": "下列何種細胞易受JC polyomavirus感染？",
+    "options": {
+      "A": "寡樹突神經膠細胞（oligodendrocyte）",
+      "B": "星狀神經膠細胞（astrocyte）",
+      "C": "微膠細胞（microglia）",
+      "D": "神經元細胞（neuron）"
+    },
+    "answer": "#"
+  },
+  {
+    "題號": 76,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "類纖維蛋白性壞死（fibrinoid necrosis）最常出現於下列何種情況？",
+    "options": {
+      "A": "結核（tuberculosis）",
+      "B": "腦梗塞（brain infarct）",
+      "C": "血管炎（vasculitis）",
+      "D": "急性胰臟炎（acute pancreatitis）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 77,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "受傷後，纖維母細胞（fibroblast）及微血管增生於疏鬆的間質組織中，並混合著發炎細胞，為下列何者的組織學特徵？",
+    "options": {
+      "A": "肉芽腫（granuloma）",
+      "B": "肉芽組織（granulation tissue）",
+      "C": "蟹足腫（keloid）",
+      "D": "類澱粉（amyloid）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 78,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "關於全身性紅斑性狼瘡（systemic lupus erythematosus），下列敘述何者正確？",
+    "options": {
+      "A": "腎絲球病變主要是因為對抗腎絲球基底膜（basement membrane）自體抗體的產生",
+      "B": "急性血管炎併有血管壁出現類纖維蛋白性壞死（fibrinoid necrosis）為典型的病變之一",
+      "C": "在皮膚組織裡，自體抗體最主要沉積在鱗狀上皮細胞膜周圍，這是引起水泡的主因",
+      "D": "紅色鐵絲環構造形成（wire-loop formation）是膜性病變型狼瘡腎絲球腎炎（membranous lupus glomerulonephritis）的典型變化之一"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 79,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "鏈球菌感染較少引起下列那一個病變？",
+    "options": {
+      "A": "大葉性肺炎",
+      "B": "壞死性腸炎",
+      "C": "猩紅熱",
+      "D": "腎小球腎炎"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 80,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "黃麴毒素（aflatoxin B1）之致癌機制，主要是造成下列何者之基因突變？",
+    "options": {
+      "A": "MYC",
+      "B": "RAS",
+      "C": "RB",
+      "D": "TP53"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 81,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "下列何者為最常於造血系統惡性腫瘤活化致癌基因之染色體核型改變（karyotypic change）？",
+    "options": {
+      "A": "Translocation",
+      "B": "Deletion",
+      "C": "Gene amplification",
+      "D": "Aneuploidy"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 82,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "一個過去身體健康的成年病人，因為呼吸困難求醫，醫師發現病人有明顯的胸水（pleural effusion），抽出的胸水呈現乳白色混濁樣，胸水經生化檢查分析含有高濃度的三酸甘油脂（triglyceride），下列何者是造成病人胸水的最可能原因？",
+    "options": {
+      "A": "心臟衰竭",
+      "B": "淋巴管阻塞",
+      "C": "肺梗塞（lung infarct）",
+      "D": "下腔靜脈阻塞"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 83,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "70歲女性，心臟超音波檢查發現二尖瓣出現鈣化的現象，心臟科醫師認為與退化有關，下列有關此病變的敘述何者錯誤？",
+    "options": {
+      "A": "鈣化最容易出現在二尖瓣連合處（commissure of mitral valve）",
+      "B": "通常沒有瓣膜功能的異常",
+      "C": "感染性心內膜炎（infectious endocarditis）的風險增加",
+      "D": "引起血栓（thrombus）的機會增加"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 84,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "有關慢性免疫性血小板減少性紫斑症（chronic immune thrombocytopenic purpura）的敘述，下列何者正確？",
+    "options": {
+      "A": "好發於60歲以上的老年女性",
+      "B": "病人血漿中有對抗血小板的自體抗體",
+      "C": "骨髓切片可見巨核細胞（megakaryocytes）顯著減少",
+      "D": "多數病人對醣皮質類固醇（glucocorticoid）治療缺乏反應"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 85,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "有關慢性淋巴球性白血病（chronic lymphocytic leukemia）的敘述，下列何者正確？",
+    "options": {
+      "A": "是一種T淋巴球的惡性腫瘤",
+      "B": "好發於20歲以下的兒童及年輕人",
+      "C": "典型腫瘤細胞會表現CD20、CD5及CD23",
+      "D": "大多數腫瘤會有BCL2基因的轉位，造成BCL2的過度表現"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 86,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "關於鼻咽上皮細胞癌的敘述，下列何者正確？",
+    "options": {
+      "A": "世界衛生組織依其組織形態，主要分為角化型鱗狀上皮細胞癌、非角化型上皮細胞癌、分化不良型腺癌三種",
+      "B": "利用EBER-1原位雜交法，偵測病理切片中腫瘤細胞核內含有Epstein-Barr病毒的DNA，是目前主要用來病理診斷鼻咽上皮細胞癌的主要工具之一",
+      "C": "一般認為病人預後與組織形態型別無關",
+      "D": "角化型鱗狀上皮細胞癌對放射治療的反應較非角化型的腫瘤差"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 87,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "破壞肺泡壁彈性纖維（elastin）而造成肺氣腫（emphysema）的蛋白酶主要來自：",
+    "options": {
+      "A": "嗜中性白血球",
+      "B": "淋巴球",
+      "C": "嗜酸性白血球",
+      "D": "嗜鹼性白血球"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 88,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "原發性纖毛運動障礙（primary ciliary dyskinesia）較常引起下列何種肺部疾病？",
+    "options": {
+      "A": "慢性支氣管炎",
+      "B": "支氣管擴張",
+      "C": "氣喘",
+      "D": "肺氣腫"
+    },
+    "answer": "#"
+  },
+  {
+    "題號": 89,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "下列那一種肝炎病毒為去氧核醣核酸病毒（DNA virus）？",
+    "options": {
+      "A": "A型肝炎病毒",
+      "B": "B型肝炎病毒",
+      "C": "C型肝炎病毒",
+      "D": "D型肝炎病毒"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 90,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "關於偽膜性腸炎（pseudomembranous colitis）的描述，下列何者錯誤？",
+    "options": {
+      "A": "與抗生素使用有關",
+      "B": "它通常是由艱難梭菌（Clostridium difficile）引起的",
+      "C": "在顯微鏡下，pseudomembrane由破壞的腺體、黏蛋白和許多嗜中性白血球組成",
+      "D": "通常需要細菌培養來做診斷"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 91,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "以下關於胃癌的敘述何者錯誤？",
+    "options": {
+      "A": "胃癌的發病率有地域上的差異，在日本的發生率比北美高",
+      "B": "家族性胃癌與腫瘤抑制基因CDH1的突變有密切相關",
+      "C": "瀰漫性型胃癌（diffuse gastric cancer）較腸型胃癌（intestinal type gastric cancer）和幽門桿菌有密切相關",
+      "D": "IL-1β，TNF，IL-10，IL-8和TLR4的基因變異與幽門桿菌胃炎相關的胃癌風險升高有關"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 92,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "外因性之皮質醇增多症，腎上腺最有可能的病理變化為：",
+    "options": {
+      "A": "皮質萎縮",
+      "B": "瀰漫性增生",
+      "C": "微結節性增生",
+      "D": "巨結節性增生"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 93,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "黃色肉芽腫性腎盂腎炎（xanthogranulomatous pyelonephritis）最常見的致病菌為：",
+    "options": {
+      "A": "變形桿菌（Proteus）",
+      "B": "糞鏈球菌（Streptococcus faecalis）",
+      "C": "克雷白氏桿菌（Klebsiella）",
+      "D": "金黃色葡萄球菌（Staphylococcus aureus）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 94,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "甲狀腺髓質癌（medullary carcinoma）其腫瘤細胞的來源為何？在腫瘤細胞之間常可見到何種變化？",
+    "options": {
+      "A": "甲狀腺C細胞（C-cell）；砂樣小體（psammoma bodies）",
+      "B": "甲狀腺C細胞（C-cell）；類澱粉沉積（amyloid deposits）",
+      "C": "甲狀腺濾泡細胞（follicular cell）；砂樣小體（psammoma bodies）",
+      "D": "甲狀腺濾泡細胞（follicular cell）；類澱粉沉積（amyloid deposits）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 95,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "下列有關卵巢性索間質瘤（sex cord stromal tumor）的敘述， 何者較不正確？",
+    "options": {
+      "A": "成人型顆粒細胞瘤（adult granulosa cell tumor）的臨床表現為良性腫瘤",
+      "B": "成人型顆粒細胞瘤（adult granulosa cell tumor）可能會分泌動情激素（estrogen），而與增生性乳房疾病（proliferative breast disease）、子宮內膜增生（endometrial hyperplasia）等相關",
+      "C": "支持間質細胞瘤（Sertoli-Leydig cell tumor）通常具有荷爾蒙功能性（functional），導致男性化（masculinization）或去女性化（defeminization）",
+      "D": "一半以上的支持間質細胞瘤（Sertoli-Leydig cell tumor）病例，其腫瘤細胞具有 DICER1 基因的突變"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 96,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "下列有關睪丸（testis）與附睪（epididymis）發炎的敘述， 何者較不正確？",
+    "options": {
+      "A": "附睪（epididymis）發炎比睪丸（testis）發炎更常見",
+      "B": "因結核病（tuberculosis）引起的發炎，最先起於睪丸",
+      "C": "因淋病（gonorrhea）引起的發炎，最先起於附睪",
+      "D": "因梅毒（syphilis）引起的發炎，最先起於睪丸"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 97,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "下列睪丸腫瘤，何者最常見於三歲以下的小孩？",
+    "options": {
+      "A": "精細胞瘤（seminoma）",
+      "B": "卵黃囊瘤（yolk sac tumor）",
+      "C": "絨毛癌（choriocarcinoma）",
+      "D": "胚胎癌（embryonal carcinoma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 98,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "下列有關骨肉瘤（osteosarcoma）的描述何者錯誤？",
+    "options": {
+      "A": "大多數的low-grade osteosarcoma因第12對染色體之12q13-q15 amplification，致使MYC蛋白過度表現",
+      "B": "原發性骨肉瘤（primary osteosarcoma）好發於10～20歲青少年",
+      "C": "李–佛美尼症候群（Li-Fraumeni syndrome）患者，因帶有germ-line TP53 gene mutations，故罹患骨肉瘤的發生率較一般人為高",
+      "D": "骨肉瘤之病理診斷主要依據是在切片上確切觀察到惡性細胞能產生類骨組織（osteoid）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 99,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "下列何者是阿茲海默症（Alzheimer disease）患者大腦主要的病理變化？①neuritic plaque ②neurofibrillary tangle ③nemaline rods ④Lewy body",
+    "options": {
+      "A": "①②",
+      "B": "①③",
+      "C": "②③",
+      "D": "②④"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 100,
+    "年度": 110,
+    "第幾次": 1,
+    "question": "下列何項描述較不可能在第一型單純疱疹病毒腦炎被觀察到？",
+    "options": {
+      "A": "Cowdry type A intranuclear inclusion",
+      "B": "perivascular lymphocytic cuff",
+      "C": "microglial nodule",
+      "D": "caseous necrotizing granuloma"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 76,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "炎症反應中所釋出的組織胺（histamine），與下列何者最有關？",
+    "options": {
+      "A": "白血球黏附至血管內皮細胞（endothelium）",
+      "B": "白血球在血管內皮細胞（endothelium）上滾動",
+      "C": "血管擴張及其滲透性增加",
+      "D": "血管收縮及促進血小板凝聚"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 77,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "細胞發生不可逆變化，與下列何種現象最有關？",
+    "options": {
+      "A": "細胞內鈉（sodium）增加",
+      "B": "細胞核碎裂（karyorrhexis）",
+      "C": "細胞內pH值降低",
+      "D": "細胞膜出現水泡（bleb）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 78,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "全血丙型干擾素檢驗（interferon-gamma release assay）可用來診斷潛伏肺結核菌感染。此檢驗主要運用的原理，是在高特異性的結核菌抗原刺激下，血液中的何種細胞被活化後產生丙型干擾素？",
+    "options": {
+      "A": "T淋巴細胞",
+      "B": "B淋巴細胞",
+      "C": "單核球",
+      "D": "嗜中性白血球"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 79,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "下列各項梅毒期別與病變的組合中，那一個組合正確？",
+    "options": {
+      "A": "第一期梅毒及下疳（chancre）",
+      "B": "第二期梅毒及脊髓癆（tabes dorsalis）",
+      "C": "第三期梅毒及Hutchinson齒",
+      "D": "先天性梅毒及扁平濕疣（condyloma latum）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 80,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "因為缺乏菸鹼素（niacin）所引起之臨床症狀，下列何者較不常見？",
+    "options": {
+      "A": "憩室炎（diverticulitis）",
+      "B": "失智（dementia）",
+      "C": "皮膚炎（dermatitis）",
+      "D": "腹瀉（diarrhea）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 81,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "一個病人表現黃疸、中風、意識模糊與腹痛，血液檢查顯示血小板低下與碎裂的紅血球（schistocytes），凝血酶原時間（prothrombin time）與部分凝血活酶時間（partial thromboplastin time）正常，經過血漿置換術（plasma exchange）之後，病人的病情獲得改善，下列何者是最可能的解釋？",
+    "options": {
+      "A": "血漿置換術可以清除攻擊ADAMTS13的抗體與補充ADAMTS13",
+      "B": "血漿置換術用以清除攻擊von Willebrand factor 的抗體與補充von Willebrand factor",
+      "C": "診斷是瀰漫性血管內凝血（disseminated intravascular coagulation）",
+      "D": "診斷是A型血友病（hemophilia A）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 82,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "一個長期抽菸的60歲男性，他有高血壓與糖尿病但沒有接受治療，某日他在吃飯時突然失去意識，30分鐘後救護人員到達時他已經死亡，法醫初步認為他是心臟猝死（sudden cardiac death），心臟猝死最常見的法醫檢查結果為何？",
+    "options": {
+      "A": "冠狀動脈疾病",
+      "B": "心室壁破裂",
+      "C": "心肌炎",
+      "D": "肺動脈高壓"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 83,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "下列何者最不常見腎臟細動脈玻璃樣增厚（hyaline thickening of the walls of arterioles）？",
+    "options": {
+      "A": "老年人",
+      "B": "長期高血壓病人",
+      "C": "糖尿病病人",
+      "D": "年輕病人患有腎上腺嗜鉻細胞瘤"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 84,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "下列何種維生素缺乏，最可能導致巨母紅血球性貧血（megaloblastic anemia）？",
+    "options": {
+      "A": "維生素B1",
+      "B": "維生素B2",
+      "C": "維生素B6",
+      "D": "維生素B12"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 85,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "40歲女性在懷孕末期時出現血小板數目低下（24×109/L，參考值156-369×109/L）的情形。病人在輸完血小板後立即接受剖腹生產，生產後有輕微溶血性貧血。病人於是接受血漿置換術，但情況並無改善。流式細胞儀分析（flow cytometry）顯示病人紅血球偵測不到CD55與CD59。下列何種基因異常最可能導致此病人的情況？",
+    "options": {
+      "A": "c-KIT",
+      "B": "PIGA",
+      "C": "",
+      "D": "JAK2"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 86,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "下列何者不是引起肺高血壓（pulmonary hypertension）的主要原因？",
+    "options": {
+      "A": "慢性阻塞性肺病",
+      "B": "慢性間質性肺病",
+      "C": "反覆發生肺部血栓栓塞（thromboembolism）",
+      "D": "心臟三尖瓣狹窄"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 87,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "下列有關間皮瘤（mesothelioma）的敘述，何者錯誤？",
+    "options": {
+      "A": "間皮瘤大多數發生在大量接觸石棉的人",
+      "B": "從開始接觸石棉到發生間皮瘤的潛伏期可以長達數十年",
+      "C": "Amphiboles比chrysotiles型的石棉更易造成間皮瘤",
+      "D": "大部分間皮瘤的腫瘤組織可發現石棉小體（asbestos body）的存在"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 88,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "肺部有一局部圓形病灶，中間形成空腔，且含有濃稠黃色液體，外圍有約0.6 mm厚的纖維壁。其診斷最可能為：",
+    "options": {
+      "A": "肺炎",
+      "B": "肺癌",
+      "C": "肺結核",
+      "D": "肺膿瘍"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 89,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "關於威爾森氏症（Wilson disease），下列何者錯誤？",
+    "options": {
+      "A": "通常發生於6歲到40歲之間",
+      "B": "血清ceruloplasmin下降",
+      "C": "常伴隨基底核病變",
+      "D": "ATP8A基因突變"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 90,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "關於遺傳性血鐵沉著症（hemochromatosis），下列何者錯誤？",
+    "options": {
+      "A": "可導致肝硬化及增加肝癌風險",
+      "B": "可造成糖尿病（diabetes）及心臟病變",
+      "C": "最常發病於兒童時期",
+      "D": "最常見為HFE基因變異"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 91,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "關於原發性膽汁肝硬化（primary biliary cirrhosis），下列何者錯誤？",
+    "options": {
+      "A": "其特徵為肝內膽管破壞，洋蔥皮樣的膽管纖維化（onion skin fibrosis）為其病理特徵",
+      "B": "病理切片下可見膽小管增生（ductular reaction）及膽管消失（loss of small bile ducts）",
+      "C": "常發生於中年婦女",
+      "D": "常伴隨Sjögren syndrome，甲狀腺炎（thyroiditis）及scleroderma"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 92,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "作為預測胰臟內分泌腫瘤良惡性的判定指標，以下何者最不準確？",
+    "options": {
+      "A": "腫瘤細胞的轉移",
+      "B": "血管的侵犯",
+      "C": "向周遭組織浸潤性生長",
+      "D": "腫瘤細胞呈現多形性"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 93,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "以下何者最不可能是糖尿病引起的腎病變？",
+    "options": {
+      "A": "結節性腎小球硬化症（nodular glomerulosclerosis）",
+      "B": "微細管間腎小球硬化症（intercapillary glomerulosclerosis）",
+      "C": "瀰漫性腎間質硬化症（diffuse mesangial sclerosis）",
+      "D": "特發性局灶節段性腎小球硬化症（idiopathic focal segmental glomerulosclerosis）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 94,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "依腎細胞癌最常見的侵犯及散播途徑，以下何者的管腔最不可能出現腫瘤細胞團塊？",
+    "options": {
+      "A": "腎靜脈",
+      "B": "腎動脈",
+      "C": "下腔靜脈",
+      "D": "右心房"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 95,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "下列有關外陰部鱗狀上皮癌（squamous cell carcinoma）的敘述， 何者較不正確？",
+    "options": {
+      "A": "主要可以分為兩群：角化性（keratinizing）與類基底性及疣狀（basaloid and warty）",
+      "B": "角化性鱗狀上皮癌較常發生在長期罹患硬化性苔蘚（lichen sclerosus）或鱗狀上皮增殖（squamous cell hyperplasia）的病人",
+      "C": "角化性鱗狀上皮癌的前驅病灶（precursor lesion）為分化型外陰上皮內瘤變（differentiated vulvar intraepithelial neoplasia），與高危險性人類乳突狀病毒（high-risk human papillomavirus）的感染高度相關",
+      "D": "類基底性及疣狀（basaloid and warty）鱗狀上皮癌發生的比例較角化性鱗狀上皮癌為低"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 96,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "下列有關胎盤滋養層細胞腫瘤（placental site trophoblastic tumor, PSTT）的敘述，何者較不正確？",
+    "options": {
+      "A": "為絨毛外（extravillous）中間滋養層細胞（intermediate trophoblastic cells）的腫瘤性增生（neoplastic proliferation）",
+      "B": "絨毛外（extravillous）中間滋養層細胞（intermediate trophoblastic cells）會分泌人類胎盤催乳素（human placental lactogen, HPL）",
+      "C": "這一類患者，血液中的人類絨毛膜性腺激素（human chorionic gonadotropin, hCG）會升高",
+      "D": "此腫瘤患者有50%以上的死亡率"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 97,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "30歲男性，最近三個月來覺得右側陰囊漸漸變大有下墜感，但不會有疼痛現象。圖為他睪丸切除手術標本的顯微鏡下變化。下列何者是最可能的診斷？",
+    "options": {
+      "A": "精細胞瘤（seminoma）",
+      "B": "畸胎瘤（teratoma）",
+      "C": "結核病（tuberculosis）",
+      "D": "卵黃囊瘤（yolk sac tumor）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 98,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "一名眼球癆（phthisis bulbi）的患者做了眼球摘除送病理檢查，則該病患應是：",
+    "options": {
+      "A": "眼球的末期病變",
+      "B": "先天性的小眼睛",
+      "C": "葡萄腫（staphyloma）",
+      "D": "巨大的眼球腫瘤"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 99,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "高血壓性腦出血的病人，腦部常見何種血管變化？",
+    "options": {
+      "A": "Charcot-Bouchard微小動脈瘤",
+      "B": "漿果樣動脈瘤（berry aneurysm）",
+      "C": "類澱粉血管病（amyloid angiopathy）",
+      "D": "中膜缺損（medial defect）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 100,
+    "年度": 110,
+    "第幾次": 2,
+    "question": "病人35歲，長有腦瘤（如圖），顯微鏡下觀察很像釉胚（enamel organ）長出的腫瘤。其診斷應是：",
+    "options": {
+      "A": "多形性神經芽細胞瘤（glioblastoma multiforme）",
+      "B": "聽神經瘤（acoustic neuroma）",
+      "C": "顱咽管瘤（craniopharyngioma）",
+      "D": "髓芽細胞瘤（medulloblastoma）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 76,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "產生interleukin-17的T淋巴球缺乏，此狀況與下列何種病灶最有關？",
+    "options": {
+      "A": "很多嗜中性白血球（neutrophils）浸潤的炎症",
+      "B": "尋常型天皰瘡（pemphigus vulgaris）",
+      "C": "類天皰瘡（bullous pemphigoid）",
+      "D": "冷膿瘍（cold abscess）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 77,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "胃食道逆流患者，於食道末端做切片檢查，發現良性柱狀上皮細胞，最可能為何種變化？",
+    "options": {
+      "A": "異生（dysplasia）",
+      "B": "增生（hyperplasia）",
+      "C": "轉移（metastasis）",
+      "D": "化生（metaplasia）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 78,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "下列何種染色體／基因異常變化，常見於大部分的Ewing sarcoma family tumors（ESFT），並可據此作為分子診斷ESFT？",
+    "options": {
+      "A": "trisomy 22",
+      "B": "(11;22)(q24;q12) translocation",
+      "C": "1p19q co-deletion",
+      "D": "N-MYC amplification"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 79,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "7歲小男孩平時健康，最近因不小心跌倒，右腿呈現瘀傷疼痛。X光檢查發現右側遠端股骨（distal femur）有一約0.3公分、偏離中軸且呈多葉狀（eccentric and lobulated）、放射線通透（radiolucency）之疑似腫瘤病灶。根據上述，該病人最可能罹患的疾病是：",
+    "options": {
+      "A": "fibrous cortical defect",
+      "B": "fibrous dysplasia",
+      "C": "giant cell tumor",
+      "D": "chondrosarcoma"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 80,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "下述疾病何者少見於腦外傷引起的後遺症？",
+    "options": {
+      "A": "精神疾病（psychiatric disorder）",
+      "B": "癲癇（epilepsy）",
+      "C": "水腦（hydrocephalus）",
+      "D": "脫髓鞘性病變（demyelinating disease）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 81,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "一般而言，下列那些腫瘤與DNA病毒有關，且被認為在愛滋病（acquired immune deficiency syndrome）患者比在正常人容易得到？①腦部原發性B細胞淋巴癌 ②子宮頸鱗狀上皮細胞癌 ③卡波西氏肉瘤（Kaposi sarcoma）",
+    "options": {
+      "A": "①②③",
+      "B": "僅①②",
+      "C": "僅②③",
+      "D": "僅①③"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 82,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "關於鼻腦白黴菌病（rhinocerebral mucormycosis）的敘述，下列何者正確？",
+    "options": {
+      "A": "病菌產生外毒素傷害眼眶及腦部組織，是其快速造成這些感染部位壞死的最主要原因",
+      "B": "病菌的典型型態是菌絲體分節清楚，銳角分枝及較固定的寬度",
+      "C": "病菌屬雙態性真菌（dimorphic fungi），所以檢體送培養時需要特別告知實驗室需要延長培養時間",
+      "D": "易感因素（predisposing factors）包括嗜中性粒細胞低下（neutropenia）、使用類固醇與糖尿病等"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 83,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "遺傳性的視網膜母細胞瘤（familial retinoblastoma）之病患，最常繼發下列那一種惡性腫瘤？",
+    "options": {
+      "A": "Leukemia",
+      "B": "Lymphoma",
+      "C": "Osteosarcoma",
+      "D": "Hepatoblastoma"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 84,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "最常見的全身性血栓栓塞（systemic thromboembolism）栓子來源為：",
+    "options": {
+      "A": "下肢深層靜脈",
+      "B": "左心室壁梗塞處",
+      "C": "主動脈動脈瘤",
+      "D": "下肢淺層靜脈"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 85,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "10歲男童，三週前發生咽炎，實驗室檢查發現anti-streptolysin O的效價升高，臨床表現為發燒、心臟炎、關節痛及四肢有皮下結節；在此病患的心臟病灶中的那一種細胞對此病的診斷最具特異性？",
+    "options": {
+      "A": "Anitschkow細胞",
+      "B": "Reed-Sternberg細胞",
+      "C": "Cajal細胞",
+      "D": "Purkinje細胞"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 86,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "48歲男性因進展性心臟衰竭接受換心手術，切除下來的心臟呈擴大狀且重達600公克，病理檢查發現心臟四個腔室都擴大，但兩側心室並無特別肥厚，冠狀動脈亦無狹窄。下列病理組織變化中，何者最不常見於此類心臟中？",
+    "options": {
+      "A": "myocyte hypertrophy",
+      "B": "interstitial fibrosis",
+      "C": "small subendocardial scars",
+      "D": "myofiber disarray"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 87,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "有關濾泡性淋巴瘤（follicular lymphoma）的敘述，下列何者正確？",
+    "options": {
+      "A": "是一種自然殺手細胞（natural killer cell）淋巴瘤",
+      "B": "典型腫瘤細胞會表現CD20、CD5及cyclin D1",
+      "C": "大多數腫瘤會有BCL2基因的轉位，造成BCL2的過度表現",
+      "D": "組成細胞為副免疫母細胞（paraimmunoblasts）及前淋巴細胞（prolymphocytes）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 88,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "有關缺鐵性貧血（iron deficiency anemia）的敘述，下列何者正確？",
+    "options": {
+      "A": "紅血球會比正常小且顏色較淺",
+      "B": "較常發生於男性",
+      "C": "在西方國家，最常見的原因是飲食攝取不足",
+      "D": "血漿的總鐵結合力（total iron-binding capacity）會降低"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 89,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "下列何者為雙側胸膜積水（hydrothorax）最常見的原因？",
+    "options": {
+      "A": "肺癌（lung cancer）",
+      "B": "鬱血性心衰竭（congestive heart failure）",
+      "C": "惡性間皮瘤（malignant mesothelioma）",
+      "D": "呼吸窘迫（respiratory distress）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 90,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "下列有關小細胞肺癌（small cell carcinoma）的敘述何者錯誤？",
+    "options": {
+      "A": "與抽菸關聯性不大",
+      "B": "通常發生於肺部中央位置",
+      "C": "常表現神經內分泌標記",
+      "D": "常有縱隔腔淋巴結轉移"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 91,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "下列何者為引起急性呼吸窘迫症候群（ARDS）最常見的原因？",
+    "options": {
+      "A": "外物吸入（aspiration）",
+      "B": "外傷（trauma）",
+      "C": "輸血反應（transfusion reaction）",
+      "D": "肺炎（pneumonia）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 92,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "何種胃部疾病和幽門桿菌（H. pylori）最無直接關係？",
+    "options": {
+      "A": "胃底腺息肉（Fundic gland polyp）",
+      "B": "慢性消化性潰瘍（chronic peptic ulcer）",
+      "C": "胃上皮癌（gastric carcinoma）",
+      "D": "胃淋巴瘤（gastric MALT lymphoma）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 93,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "關於炎症性腸病（inflammatory bowel disease）之敘述，何者錯誤？",
+    "options": {
+      "A": "克隆氏症（Crohn disease）又稱區域性腸炎（regional enteritis）",
+      "B": "克隆氏症（Crohn disease）為全壁性發炎",
+      "C": "跳躍式病灶（skip lesion）為潰瘍性結腸炎（ulcerative colitis）的特徵",
+      "D": "潰瘍性結腸炎（ulcerative colitis）病人罹患大腸癌的機會比正常人高"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 94,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "酗酒的40歲男性，酒後因上腹痛且反射到後背來急診，病人血清消化酶（amylase）及脂肪酶（lipase）升高，且有低血鈣情形，則病人最有可能出現下列何種病理變化？",
+    "options": {
+      "A": "胰臟出血性壞死",
+      "B": "心臟廣泛性壞死",
+      "C": "胃潰瘍穿孔",
+      "D": "肝臟大塊性壞死"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 95,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "以下何者補體系統成分在緻密物沉積病（dense deposit disease）病人的血清中最有可能是維持在正常值？",
+    "options": {
+      "A": "補體C3（complement C3）",
+      "B": "補體C1（complement C1）",
+      "C": "B因子（factor B）",
+      "D": "血清滅菌蛋白（properdin）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 96,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "典型溶血性尿毒症（typical hemolytic-uremic syndrome）最常見之致病菌為：",
+    "options": {
+      "A": "A群貝他溶血型鏈球菌（Group A β hemolytic Streptococci）",
+      "B": "大腸桿菌O157:H7型（E. coli O157:H7）",
+      "C": "b型嗜血流行性感冒桿菌（Hemophilus influenza b）",
+      "D": "草綠色鏈球菌（Streptococcus viridans）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 97,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "副甲狀腺瘤（parathyroid adenoma）與副甲狀腺癌（parathyroid carcinoma）通常並不好區別，目前認為診斷副甲狀腺癌最可靠的條件是：",
+    "options": {
+      "A": "腫瘤轉移（tumor metastasis）",
+      "B": "頻繁的有絲分裂（frequent mitosis）",
+      "C": "大核仁（large nucleoli）",
+      "D": "腫瘤壞死（tumor necrosis）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 98,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "有關乳房疾病，下列何者正確？",
+    "options": {
+      "A": "非增生性的乳房囊腫（non-proliferative breast cyst），會增加2.5倍罹患乳癌的機率",
+      "B": "非典型乳管增生（atypical ductal hyperplasia）者，日後發生乳癌機率約為一般女性的4～5倍",
+      "C": "臺灣國民健康署使用超音波（sonography）作為乳癌主要的篩檢工具",
+      "D": "纖維腺瘤（fibroadenoma）常合併乳頭分泌物（nipple discharge）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 99,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "下列有關子宮頸癌（cervical carcinoma）的敘述，何者較不正確？",
+    "options": {
+      "A": "最常見的組織學分類為鱗狀上皮癌（squamous cell carcinoma）",
+      "B": "第二常見的組織學分類為腺癌（adenocarcinoma）",
+      "C": "部分子宮頸癌與高危險性人類乳突狀病毒（high-risk human papillomavirus）的感染有關，包括腺鱗癌（adenosquamous carcinoma）與神經內分泌癌（neuroendocrine carcinoma）",
+      "D": "一般而言腺鱗癌（adenosquamous carcinoma）與神經內分泌癌（neuroendocrine carcinoma）從原位癌發展到侵襲癌的時間較長於鱗狀上皮癌（squamous cell carcinoma）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 100,
+    "年度": 111,
+    "第幾次": 1,
+    "question": "72歲婦女因下腹脹痛來門診。超音波顯示，左右兩側骨盆腔有實質性卵巢腫瘤，其顯微鏡下腫瘤特徵如附圖，則該卵巢有可能是下列何種診斷？",
+    "options": {
+      "A": "類癌（carcinoid）",
+      "B": "克魯肯氏瘤（Krukenberg tumor）",
+      "C": "布雷納氏瘤（Brenner tumor）",
+      "D": "甲狀腺腫狀腺瘤（struma ovarii）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 76,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "下列何者之典型病理變化，最不可能是肉芽腫性發炎（granulomatous inflammation）？",
+    "options": {
+      "A": "痳瘋（leprosy）",
+      "B": "類肉瘤（sarcoidosis）",
+      "C": "潰瘍性大腸炎（ulcerative colitis）",
+      "D": "結核（tuberculosis）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 77,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "下列何者不是化生（metaplasia）的例子？",
+    "options": {
+      "A": "抽菸刺激下，支氣管上皮被鱗狀上皮取代",
+      "B": "胃食道逆流時，食道上皮被柱狀上皮取代",
+      "C": "膀胱感染時，膀胱上皮被移行上皮取代",
+      "D": "酸性環境下，子宮內頸上皮被鱗狀上皮取代"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 78,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "關於體染色體遺傳疾病（autosomal inheritable disease）的敘述，下列何者正確？",
+    "options": {
+      "A": "酵素蛋白缺陷所引起的遺傳性疾病以顯性遺傳疾病（autosomal dominant disease）為主",
+      "B": "家族性高膽固醇血症（familial hypercholesterolemia）為 LDL 蛋白結構異常所致，以顯性遺傳疾病為主",
+      "C": "高雪氏症（Gaucher disease）以隱性（recessive）遺傳為主，為葡萄糖腦苷脂（glucocerebroside）接受器（receptor）蛋白結構異常所致",
+      "D": "埃勒斯–丹洛斯症候群（Ehlers-Danlos syndromes）因是纖維性膠原蛋白（fibrillar collagen）結構或合成異常所致，所以顯性或隱性遺傳兼具"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 79,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "有關傳染性單核白血球增多症（infectious mononucleosis）的敘述，下列何者正確？",
+    "options": {
+      "A": "巨細胞病毒（cytomegalovirus）也會造成類似臨床表現與出現非典型淋巴細胞",
+      "B": "引起的淋巴濾泡（lymphoid follicle）大量增生是造成肝脾腫大的主因",
+      "C": "t(8;14)染色體轉位主要可在增生的 T 淋巴細胞中出現",
+      "D": "引起的竇組織細胞增生症（sinus histiocytosis）是造成淋巴結腫大的主因"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 80,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "暴露於下列物質，何者最不易引起周邊及中樞神經的病變？",
+    "options": {
+      "A": "Acrylamide",
+      "B": "Ketones",
+      "C": "Formaldehyde",
+      "D": "Mercury"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 81,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "下列基因的變異，何者與遺傳性非息肉病大腸癌（hereditary nonpolyposis colon cancer）較無關？",
+    "options": {
+      "A": "MSH2",
+      "B": "MSH6",
+      "C": "APC",
+      "D": "MLH1"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 82,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "一個過去身體健康的 25 歲女性，懷孕在某醫院婦產科定期接受產前檢查，檢查結果都正常，她後來自然產生出一個足月男嬰，但在生產後她很快出現呼吸急促、心跳加快、發紺（cyanosis）與血壓下降，接著出現痙攣與失去意識，請問下列情形是最可能出現在此病人的情況？",
+    "options": {
+      "A": "肺動脈血管管腔出現空氣阻塞",
+      "B": "肺動脈血管管腔出現骨髓（bone marrow）",
+      "C": "肺動脈血管管腔中出現鱗狀上皮細胞（squamous epithelial cells）",
+      "D": ""
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 83,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "60 歲男性因為心肌梗塞（myocardial infarct）引起的心肌破裂而死亡，心肌破裂的最常見時間與當時的顯微鏡下變化為何？",
+    "options": {
+      "A": "心肌梗塞後 1 天，心肌細胞出現凝固性壞死（coagulation necrosis）",
+      "B": "心肌梗塞後 3 天，心肌細胞出現凝固性壞死與嗜中性白血球（neutrophil）浸潤",
+      "C": "心肌梗塞後 7 天，心肌細胞出現凝固性壞死與巨噬細胞（macrophage）浸潤",
+      "D": "心肌梗塞後 10 天，肉芽組織（granulation tissue）形成"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 84,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "下列何種出血性疾病，最可能造成微血管病性溶血性貧血（microangiopathic hemolytic anemia）？",
+    "options": {
+      "A": "血栓性血小板減少性紫斑症（thrombotic thrombocytopenic purpura）",
+      "B": "馮維勒布蘭德病（von Willebrand disease）",
+      "C": "慢性免疫性血小板減少性紫斑症（chronic immune thrombocytopenic purpura）",
+      "D": "急性免疫性血小板減少性紫斑症（acute immune thrombocytopenic purpura）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 85,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "12 歲男孩因腹痛求診，影像檢查發現迴盲區（ileocecal region）腫瘤導致腸套疊，腫瘤切片顯示瀰漫浸潤的中等大小淋巴球，且有散布的巨噬細胞形成星空樣模式（starry-sky pattern），腫瘤細胞表現 CD20 及 CD10，但並未表現 BCL2 及 TdT。此種腫瘤最常有下列何種基因轉位？",
+    "options": {
+      "A": "MYC",
+      "B": "ALK",
+      "C": "BCL2",
+      "D": "BCL6"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 86,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "下列有關肺水腫之敘述何者錯誤？",
+    "options": {
+      "A": "可見到源自淋巴球之心衰竭細胞",
+      "B": "可由肺泡壁微血管損傷引起",
+      "C": "可由肺部靜水壓升高引起",
+      "D": "可造成肺部感染"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 87,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "有關特發性肺纖維化（idiopathic pulmonary fibrosis）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "常出現於雙側肺葉",
+      "B": "男性比女性常見",
+      "C": "患者以小於 50 歲的年輕人居多",
+      "D": "後期可見蜂巢樣纖維化"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 88,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "60 歲女性有抽菸史，主訴咳嗽、胸痛及體重下降。胸部 X-ray 顯示，有一陰影，組織圖如下，其最可能的診斷為：",
+    "options": {
+      "A": "小細胞癌",
+      "B": "腺癌",
+      "C": "鱗狀上皮細胞癌",
+      "D": "分化不良癌"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 89,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "承上題，其癌細胞最有可能轉移至何處？",
+    "options": {
+      "A": "皮膚",
+      "B": "心臟",
+      "C": "肝臟",
+      "D": "脾臟"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 90,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "關於 Alpha1-antitrypsin deficiency 的敘述，下列何者錯誤？",
+    "options": {
+      "A": "肝細胞含有 periodic acid-Schiff（PAS）染色陽性的圓形細胞質球狀內含物（globular inclusions），此球狀內含物可被澱粉酶分解（PAS-positive and diastase-sensitive）",
+      "B": "最常見的突變是 PiZ，PiZZ homozygotes 的血中的 Alpha1-antitrypsin 僅為正常值的 10％",
+      "C": "可能以新生兒肝炎來表現，可能發展為膽汁淤積，壞死，慢性肝炎",
+      "D": "與肺氣腫相關"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 91,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "以下何者與大腸癌發生的風險最無關？",
+    "options": {
+      "A": "絨毛狀腺瘤（villous adenoma）",
+      "B": "增生性息肉（hyperplastic polyp）",
+      "C": "家族性腺瘤樣息肉症（familial adenomatous polyposis）",
+      "D": "青少年息肉症候群（juvenile polyposis syndrome）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 92,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "下列何者是最常見的唾液腺良性腫瘤？",
+    "options": {
+      "A": "多形性腺瘤（pleomorphic adenoma）",
+      "B": "Warthin 腫瘤（Warthin tumor）",
+      "C": "嗜酸細胞瘤（oncocytoma）",
+      "D": "基底細胞腺瘤（basal cell adenoma）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 93,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "40 歲女性，十年前因經常頭痛而自行購買含 phenacetin 複方止痛藥，且常合併服用阿斯匹靈（aspirin），目前腎功能下降，病理巨觀發現腎乳突脫落，有關此病患的相關病理變化中，下列何者最不正確？",
+    "options": {
+      "A": "病灶常見鈣化",
+      "B": "腎乳突壞死",
+      "C": "會引起慢性腎小管間質性腎炎",
+      "D": "超過 90%的病患合併有尿路感染"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 94,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "65 歲男病人呈現嚴重的蛋白尿。腎臟切片檢查顯示腎絲球病變中並無免疫複合體或補體沉積。根據本題圖示及病人臨床表現，下列腎病中何者是最可能的病理診斷？",
+    "options": {
+      "A": "membranous nephropathy",
+      "B": "diabetic glomerulopathy",
+      "C": "minimal change nephropathy",
+      "D": "IgA nephropathy"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 95,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "下列何種睪丸的情況，可出現典型的橡皮腫（gumma）？",
+    "options": {
+      "A": "輸精管結紮",
+      "B": "梅毒",
+      "C": "結核病",
+      "D": "淋病"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 96,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "下列有關尖狀濕疣（condyloma acuminatum）的敘述，何者較不正確？",
+    "options": {
+      "A": "為一良性（benign）疾病，且不被認為是癌前期（precancerous）病灶",
+      "B": "與人類乳突狀病毒（human papillomavirus）的感染有關",
+      "C": "臨床上，其病灶可以是單個，但多個病灶的情形較為常見",
+      "D": "在病灶上皮的基底層部位，會出現所謂的空泡狀異常（koilocytic atypia）"
+    },
+    "answer": "#"
+  },
+  {
+    "題號": 97,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "下列何種乳癌的預後最差？",
+    "options": {
+      "A": "",
+      "B": "侵襲性小葉癌（invasive lobular carcinoma）",
+      "C": "管狀癌（tubular carcinoma）",
+      "D": "黏液癌（mucinous carcinoma）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 98,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "16 歲女生最近在右小腿靠近膝關節處有腫脹及疼痛感。電腦斷層掃描發現在右脛骨（tibia）上端有一疑似腫瘤病灶，其具有膨脹性溶解病變（expansile lytic lesion）且外覆一層薄的骨密質（thin shell of reactive bone）。病理切片檢查顯示其組成包括含有血之囊腫（blood-filled cystic space）混雜著纖維組織、fibroblast、woven bone 和類似蝕骨細胞之巨細胞（osteoclast-like giant cell）。根據上述，該病人最可能罹患的疾病是：",
+    "options": {
+      "A": "海綿狀血管瘤（cavernous hemangioma）",
+      "B": "骨母細胞瘤（osteoblastoma）",
+      "C": "骨巨細胞瘤（giant cell tumor of bone）",
+      "D": "動脈瘤樣骨性囊腫（aneurysmal bone cyst）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 99,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "包涵體肌炎（inclusion body myositis）患者之肌肉切片在 Gomori trichrome stain 下觀察到的包涵體（cytoplasmic inclusion）稱為：",
+    "options": {
+      "A": "Hirano body",
+      "B": "rimmed vacuole",
+      "C": "Negri body",
+      "D": "nemaline rod"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 100,
+    "年度": 111,
+    "第幾次": 2,
+    "question": "眼睛的惡性黑色素瘤（Malignant melanoma）發生於下列何處時，通常會有較慢的發展進程（indolent course）？",
+    "options": {
+      "A": "虹膜（iris）",
+      "B": "視網膜（retina）",
+      "C": "脈絡膜（choroid）",
+      "D": "睫狀體（ciliary body）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 76,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "傷口有過多膠原蛋白（collagen）堆積，生長超出原始傷口的邊界，並且不消退，稱為：",
+    "options": {
+      "A": "蟹足腫（keloid）",
+      "B": "肥厚疤（hypertrophic scar）",
+      "C": "肉芽腫（granuloma）",
+      "D": "肉芽組織（granulation tissue）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 77,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "下列何項器官或組織的再生能力最強？",
+    "options": {
+      "A": "肺",
+      "B": "肌肉",
+      "C": "胰",
+      "D": "肝"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 78,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "關於唐氏症候群（Down syndrome）的敘述，下列何者最適當？",
+    "options": {
+      "A": "",
+      "B": "95%的個案是由於細胞多出的一條第21號染色體轉位到第14號染色體所致",
+      "C": "可利用螢光原位雜交法（fluorescence in situ hybridization）診斷唐氏症",
+      "D": "異常細胞鑲嵌（mosaicism）型唐氏症是由於第21號染色體的短臂鑲嵌到其它染色體內所致"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 79,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "關於過敏性疾病的敘述，下列何者最適當？",
+    "options": {
+      "A": "鼻瘜肉（nasal polyp）一般被認為與IgE媒介所引發的外因性過敏性鼻炎或鼻竇炎（atopic allergic rhinitis or sinusitis）有關",
+      "B": "運動引發的過敏一般被認為主要是與TH2細胞的過度反應有關",
+      "C": "發炎性腸道疾病（inflammatory bowel disease）一般被認為主要與TH2細胞的過度反應有關",
+      "D": "全身過敏性反應（systemic anaphylaxis）的臨床症狀一般被認為與被活化的肥大細胞（mast cells）釋放一些引起血管活化調節物質有關"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 80,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "下列關於胃的原發性黏膜相關淋巴瘤（mucosa-associated lymphoid tissue lymphoma, MALToma）之敘述，何者最不適當？",
+    "options": {
+      "A": "屬於B-cell lymphoma",
+      "B": "與其關係最密切之微生物為Helicobacter pylori",
+      "C": "cytotoxin-associated gene A（CagA）為其相關微生物之重要致病基因",
+      "D": "當其發生轉移時，最常出現之染色體變化為t(11;14)"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 81,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "下列造成腹水（ascites）的原因中，何種原因的積液所含的蛋白質濃度最高？",
+    "options": {
+      "A": "細菌性腹膜炎（peritonitis）",
+      "B": "腎病症候群（nephrotic syndrome）",
+      "C": "肝硬化（liver cirrhosis）",
+      "D": "營養不良（malnutrition）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 82,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "下列疾病容易引起血栓（thrombosis），但何者除外？",
+    "options": {
+      "A": "肝素引起血小板低下（heparin-induced thrombocytopenia）",
+      "B": "抗磷脂質抗體症候群（antiphospholipid antibody syndrome）",
+      "C": "Protein S缺乏（protein S deficiency）",
+      "D": "Von Willebrand disease"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 83,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "72歲男性呈現心臟衰竭，右心壁肥厚及左心肥大，心肌切片檢查顯示在心肌間質有細絲狀物質沉積，此絲狀物直徑約10～12微米並呈無分支狀結構。下列何者最符合上述的病理變化？",
+    "options": {
+      "A": "endocardial fibroelastosis",
+      "B": "ischemic interstitial fibrosis",
+      "C": "transthyretin amyloidosis",
+      "D": "postirradiation fibrosis"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 84,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "45歲女性，鼻腔腫瘤切片發現中等大小異常淋巴球浸潤，且有明顯的血管侵犯（angioinvasion）及組織壞死，免疫染色顯示腫瘤細胞表現CD56，此腫瘤最可能與何種病毒有關？",
+    "options": {
+      "A": "人類嗜T淋巴球病毒第一型（human T-lymphotropic virus 1）",
+      "B": "Epstein-Barr病毒（Epstein-Barr virus）",
+      "C": "人類免疫缺乏病毒（human immunodeficiency virus）",
+      "D": "人類疱疹病毒第八型（human herpesvirus 8）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 85,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "6歲男童兩週來出現面色蒼白、精神不佳。病童血液中紅血球、血小板、白血球數目減少。男童之前曾有類似感冒症狀，也服用過抗生素與退燒藥。骨髓切片檢查發現骨髓中約80%～90%都是脂肪組織，造血母細胞（blast cells）數目並未明顯增加。造血細胞形態大致正常。下列有關病人的敘述，何者最適當？",
+    "options": {
+      "A": "最常見的感染性病因是黴漿菌感染",
+      "B": "此類疾病以原發性（idiopathic）引起的最多",
+      "C": "此類病人大多會因為脾臟出現造血功能而腫大",
+      "D": "化療藥物中以taxol類為最常見病因"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 86,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "有關肺的鱗狀細胞癌（squamous cell carcinoma）的敘述，下列何者最適當？",
+    "options": {
+      "A": "女性比男性多",
+      "B": "通常發生於肺部周邊區域",
+      "C": "EGFR有高度表現且常合併突變",
+      "D": "相對於其它組織形態，最常出現高鈣血症"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 87,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "α1-抗胰蛋白酶缺乏症（α1-antitrypsin deficiency）造成之肺氣腫類型多屬於下列何者？",
+    "options": {
+      "A": "全腺泡型肺氣腫（panacinar emphysema）",
+      "B": "中心型肺氣腫（centriacinar emphysema）",
+      "C": "遠端腺泡型肺氣腫（distal acinar emphysema）",
+      "D": "不規則型肺氣腫（irregular emphysema）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 88,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "肺泡玻璃樣膜（hyaline membranes of alveoli）與下列何種病變最為相關？",
+    "options": {
+      "A": "慢性支氣管炎（chronic bronchitis）",
+      "B": "氣喘（asthma）",
+      "C": "急性呼吸窘迫症候群（ARDS）",
+      "D": "肺氣腫（emphysema）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 89,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "下列關於胰臟癌的敘述，何者最不適當？",
+    "options": {
+      "A": "腺泡細胞癌（acinar cell carcinoma）是最常見的胰臟癌類型",
+      "B": "胰腺癌（ductal carcinoma）預後不良",
+      "C": "胰腺癌（ductal carcinoma）經常發現CDKN2A inactivation和KRAS突變",
+      "D": "大部分的胰腺癌（ductal carcinoma）發生在胰臟頭部（pancreatic head）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 90,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "下列何處的鱗狀細胞癌（squamous cell carcinoma）與人類乳突瘤病毒（human papillomavirus）最為相關？",
+    "options": {
+      "A": "牙齦（gingiva）",
+      "B": "頰黏膜（buccal mucosa）",
+      "C": "口咽（oropharynx）",
+      "D": "食道（esophagus）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 91,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "有關肝臟的威爾森氏病（Wilson disease），下列何種生化檢查的診斷價值最低？",
+    "options": {
+      "A": "血清的銅離子濃度",
+      "B": "血清的銅藍蛋白（ceruloplasmin）濃度",
+      "C": "肝臟的銅離子濃度",
+      "D": "尿液的銅離子濃度"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 92,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "下列何種炎症細胞最不可能出現在硬化性後腹腔纖維化（sclerosing retroperitoneal fibrosis）的病灶中？",
+    "options": {
+      "A": "淋巴球",
+      "B": "IgG4陽性漿細胞",
+      "C": "嗜酸性白血球",
+      "D": "嗜中性白血球"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 93,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "有關腎臟微小病變（minimal-change disease）之特徵，下列敘述何者最適當？",
+    "options": {
+      "A": "最主要的病理變化為腎小球中的壁上皮細胞（parietal epithelial cells）的足突消失",
+      "B": "腎小球的基底膜變厚",
+      "C": "近側腎小管上皮有脂質沉積",
+      "D": "在人類此疾病已證實與血管新生因子（angiopoietin-like 1）有密切關係"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 94,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "最常造成原發性副甲狀腺功能亢進症（primary hyperparathyroidism）的原因是：",
+    "options": {
+      "A": "primary hyperplasia",
+      "B": "parathyroid carcinoma",
+      "C": "multiple parathyroid adenomas",
+      "D": "solitary parathyroid adenoma"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 95,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "下列有關人類乳突狀病毒（human papillomavirus）與子宮頸癌或鱗狀前驅病灶（squamous cervical precursor lesions）的敘述，何者最不適當？",
+    "options": {
+      "A": "大部分的鱗狀上皮內病灶（squamous intraepithelial lesion）不論是低度（low-grade）或高度（high-grade）都與人類乳突狀病毒的感染有關",
+      "B": "大部分的低度鱗狀上皮內病灶與低危險性人類乳突狀病毒（low-risk human papillomavirus）的感染有關",
+      "C": "大部分的高度鱗狀上皮內病灶與高危險性人類乳突狀病毒（high-risk human papillomavirus）的感染有關",
+      "D": "在低度鱗狀上皮內病灶中，人類乳突狀病毒的病毒量，在表面成熟上皮較基底層上皮為高"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 96,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "卵巢腫瘤中，最常見的是源自於穆勒氏上皮（Müllerian epithelium）的上皮性腫瘤，下列有關卵巢上皮性腫瘤的敘述， 何者最不適當？",
+    "options": {
+      "A": "主要的組織型包括漿液性（serous）、黏液性（mucinous）與子宮內膜樣性（endometrioid）",
+      "B": "卵巢漿液性癌（serous carcinoma）為最常見的卵巢上皮癌，兩側卵巢皆被侵犯的比例很低 ，低於20%",
+      "C": "卵巢漿液性癌（serous carcinoma）可以分為高惡性度（high-grade）與低惡性度（low-grade）",
+      "D": "卵巢上皮癌中，第二常見組織型為子宮內膜樣癌（endometrioid carcinoma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 97,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "根據卵巢上皮癌的發生機轉，可區分為第一型（type I）與第二型（type II）腫瘤，下列何者為第二型（type II）腫瘤？",
+    "options": {
+      "A": "子宮內膜樣癌（endometrioid carcinoma）",
+      "B": "亮細胞癌（clear cell carcinoma）",
+      "C": "低惡性度漿液性癌（low-grade serous carcinoma）",
+      "D": "高惡性度漿液性癌（high-grade serous carcinoma）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 98,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "非創傷性蜘蛛網膜下出血（subarachnoid hemorrhage）最常見之成因是：",
+    "options": {
+      "A": "arteriovenous malformation血管破裂",
+      "B": "cavernous hemangioma血管破裂",
+      "C": "arteriolar sclerosis血管破裂",
+      "D": "saccular aneurysm in the circle of Willis血管破裂"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 99,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "庫賈氏症（Creutzfeldt-Jakob disease）患者大腦主要的病理變化是：",
+    "options": {
+      "A": "demyelinated plaque",
+      "B": "ring hemorrhage",
+      "C": "TH17 T cell infiltrate",
+      "D": "spongiform encephalopathy"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 100,
+    "年度": 112,
+    "第幾次": 1,
+    "question": "14歲男童於橋腦（pons）處有一經病理切片診斷為diffuse glioma, WHO grade II。針對brain stem glioma往往具有某特殊的基因變化，現已被歸屬成另外單獨類別之glioma，此特殊的基因變化是：",
+    "options": {
+      "A": "ATRX loss",
+      "B": "H3.1 or H3.3 K27M mutation",
+      "C": "MGMT hypermethylation",
+      "D": "1p/19q co-deletion"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 76,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "大腦梗塞數月後，電腦斷層出現4公分囊性（cystic）區域，該處最可能發生何種病理變化？",
+    "options": {
+      "A": "液化壞死（liquefactive necrosis）",
+      "B": "凝固性壞死（coagulative necrosis）",
+      "C": "乾酪性壞死（caseous necrosis）",
+      "D": "凋亡（apoptosis）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 77,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "組織纖維化（fibrosis），與下列何者最有關？",
+    "options": {
+      "A": "transforming growth factor-β",
+      "B": "interleukin-1",
+      "C": "selectin",
+      "D": "histamine"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 78,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "下列病毒中，何者引起的主要臨床表徵是因其會造成潛伏感染（latent infection），感染並潛藏在感覺神經元細胞內所致？①單純疱疹病毒（Herpes simplex virus） ②脊髓灰質炎病毒（Poliovirus） ③水痘帶狀皰疹病毒（Varicella zoster virus）",
+    "options": {
+      "A": "①②③",
+      "B": "僅①②",
+      "C": "僅②③",
+      "D": "僅①③"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 79,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "象腿症（elephantiasis）最可能出現於：",
+    "options": {
+      "A": "猩紅熱（scarlet fever）",
+      "B": "弓漿蟲病（toxoplasmosis）",
+      "C": "膿痂疹（impetigo）",
+      "D": "絲蟲病（filariasis）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 80,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "下列惡性腫瘤之細胞形態特徵，何者最不可能出現在良性細胞？",
+    "options": {
+      "A": "Atypical mitoses",
+      "B": "High nuclear/cytoplasmic ratio",
+      "C": "Hyperchromasia",
+      "D": "Pleomorphism"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 81,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "在心肌病變（cardiomyopathy）以心臟收縮功能障礙（systolic dysfunction）為主要致病機制的疾病中，下列何者是可能的致病原因？①酒精成癮 ②doxorubicin 治療 ③TTN基因突變 ④類澱粉沉積（amyloidosis）",
+    "options": {
+      "A": "僅①②",
+      "B": "①②③",
+      "C": "僅②③",
+      "D": "僅③④"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 82,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "下列何種疾病通常會增加部分凝血活酶時間（partial thromboplastin time）？①A型血友病（Hemophilia A） ②栓塞性血小板低下紫斑（Thrombotic thrombocytopenic purpura） ③Von Willebrand disease ④Glanzmann thrombasthenia",
+    "options": {
+      "A": "僅①②",
+      "B": "僅①③",
+      "C": "僅①④",
+      "D": "①③④"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 83,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "胸腺的淋巴濾泡增生（thymic follicular hyperplasia）最常見於何種疾病？",
+    "options": {
+      "A": "類風濕性關節炎（rheumatoid arthritis）",
+      "B": "重症肌無力（myasthenia gravis）",
+      "C": "葛瑞夫茲病（Graves disease）",
+      "D": "硬皮症（scleroderma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 84,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "下列何種腫瘤，最常併發純紅血球再生不良（pure red cell aplasia）？",
+    "options": {
+      "A": "畸胎瘤（teratoma）",
+      "B": "胸腺瘤（thymoma）",
+      "C": "腦膜瘤（meningioma）",
+      "D": "生殖細胞瘤（germinoma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 85,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "下列那一種貧血與藥物之使用最不相關？",
+    "options": {
+      "A": "葡萄糖-6-磷酸脫氫酶（glucose-6-phosphate dehydrogenase, G6PD）缺乏併發貧血",
+      "B": "大球性貧血（macrocytic anemia）",
+      "C": "再生不良性貧血（aplastic anemia）",
+      "D": "小球性貧血（microcytic anemia）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 86,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "45歲以下，不抽菸的年輕女性，下列何者是最常見的原發性肺癌？",
+    "options": {
+      "A": "鱗狀細胞癌（squamous cell carcinoma）",
+      "B": "腺癌（adenocarcinoma）",
+      "C": "小細胞癌（small cell carcinoma）",
+      "D": "大細胞癌（large cell carcinoma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 87,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "下列何者不屬於瀰漫性阻塞性肺疾病？",
+    "options": {
+      "A": "肺氣腫（emphysema）",
+      "B": "慢性支氣管炎（chronic bronchitis）",
+      "C": "支氣管擴張（bronchiectasis）",
+      "D": "急性呼吸窘迫症候群（ARDS）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 88,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "下列有關氣喘的敘述，何者最不適當？",
+    "options": {
+      "A": "與第二型輔助T細胞（TH2 cells）活化有關",
+      "B": "屬於第二型過敏反應",
+      "C": "可見到嗜酸性白血球增加",
+      "D": "支氣管黏液中有Curschmann spirals"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 89,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "下列何者不是常見的造成急性胰臟炎的原因？",
+    "options": {
+      "A": "酗酒",
+      "B": "胰管阻塞",
+      "C": "高三酸甘油脂血症",
+      "D": "低血鈣"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 90,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "有關唾液腺腫瘤的敘述，下列何者最不適當？",
+    "options": {
+      "A": "多形性腺瘤（pleomorphic adenoma）是最常見的唾液腺良性腫瘤",
+      "B": "鱗狀細胞癌（squamous cell carcinoma）是最常見的唾液腺惡性腫瘤",
+      "C": "黏液表皮樣癌（mucoepidermoid carcinoma）常見MAML2的基因轉位",
+      "D": "腺樣囊狀癌（adenoid cystic carcinoma）常可見神經周圍侵犯（perineural invasion）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 91,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "60歲男性發現右耳前、下頜骨（mandible）上方有一圓形界線明顯的腫瘤，手術切下腫瘤在顯微鏡下可見狹...下列關於此腫瘤之敘述，何者最不適當？",
+    "options": {
+      "A": "最常發生在腮腺",
+      "B": "約10%為雙側性",
+      "C": "具有明顯上皮及間質的分化，常出現軟骨樣的物質",
+      "D": "抽菸者罹患比率較非吸菸者高"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 92,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "Brunn巢（Brunn nests）最常位於膀胱的那一部位？",
+    "options": {
+      "A": "固有層",
+      "B": "內層肌肉",
+      "C": "外層肌肉",
+      "D": "外膜層"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 93,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "腎臟之血管平滑肌脂肪瘤（angiomyolipoma）之重要臨床意義在於：",
+    "options": {
+      "A": "有25%左右的腫瘤在5至10年後會有惡性轉變",
+      "B": "易發生自發性出血",
+      "C": "早期便出現腎衰竭",
+      "D": "一半以上之散發性病例為雙側性"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 94,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "關於腦下垂體腺瘤之敘述，下列何者最適當？",
+    "options": {
+      "A": "如有腫瘤細胞浸潤至腦組織則可診斷為腦下垂體癌",
+      "B": "相較於正常垂體，腫瘤中含明顯的網狀纖維",
+      "C": "細胞的形態學變化是判斷腫瘤的良惡性極為可靠的指標",
+      "D": "體積較大的腫瘤常出現腫瘤內出血及壞死"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 95,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "下列有關子宮內膜異位症（endometriosis）敘述， 何者最不適當？",
+    "options": {
+      "A": "子宮內膜異位症是指異位性（ectopic）子宮內膜組織出現於子宮外的位置",
+      "B": "子宮內膜異位症最常見的位置是卵巢",
+      "C": "子宮內膜異位症會增加不孕症的發生",
+      "D": "和子宮內膜異位症有關的卵巢癌主要是漿液性癌"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 96,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "有關源於子宮肌層的腫瘤（tumors of myometrium），下列敘述何者最不適當？",
+    "options": {
+      "A": "最常見的腫瘤為平滑肌瘤（leiomyoma）",
+      "B": "大部分的平滑肌瘤具有異常且複雜的染色體核型（karyotype）",
+      "C": "大部分的平滑肌瘤具有MED12基因的基因突變",
+      "D": "平滑肌瘤（leiomyoma）很少惡性轉化成平滑肌肉瘤（leiomyosarcoma）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 97,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "關於卵巢亮細胞腫瘤，下列敘述何者最不適當？",
+    "options": {
+      "A": "良性（benign）或交界性（borderline tumor）卵巢亮細胞腫瘤比亮細胞癌常見",
+      "B": "治療與其他卵巢上皮癌相似",
+      "C": "常見的基因改變與子宮內膜樣癌（endometrioid carcinoma）相似",
+      "D": "晚期病人預後相當不好"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 98,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "下列何種感染較不會引起周邊神經病變？",
+    "options": {
+      "A": "結核分枝桿菌（Mycobacterium tuberculosis）",
+      "B": "白喉（diphtheria）",
+      "C": "水痘–帶狀皰疹（varicella-zoster）",
+      "D": "痲瘋（leprosy）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 99,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "對於第三、第四級星狀神經膠細胞瘤（astrocytoma, WHO grade III-IV）患者而言 ，下列何種基因突變相較於wild-type具有較好之存活率？",
+    "options": {
+      "A": "NF1",
+      "B": "TP53",
+      "C": "IDH1",
+      "D": "EGFR"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 100,
+    "年度": 112,
+    "第幾次": 2,
+    "question": "45歲女性被發現有多顆腦瘤，切片檢查時，病理醫師施以thyroid transcription factor 1（TTF-1）免疫組織化學染色，其目的是想了解：",
+    "options": {
+      "A": "是良性或惡性",
+      "B": "腫瘤細胞分裂的快慢",
+      "C": "是否肺腺癌轉移",
+      "D": "是否為非上皮性腫瘤"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 76,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "心肌梗塞使用溶栓治療，可以恢復冠狀動脈血流。血流恢復後，最可能會發生下列何種細胞變化，而使心肌受損程度更加嚴重？",
+    "options": {
+      "A": "細胞內中間絲（intermediate filament）減少",
+      "B": "增加自由基（free radical）的形成",
+      "C": "粒線體（mitochondria）腫脹",
+      "D": "蛋白質合成減少"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 77,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "細胞凋亡（apoptosis）最常出現下列何種現象？",
+    "options": {
+      "A": "細胞脹腫（swelling）",
+      "B": "細胞內鈣離子明顯增加",
+      "C": "嗜中性球浸潤",
+      "D": "染色質濃縮（chromatin condensation）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 78,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "關於馬凡氏症候群（Marfan syndrome）的敘述，下列何者最適當？",
+    "options": {
+      "A": "最主要出現病變的器官為心臟血管系統、骨骼系統與神經系統",
+      "B": "致病原因為形成第一型膠原纖維相關的基因 COL1A1 和 COL1A2 產生突變而引起",
+      "C": "轉化生長因子-β（transforming growth factor-β, TGF-β）的過度活化是馬凡氏症候群的成因之一",
+      "D": "螢光原位雜交法（fluorescent in situ hybridization）是最適合用來診斷馬凡氏症候群的檢驗工具"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 79,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "下列疾病中，何者一般被認為大部分是與 TH2 細胞的作用或反應有關？ 蠕蟲類寄生蟲感染 外因性過敏性鼻炎（allergic rhinitis） 肉芽腫性發炎（granulomatous inflammation）",
+    "options": {
+      "A": "",
+      "B": "僅",
+      "C": "僅",
+      "D": "僅"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 80,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "下列病理變化中，何者最類似腎臟移植後的超急性排斥（hyperacute rejection）之病變？",
+    "options": {
+      "A": "腎絲球內微血管出現血小板與凝血纖維微小栓塞、嗜中性白血球浸潤與缺血性傷害",
+      "B": "淋巴細胞性腎臟間質血管炎",
+      "C": "淋巴細胞性腎小管炎（tubulitis）",
+      "D": "腎絲球內與腎小管周圍微血管炎、腎絲球炎"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 81,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "紫外線（UV light）之致癌作用，主要是對於 DNA 造成下列何種損傷？",
+    "options": {
+      "A": "形成嘧啶二聚體（pyrimidine dimer）",
+      "B": "雙股 DNA 斷裂（double-stranded DNA break）",
+      "C": "染色體非平衡性轉位（chromosome unbalanced translocation）",
+      "D": "基因擴增（gene amplification）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 82,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "70 歲男性吃了生牛肉兩天後出現發燒、腹痛與出血性腹瀉，數天後他表現出少尿、水腫、出血、血尿與急性腎衰竭，糞便細菌培養出大腸桿菌，此大腸桿菌的血清型經鑑定後確定是 O157:H7 。關於這個疾病，下列敘述何者最適當？",
+    "options": {
+      "A": "血液中的 ADAMTS13 下降是主要致病機制",
+      "B": "血管內皮細胞受傷是致病主因",
+      "C": "凝血活酶時間（partial thromboplastin time）延長是疾病初期常見的變化",
+      "D": "此病是因為產生 Von Willebrand factor 的抗體所導致"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 83,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "梗塞（infarct）在病理檢查下可分成紅色梗塞（red infarct）與白色梗塞（white infarct），下列何種是屬於白色梗塞？",
+    "options": {
+      "A": "睪丸扭轉（testicular tortion）",
+      "B": "肺臟梗塞",
+      "C": "小腸梗塞",
+      "D": "腎臟梗塞"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 84,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "下列何種疾病最可能藉由抑制前列腺素 E2（prostaglandin E2）來治療？",
+    "options": {
+      "A": "開放動脈導管（patent ductus arteriosus）",
+      "B": "心房中膈缺損（atrial septal defect）",
+      "C": "心室中膈缺損（ventricular septal defect）",
+      "D": "主動脈閉鎖（aortic atresia）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 85,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "在骨髓切片中，骨髓母細胞（myeloblasts）占比為 25%，病理診斷為何？",
+    "options": {
+      "A": "原發性骨髓纖維化（primary myelofibrosis）",
+      "B": "慢性骨髓性白血病（chronic myelogenous leukemia）",
+      "C": "急性骨髓性白血病（acute myeloid leukemia）",
+      "D": "骨髓化生不良症候群（myelodysplastic syndrome）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 86,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "下列何者是造成鬱血性脾腫大（congestive splenomegaly）最常見的原因？",
+    "options": {
+      "A": "心臟衰竭（heart failure）",
+      "B": "門靜脈血栓（portal vein thrombosis）",
+      "C": "脾靜脈血栓（splenic vein thrombosis）",
+      "D": "肝硬化（liver cirrhosis）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 87,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "下列有關惡性間皮瘤（malignant mesothelioma）的敘述，何者錯誤？",
+    "options": {
+      "A": "與石棉暴露關係密切",
+      "B": "常見 BAP1突變",
+      "C": "最常發生於胸膜",
+      "D": "常造成遠端轉移"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 88,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "下列何者最不可能為氣胸（pneumothorax）的併發症？",
+    "options": {
+      "A": "縱膈腔偏移（shifting）",
+      "B": "肺部瘢痕形成（scarring）",
+      "C": "肺癌（lung cancer）",
+      "D": "肺部積膿（empyema）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 89,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "下列何者為最常見之良性肺臟腫瘤？",
+    "options": {
+      "A": "錯構瘤（hamartoma）",
+      "B": "孤立性纖維瘤（solitary fibrous tumor）",
+      "C": "血管瘤（hemangioma）",
+      "D": "平滑肌瘤（leiomyoma）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 90,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "關於自體免疫性肝炎（autoimmune hepatitis），下列何者錯誤？",
+    "options": {
+      "A": "IgG 或γ-球蛋白增高",
+      "B": "第二型自體免疫性肝炎較常發生於老年人",
+      "C": "病理切片下可見許多的漿細胞（plasma cells）浸潤，可能進展至肝硬化",
+      "D": "通常用類固醇或免疫抑制劑治療可改善發炎"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 91,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "下列關於胰臟炎的敘述何者錯誤？",
+    "options": {
+      "A": "嚴重的急性胰臟炎是一種醫療急症。可導致瀰散性血管內凝血、水腫、急性呼吸窘迫、休克及急性腎小管壞死",
+      "B": "PRSS1 和 SPINK1突變可誘導胰臟炎",
+      "C": "在組織學中，慢性胰臟炎經常呈現廣泛的纖維化和殘留的蘭氏小島和導管",
+      "D": "慢性胰臟炎是一種可逆的變化"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 92,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "68 歲女性，這些年來因膝關節炎疼痛的緣故必須服用大量非類固醇類抗發炎藥（NSAIDs）。最近幾天她感覺上腹痛並會噁心、嘔吐，這天因有吐血的情形而至急診室求診，下列那一項最可能造成上述表現？",
+    "options": {
+      "A": "急性胃炎",
+      "B": "腺癌",
+      "C": "幽門桿菌感染",
+      "D": "增生性息肉"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 93,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "在長期之第二型糖尿病患，其胰島最有可能有下列何種物質之沉積？",
+    "options": {
+      "A": "脂褐質",
+      "B": "類澱粉",
+      "C": "鈣質",
+      "D": "鋅"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 94,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "下列何種細胞基因異常最不可能發生在腎臟之乳突狀癌（papillary carcinoma）？",
+    "options": {
+      "A": "染色體 3p缺失（3p deletions）",
+      "B": "三染色體 7（trisomy 7）",
+      "C": "三染色體 17（trisomy 17）",
+      "D": "男性病患之 Y 染色體丟失（loss of Y）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 95,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "下列有關乳房放射狀疤痕（radial scar）的敘述，何者最適當？",
+    "options": {
+      "A": "與第一型糖尿病（type 1 diabetes）相關",
+      "B": "常見於外傷或手術後",
+      "C": "乳頭含血分泌物（bloody nipple discharge）",
+      "D": "形狀不規則，會與乳癌混淆"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 96,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "下列何者為診斷原位乳癌之最重要病理特徵？",
+    "options": {
+      "A": "有完整肌上皮層（myoepithelial layer）",
+      "B": "明顯的纖維化及纖維母細胞（fibroblast）增生",
+      "C": "沒有明顯的淋巴球漿細胞（lymphoplasma cell）浸潤",
+      "D": "雌激素受體（estrogen receptor）陽性"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 97,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "根據臨床資料與分子研究，子宮內膜癌可區分為第一型（type I）與第二型（type II），下列有關子宮內膜癌（endometrial carcinoma）的敘述，何者最不適當？",
+    "options": {
+      "A": "一般而言，第一型子宮內膜癌比第二型子宮內膜癌發生年齡較早",
+      "B": "第一型子宮內膜癌的組織型為子宮內膜樣腺癌（endometrioid adenocarcinoma），其前驅病灶（precursor lesion）為子宮內膜增生（endometrial hyperplasia）",
+      "C": "第二型子宮內膜癌的組織型中包括漿液性癌（serous carcinoma）。漿液性癌罕見相關之前驅病灶",
+      "D": "一般而言，第二型子宮內膜癌比第一型子宮內膜癌臨床表現更為惡性（aggressive）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 98,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "大約三分之一的血管炎（vasculitis）之患者同時有周邊神經病變，其最常見的周邊神經病變表現型態是：",
+    "options": {
+      "A": "polyneuropathy",
+      "B": "mononeuropathy",
+      "C": "polyradiculoneuropathy",
+      "D": "mononeuritis multiplex"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 99,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "圖中所示是一個具有高度傳染性的腦組織鏡下所見，罹患該病的患者容易有下列何種情形？",
+    "options": {
+      "A": "長出惡性腦瘤",
+      "B": "自發性蜘蛛膜下腔大出血",
+      "C": "快速進行性失智",
+      "D": "出現腦膜炎"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 100,
+    "年度": 113,
+    "第幾次": 1,
+    "question": "圖示是腦底 Willis 氏環，其中有一處病變，最可能引發下列何者？",
+    "options": {
+      "A": "痴呆",
+      "B": "步態不穩、共濟失調",
+      "C": "舞蹈症",
+      "D": "自發性蜘蛛膜下腔出血"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 76,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "跌倒2週後，瘀青處做切片檢查，發現黃棕色之色素，最可能為：",
+    "options": {
+      "A": "脂褐素（lipofuscin）",
+      "B": "膽紅素（bilirubin）",
+      "C": "黑色素（melanin）",
+      "D": "血鐵素（hemosiderin）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 77,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "某病人有腎臟病變，組織表現為壞死現象，細胞質內胞器消失，細胞核溶解，但組織外形完整，且與周圍正常組織分界清楚，此為何類壞死？",
+    "options": {
+      "A": "液化性壞死",
+      "B": "乾酪化壞死",
+      "C": "類纖維蛋白性壞死",
+      "D": "凝固性壞死"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 78,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "下列遺傳疾病，何者較適合利用重覆引子聚合酶連鎖反應法（repeat-primer polymerase chain reaction）進行篩檢再配合南方轉漬分析（Southern blot），則可以得到較確定的診斷？",
+    "options": {
+      "A": "透納氏症候群（Turner syndrome）",
+      "B": "狄喬治氏症候群（DiGeorge syndrome）",
+      "C": "X染色體脆折症（Fragile X syndrome）",
+      "D": "尼曼匹克症（Niemann-Pick disease）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 79,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "下列有關結核菌素試驗（tuberculin test）原理之敘述，何者正確？",
+    "options": {
+      "A": "主要是藉由刺激巨噬細胞（macrophages），釋放出伽瑪干擾素（γ-interferon）",
+      "B": "主要是藉由刺激T淋巴細胞（lymphocytes），釋放出伽瑪干擾素（γ-interferon）",
+      "C": "主要是藉由刺激巨噬細胞（macrophages），釋放出腫瘤壞死因子（tumor necrotic factor）",
+      "D": "主要是藉由刺激T淋巴細胞（lymphocytes），釋放出腫瘤壞死因子（tumor necrotic factor）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 80,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "下列何者與鎘（cadmium）中毒之相關性較低？",
+    "options": {
+      "A": "肺癌（lung cancer ）",
+      "B": "骨質疏鬆（osteoporosis）",
+      "C": "畸胎瘤（teratoma）",
+      "D": "腎損傷（kidney injury）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 81,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "下列何者是用來判定為惡性腫瘤可靠性最高的指標？",
+    "options": {
+      "A": "細胞的分化差或未分化",
+      "B": "生長速度快及有絲分裂",
+      "C": "局部侵襲",
+      "D": "轉移至其它器官"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 82,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "下列抑癌蛋白何者最不具有直接調控細胞週期的功能？",
+    "options": {
+      "A": "RB",
+      "B": "p53",
+      "C": "E-cadherin",
+      "D": "p16/INK4a"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 83,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "下列血管炎何者於顯微鏡下最少出現肉芽腫性發炎（granulomatous inflammation）？",
+    "options": {
+      "A": "Churg-Strauss syndrome",
+      "B": "Microscopic polyangiitis",
+      "C": "川崎氏症（Kawasaki disease）",
+      "D": "Buerger disease"
+    },
+    "answer": "#"
+  },
+  {
+    "題號": 84,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "馬凡氏症候群（Marfan syndrome）的病人在心臟瓣膜上最常出現的病理變化為何？",
+    "options": {
+      "A": "主動脈瓣連合處融合（commissural fusion of aortic valve）",
+      "B": "主動脈瓣鈣化",
+      "C": "二尖瓣出現黏液性變性（myxomatous degeneration）",
+      "D": "二尖瓣連合處融合（commissural fusion of mitral valve）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 85,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "下列何者最可能引起次發性骨髓化生不良症候群（secondary myelodysplastic syndrome）？",
+    "options": {
+      "A": "長期缺乏鈣質",
+      "B": "",
+      "C": "接受骨質疏鬆藥物治療",
+      "D": "服用抗結核藥物"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 86,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "有關脾梗塞（splenic infarct）的敘述，下列何者正確？",
+    "options": {
+      "A": "脾臟有豐富的側枝循環（collateral circulation），所以極少發生梗塞",
+      "B": "脾腫大（splenomegaly）不是造成脾梗塞的好發因子",
+      "C": "在正常大小的脾臟，最常造成脾梗塞的原因是心臟來的栓子（emboli）",
+      "D": "脾梗塞經常造成大量的腹腔內出血"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 87,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "下列何者為影響肺栓塞（pulmonary embolism）嚴重度最重要的因素？",
+    "options": {
+      "A": "造成栓塞（embolism）的原因",
+      "B": "栓子（embolus）的成分",
+      "C": "栓子（embolus）的大小",
+      "D": "栓子（embolus）的來源"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 88,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "造成病毒性肺炎的病原，下列何者最不常見？",
+    "options": {
+      "A": "輪狀病毒（rotavirus）",
+      "B": "副流感病毒（parainfluenza virus）",
+      "C": "流感病毒（influenza virus）",
+      "D": "腺病毒（adenovirus）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 89,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "有關慢性支氣管炎的特徵，下列何者最不適當？",
+    "options": {
+      "A": "黏液分泌過多（hypersecretion of mucus）",
+      "B": "嗜酸性白血球增加（eosinophilia）",
+      "C": "支氣管上皮杯狀細胞化生（goblet cell metaplasia）",
+      "D": "抽菸（cigarette smoking）為最重要危險因子"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 90,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "下列疾病與檢驗配對之敘述，何者最不適當？",
+    "options": {
+      "A": "primary biliary cirrhosis病人90%以上的病人有anti-mitochondrial抗體",
+      "B": "antinuclear antibody（ANA）及anti-smooth muscle antibody為第一型自體免疫性肝炎的血清指標",
+      "C": "第二型自體免疫性肝炎的血清指標為anti-liver kidney microsomal antibodies（anti-LKM1）",
+      "D": "約在65%的primary sclerosing cholangititis病人可檢測出cytoplasmic antineutrophil cytoplasmic antibodies（cANCA）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 91,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "關於膽囊膽固醇結石（cholesterol stone）產生機制，下列敘述何者錯誤？",
+    "options": {
+      "A": "膽汁中鈣離子過飽和",
+      "B": "",
+      "C": "加速膽固醇晶體成核（nucleation）",
+      "D": "黏液分泌過多"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 92,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "30歲男性因健康檢查時發現迴腸末端有一個1公分的黏膜下腫瘤因而接受手術。病理醫師檢查該腫瘤的切面是黃色的，在顯微鏡下觀察如附圖，細胞含chromogranin及synaptophysin。下列何者為最可能的診斷？",
+    "options": {
+      "A": "增生性息肉（hyperplastic polyp）",
+      "B": "小管狀腺瘤（tubular adenoma）",
+      "C": "神經內分泌腫瘤（neuroendocrine tumor）",
+      "D": "腺癌（adenocarcinoma）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 93,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "毒物引起之急性腎小管壞死其壞死部位最不可能發生在：",
+    "options": {
+      "A": "近曲小管（proximal convoluted tubules）",
+      "B": "亨耳氏環上升支（ascending limbs of Henle's loop）",
+      "C": "近曲小管直部（straight segments of proximal tubules）",
+      "D": "集尿管（collecting ducts）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 94,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "最常造成次發性副甲狀腺功能亢進症（Secondary hyperparathyroidism）的原因是：",
+    "options": {
+      "A": "MEN1 mutation",
+      "B": "CCND1 gene inversion",
+      "C": "Renal failure",
+      "D": "Multiple endocrine neoplasia"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 95,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "最常造成腦下垂體機能亢進的原因是：",
+    "options": {
+      "A": "前葉腺瘤",
+      "B": "前葉增生",
+      "C": "前葉癌",
+      "D": "下視丘疾病"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 96,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "測量血清中前列腺特定抗原（prostatic-specific antigen, PSA）的濃度已經被廣泛用來協助診斷或處理前列腺癌（prostate cancer），下列有關前列腺特定抗原或其改良型測量方法的敘述，何者最不適當？",
+    "options": {
+      "A": "前列腺特定抗原為前列腺上皮所生成",
+      "B": "除了前列腺癌外，良性前列腺增生症、前列腺炎等情況，都會造成血清中前列腺特定抗原濃度上升",
+      "C": "有關前列腺特定抗原上升速率（PSA velocity），一般而言，前列腺癌病人的上升速率高於沒有前列腺癌的病人",
+      "D": "游離與總前列腺特異抗原比值（free PSA/total PSA），一般而言，前列腺癌病人的比值高於良性前列腺疾病的病人"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 97,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "20歲女生最近覺得下腹部腹脹不舒服，超音波檢查發現右側卵巢有一個約7公分大的腫瘤，經手術切取後腫瘤外觀表面平滑，腫瘤切面觀察有固體部分也有壞死及出血區域，同時含有毛髮及像牙齒一樣的物質。切片下出現一些像胚胎時期的神經上皮細胞（neuroepithelium），則下列何者為最有可能之診斷？",
+    "options": {
+      "A": "成熟畸胎瘤（mature teratoma）",
+      "B": "漿液性囊狀腺癌（serous cystadenocarcinoma）",
+      "C": "未成熟畸胎瘤（immature teratoma）",
+      "D": "胚胎性癌（embryonal carcinoma）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 98,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "下列那一種分子是由造骨母細胞（osteoblasts）或骨間質細胞（stromal cells）所製造分泌，並用來結合RANK ligand（RANKL），進而阻礙RANKL與蝕骨細胞（osteoclast precursors）上的RANK作用 ？",
+    "options": {
+      "A": "Wnt",
+      "B": "LRP5/6",
+      "C": "osteoprotegerin",
+      "D": "RUNX2"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 99,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "下列有關軸突性周邊神經病變（peripheral axonal neuropathy）之敘述，何者錯誤？",
+    "options": {
+      "A": "破壞解離的髓鞘可形成myelin ovoids",
+      "B": "Wallerian degeneration起自周邊神經傷害處近端，往神經元細胞體中心進行",
+      "C": "修復過程有時會產生traumatic neuroma",
+      "D": "再生之軸突髓鞘（myelin sheath）比未受病變前之髓鞘細薄"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 100,
+    "年度": 113,
+    "第幾次": 2,
+    "question": "因腦壓太高造成的herniation，導致的Duret hemorrhage，發生於何處？",
+    "options": {
+      "A": "大腦灰質",
+      "B": "大腦白質",
+      "C": "腦幹",
+      "D": "小腦"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 76,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "下列何者是由脂質和磷脂的聚合物與蛋白質複合而成，標誌著細胞所經歷之自由基損傷和脂質過氧化？",
+    "options": {
+      "A": "chloasma",
+      "B": "lipofuscin",
+      "C": "hemosiderin",
+      "D": "ochronosis"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 77,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "下列何者最可能為可逆性細胞核的變化？",
+    "options": {
+      "A": "核溶解（karyolysis）",
+      "B": "細胞核碎裂（karyorrhexis）",
+      "C": "核濃縮（pyknosis）",
+      "D": "核質凝聚（chromatin clumping）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 78,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "下列何者不是蚊子作為媒介的傳染病？",
+    "options": {
+      "A": "茲卡病毒（Zika virus）感染",
+      "B": "瘧疾（malaria）",
+      "C": "淋巴絲蟲病（lymphatic filariasis）",
+      "D": "卡格氏症（Chagas disease）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 79,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "有關漢生病（Hansen disease, leprosy）的特徵描述，下列何者錯誤？",
+    "options": {
+      "A": "顯微鏡下，病灶常沿著神經分布",
+      "B": "tuberculoid leprosy比起 lepromatous leprosy有較強的 Th1反應（Th1 response）",
+      "C": "tuberculoid leprosy的病理特色是含有脂肪的巨噬細胞吞噬許多細菌",
+      "D": "溫度較低的皮膚適合 Mycobacterium leprae 增生"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 80,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "下列何者不是 p53的主要功能之一？",
+    "options": {
+      "A": "促進細胞衰老（senescence）",
+      "B": "結合並抑制 MDM2",
+      "C": "使細胞週期（cell cycle）停滯於 G1 phase（G1 arrest）",
+      "D": "引發細胞凋亡（apoptosis）的內在路徑（intrinsic pathway）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 81,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "下列何種分子的過度表現最不可能使腫瘤細胞逃避免疫攻擊（immune evasion）？",
+    "options": {
+      "A": "TGF-β",
+      "B": "CTLA-4",
+      "C": "PD-L1",
+      "D": "MHC molecules"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 82,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "40 歲男性，發燒就診，影像檢查發現雙側肺部開洞性結節，鼻竇黏膜發炎潰瘍，合併腎功能異常。各種病原菌檢驗結果都為陰性，腎臟切片發現新月型腎絲球腎炎（crescentic glomerulonephritis），有關最有可能的診斷，下列何者錯誤？",
+    "options": {
+      "A": "通常抽血可發現抗嗜中性球細胞質抗體（PR3-ANCA）上升",
+      "B": "呼吸道切片典型可見肉芽腫性發炎（granulomatous inflammation）及組織壞死",
+      "C": "通常會對免疫抑制的治療有良好反應",
+      "D": "若不治療，大多數病人也會自行康復"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 83,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "有關動脈粥狀硬化的病灶特性，下列何者錯誤？",
+    "options": {
+      "A": "病灶通常是以同心圓方式造成整圈血管壁增厚",
+      "B": "血液亂流處較易形成動脈粥狀硬化的斑塊",
+      "C": "動脈粥狀硬化產生的斑塊可能會破裂，導致血栓形成並阻塞血管腔",
+      "D": "動脈粥狀硬化的風險因子包括低密度脂蛋白受器（LDL receptor）基因突變"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 84,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "下列何種腫瘤最容易進展成急性骨髓性白血病（acute myeloid leukemia）？",
+    "options": {
+      "A": "真性紅血球增多症（polycythemia vera）",
+      "B": "原發性血小板增多症（essential thrombocythemia）",
+      "C": "骨髓化生不良症候群（myelodysplastic syndrome）",
+      "D": "慢性淋巴球性白血病（chronic lymphocytic leukemia）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 85,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "有關急性淋巴母細胞性白血病（acute lymphoblastic leukemia）的敘述，下列何者最適當？",
+    "options": {
+      "A": "臨床表現與急性骨髓性白血病（acute myeloid leukemia）相似",
+      "B": "病人多數為 40歲以上的成年人",
+      "C": "大多數腫瘤會有 MYC基因的轉位，造成 MYC的過度表現",
+      "D": "腫瘤細胞不會有 BCR-ABL融合基因"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 86,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "下列有關肺炎的敘述，何者錯誤？",
+    "options": {
+      "A": "結核菌及黴菌為慢性肺炎（chronic pneumonia）常見的致病原",
+      "B": "肺膿瘍（lung abscess）是慢性肺炎的一種，病理上可見到壞死性肉芽腫性發炎（necrotizing granulomatous inflammation）",
+      "C": "病毒性肺炎病理變化為間質淋巴球浸潤（interstitial lymphocytic infiltration）",
+      "D": "病毒性肺炎嚴重可造成急性呼吸窘迫症候群（acute respiratory distress syndrome）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 87,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "下列有關特發性肺纖維化（idiopathic pulmonary fibrosis, IPF）的敘述，何者錯誤？",
+    "options": {
+      "A": "臨床表現為慢性漸進性纖維化的間質性肺炎，疾病常進展至呼吸衰竭",
+      "B": "好發族群為中老年人，年輕人較罕見",
+      "C": "肺纖維化常以下肺葉較為嚴重",
+      "D": "胸部電腦斷層呈現中央小葉型結節（centrilobular nodules）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 88,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "下列何者為社區型細菌性肺炎最常見之病原？",
+    "options": {
+      "A": "肺炎鏈球菌（Streptococcus pneumoniae）",
+      "B": "嗜血流感桿菌（Haemophilus influenzae）",
+      "C": "金黃色葡萄球菌（Staphylococcus aureus）",
+      "D": "肺炎克雷伯氏菌（Klebsiella pneumoniae）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 89,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "關於 B型肝炎病毒（Hepatitis B virus），下列敘述何者最不適當？",
+    "options": {
+      "A": "HBeAg 是病毒包膜醣蛋白（envelope glycoproteins）",
+      "B": "HBcAg 是病毒核衣殼蛋白（nucleocapsid protein）",
+      "C": "HBx 有轉錄反式活化因子（transcriptional transactivator）功能",
+      "D": "HBV polymerase（Pol）具有反轉錄酶活性（reverse transcriptase activity）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 90,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "對於自體免疫性萎縮性胃炎（autoimmune atrophic gastritis）的相關敘述，下列敘述何者最不適當？",
+    "options": {
+      "A": "與其他自體免疫疾病相關，例如：甲狀腺炎、糖尿病、Graves氏病（Graves disease）",
+      "B": "與惡性貧血（pernicious anemia）有關",
+      "C": "迴腸（ileum）維生素 B12吸收缺陷",
+      "D": "常見到內分泌細胞萎縮減少（atrophy and decrease of endocrine cells）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 91,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "關於慢性胰臟炎（chronic pancreatitis），下列敘述何者最不適當？",
+    "options": {
+      "A": "慢性胰臟炎最常見的原因是長期飲酒",
+      "B": "纖維化細胞激素（fibrogenic cytokines）在慢性胰臟炎中扮演重要角色",
+      "C": "轉化生長因子-β（TGF-β）和血小板衍生生長因子（PDGF）誘導胰臟星狀細胞（pancreatic stellate cells）的活化",
+      "D": "病理下典型特徵為蘭氏小島（islets of Langerhans）因發炎破壞消失，而胰腺泡（pancreatic acini）相對保存良好"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 92,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "最常造成息肉性膀胱炎（polypoid cystitis）的原因為下列何者？",
+    "options": {
+      "A": "長期放置尿管",
+      "B": "長期吸食 K他命（ketamine）",
+      "C": "細菌感染，以大腸桿菌最為常見",
+      "D": "人類乳突病毒（human papillomavirus）感染"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 93,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "腎透明細胞癌（renal clear cell carcinoma）最常轉移至下列何處？",
+    "options": {
+      "A": "周邊淋巴結",
+      "B": "腎上腺",
+      "C": "肝臟",
+      "D": "肺臟"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 94,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "經由電子顯微鏡檢查，下列腎絲球疾病所產生免疫沉澱物主要沉著的位置，下列何者錯誤？",
+    "options": {
+      "A": "IgA nephropathy 沉著於膈細胞（mesangial cell）周圍",
+      "B": "membranous nephropathy 沉著在上皮細胞下方（subepithelial deposits）",
+      "C": "dense deposit disease沉著在基底膜之內（intramembranous deposits）",
+      "D": "acute postinfectious glomerulonephritis 沉著在內皮細胞下方（subendothelial deposits），形成駝峰狀隆起（humps）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 95,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "區分子宮平滑肌瘤（leiomyoma）與平滑肌肉瘤（leiomyosarcoma），下列何者最不具有鑑別能力？",
+    "options": {
+      "A": "MED12 突變",
+      "B": "有絲分裂數量",
+      "C": "腫瘤壞死",
+      "D": "非典型細胞核（nuclear atypia）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 96,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "Gleason grade是用來評估下列何種癌症的治療選擇與評估預後（prognosis）？",
+    "options": {
+      "A": "腎細胞癌（renal cell carcinoma）",
+      "B": "膀胱腺癌（adenocarcinoma of urinary bladder）",
+      "C": "前列腺癌（prostatic adenocarcinoma）",
+      "D": "陰莖鱗狀上皮癌（penile squamous cell carcinoma）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 97,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "完全性葡萄胎（complete hydatidiform mole）最常見的染色體核型為：",
+    "options": {
+      "A": "46,XX",
+      "B": "69,XXY",
+      "C": "69,XXX",
+      "D": "92,XXXY"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 98,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "下列關於眼睛疾病的敘述，何者最不適當？",
+    "options": {
+      "A": "Fuchs dystrophy 主要是因為角膜 endothelium缺損所致",
+      "B": "pinguecula 和 pterygium都與日光造成的結膜受損有關",
+      "C": "herpes stromal keratitis 主要是因免疫作用造成角膜受損",
+      "D": "keratoconus 主要的病理特徵是 Descemet membrane斷裂"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 99,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "下列何種病理變化，較少見於類風濕性關節炎（rheumatoid arthritis）？",
+    "options": {
+      "A": "骨贅（osteophyte）",
+      "B": "血管翳（pannus）",
+      "C": "骨性關節強直（bony ankylosis）",
+      "D": "關節滑液膜細胞絨毛狀增生（synovial villous hyperplasia）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 100,
+    "年度": 114,
+    "第幾次": 1,
+    "question": "以直接免疫螢光法（direct immunofluorescence）檢查天皰瘡（pemphigus vulgaris）所引起的水泡，可以發現 IgG免疫球蛋白主要沉積於什麼位置？",
+    "options": {
+      "A": "表皮層鱗狀上皮細胞之間（intercellular regions of epidermal cells）",
+      "B": "表皮層下之基底膜（basement membrane）",
+      "C": "血管壁（vascular walls）",
+      "D": "汗腺管（eccrine ducts）之基底膜"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 76,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "下列何者於顯微鏡檢死亡之細胞時，通常會呈現「強烈嗜酸性的紅色細胞質，模糊或微紅色之細胞核」等特徵？",
+    "options": {
+      "A": "liquefactive necrosis",
+      "B": "caseous necrosis",
+      "C": "fibrinoid necrosis",
+      "D": "coagulative necrosis"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 77,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "下列何者出現時，表示細胞已經進入不可逆的損傷（irreversible damage）？",
+    "options": {
+      "A": "leakage of mitochondrial proteins",
+      "B": "endoplasmic reticulum dilation",
+      "C": "rapid glycogen depletion",
+      "D": "endoplasmic reticulum ribosomes detachment"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 78,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "有關馬凡氏症候群（Marfan syndrome）的描述，下列何者正確？",
+    "options": {
+      "A": "膠原蛋白（collagen）異常所引起的疾病",
+      "B": "體染色體隱性遺傳疾病",
+      "C": "身材矮小",
+      "D": "主動脈根部擴大"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 79,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "天皰瘡（pemphigus vulgaris）的致病機轉與下列何者最有關係？",
+    "options": {
+      "A": "第一型過敏反應",
+      "B": "第二型過敏反應",
+      "C": "第三型過敏反應",
+      "D": "第四型過敏反應"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 80,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "慢性一氧化碳中毒主要造成中樞神經何處缺氧？",
+    "options": {
+      "A": "大腦半球（cerebral hemisphere）",
+      "B": "小腦（cerebellum）",
+      "C": "基底核（basal ganglia）",
+      "D": "胼胝體（corpus callosum）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 81,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "用以判斷腫瘤為惡性的特徵，下列何者最不可靠？",
+    "options": {
+      "A": "生長快速",
+      "B": "分化不良",
+      "C": "不典型有絲分裂",
+      "D": "遠端轉移"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 82,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "先天性心臟病中，長期處於下列何種狀況最容易造成肺高壓？",
+    "options": {
+      "A": "明顯的心室中隔缺損（ventricular septal defect）",
+      "B": "典型的 Fallot氏四合症（classic tetralogy of Fallot）",
+      "C": "成人型導管後主動脈狹窄（adult form postductal coarctation of aorta）",
+      "D": "單獨的肺動脈瓣狹窄（isolated pulmonary stenosis）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 83,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "下列會造成凝血功能異常的狀況，何者主要不是由於血小板功能的缺失？",
+    "options": {
+      "A": "von Willebrand氏病（von Willebrand disease）",
+      "B": "尿毒症（uremia）",
+      "C": "血友病（hemophilia）",
+      "D": "使用阿斯匹靈（aspirin）藥物"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 84,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "下列何種惡性淋巴瘤，在組織切片中腫瘤細胞通常只占所有細胞的小部分？",
+    "options": {
+      "A": "瀰漫性大 B細胞淋巴瘤（diffuse large B-cell lymphoma）",
+      "B": "退行性大細胞淋巴瘤（anaplastic large cell lymphoma）",
+      "C": "何杰金氏淋巴瘤（Hodgkin lymphoma）",
+      "D": "Burkitt氏淋巴瘤（Burkitt lymphoma）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 85,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "下列何種貧血，骨髓中的造血細胞量（cellularity）最可能比正常少？",
+    "options": {
+      "A": "缺鐵性貧血（iron deficiency anemia）",
+      "B": "巨母紅血球性貧血（megaloblastic anemia）",
+      "C": "地中海型貧血（thalassemia）",
+      "D": "再生不良性貧血（aplastic anemia）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 86,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "下列有關鼻咽癌的敘述，何者錯誤？",
+    "options": {
+      "A": "與高風險人類乳突病毒（high-risk human papillomavirus, HR-HPV）有關",
+      "B": "臺灣與中國東南方的盛行率高於美國及歐洲",
+      "C": "形態學上主要分為角化（keratinizing）、非角化（nonkeratinizing）或類基底（basaloid）鱗狀細胞癌",
+      "D": "頸部腫塊、聽力障礙或閉塞感、痰中或鼻涕中帶血、鼻塞、頭痛是常見症狀"
+    },
+    "answer": "#"
+  },
+  {
+    "題號": 87,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "下列有關小細胞肺癌（small cell carcinoma）的敘述，何者錯誤？",
+    "options": {
+      "A": "與抽菸有強烈相關性",
+      "B": "在臺灣，小細胞肺癌有三成帶有 EGFR突變",
+      "C": "大多數小細胞肺癌帶有 TP53 與 RB基因突變",
+      "D": "小細胞肺癌也會有副贅瘤症候群（paraneoplastic syndromes）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 88,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "下列有關塵肺病（pneumoconiosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "成因可為無機物或有機物，多與職業或工作環境有關",
+      "B": "矽肺病是目前最常見的塵肺病，成因為吸入 silica，形成的肺結節多出現在上肺葉",
+      "C": "矽肺病患者停止接觸矽塵暴露後肺功能通常會逐漸恢復，惟嚴重者需接受肺移植治療",
+      "D": "矽肺病的肺結節常出現嚴重纖維化且有 whorled collagen fibers，在偏光顯微鏡下可看到 silica沉積"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 89,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "下列有關口腔癌的敘述，何者錯誤？",
+    "options": {
+      "A": "白斑（leukoplakia）與紅斑（erythroplakia）是可觀察到的早期病變",
+      "B": "紅斑（erythroplakia）病理上大多數是嚴重異生（severe dysplasia）或原位癌（carcinoma in situ）",
+      "C": "口腔癌最常突變的基因有 TP53、CDKN2A、PIK3CA，與肺腺癌類似，目前已有多種有效的標靶藥物",
+      "D": "口腔癌的危險因子包含抽菸、喝酒、檳榔，定期篩檢若能早期診斷則可提高患者預後"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 90,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "關於肝細胞核因子 1-α失活的肝細胞腺瘤（HNF1α-inactivated hepatocellular adenoma），下列敘述何者最不適當？",
+    "options": {
+      "A": "與成熟型青少年糖尿病 3型（maturity onset diabetes of the young, type 3）相關",
+      "B": "好發於女性",
+      "C": "轉化為肝細胞癌的風險極小",
+      "D": "免疫組織化學染色下，腫瘤細胞的 liver fatty acid binding protein（LFABP）會高度表達"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 91,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "關於急性膽囊炎，下列敘述何者最不適當？",
+    "options": {
+      "A": "大多數的病例是由於結石阻塞膽囊頸或膽囊管而引發",
+      "B": "因前列腺素釋放的減少而導致黏膜和膽囊壁發炎",
+      "C": "急性非結石性膽囊炎（acute acalculous cholecystitis）可由缺血而引起",
+      "D": "急性非結石性膽囊炎（acute acalculous cholecystitis）的危險因子包括敗血症"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 92,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "腎嗜酸細胞瘤（renal oncocytoma）在電子顯微鏡下觀察，腫瘤細胞含大量何種結構，而造成染色成嗜酸性？",
+    "options": {
+      "A": "粒線體",
+      "B": "高基氏體",
+      "C": "溶酶體",
+      "D": "粗糙內質網"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 93,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "黃瘤肉芽腫性腎盂腎炎（xanthogranulomatous pyelonephritis）與下列何種細菌感染最為密切？",
+    "options": {
+      "A": "Streptococcus pneumoniae",
+      "B": "Mycobacterium tuberculosis",
+      "C": "Proteus mirabilis",
+      "D": "Salmonella enterica"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 94,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "下列何者為腎細胞癌最顯著之危險因子？",
+    "options": {
+      "A": "抽菸",
+      "B": "高血壓",
+      "C": "石綿之暴露",
+      "D": "肥胖之男性"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 95,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "與放射線治療最相關的乳房惡性腫瘤為：",
+    "options": {
+      "A": "血管肉瘤（angiosarcoma）",
+      "B": "惡性葉狀瘤（malignant phyllodes tumor）",
+      "C": "肌纖維母細胞瘤（myofibroblastoma）",
+      "D": "平滑肌肉瘤（leiomyosarcoma）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 96,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "下列何種乳房病變，發生侵襲性乳癌的風險最高？",
+    "options": {
+      "A": "非典型小葉增生（atypical lobular hyperplasia）",
+      "B": "硬化性腺病（sclerosing adenosis）",
+      "C": "複雜性硬化病變（complex sclerosing lesion）",
+      "D": "複雜性纖維腺瘤（fibroadenoma with complex features）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 97,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "62 歲女性，子宮頸抹片檢查後，接受子宮頸病理切片（如圖所示）。下列何者為最適合的診斷？",
+    "options": {
+      "A": "高度鱗狀上皮內病灶（high-grade squamous intraepithelial lesion）",
+      "B": "鱗狀上皮癌（squamous cell carcinoma）",
+      "C": "原位腺癌（adenocarcinoma in situ）",
+      "D": "低度鱗狀上皮內病灶（low-grade squamous intraepithelial lesion）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 98,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "有關骨骼疾病的病理機轉，下列那一組合與蝕骨細胞（osteoclasts）活性異常較有關係？①osteopetrosis ②senile osteoporosis ③post-menopausal osteoporosis ④osteomalacia ⑤Paget disease （osteitis deformans）",
+    "options": {
+      "A": "①②④",
+      "B": "①③⑤",
+      "C": "②③⑤",
+      "D": "③④⑤"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 99,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "下列皮膚病變皆可能與感染有關，何者在皮膚病灶處最有可能培養出致病微生物？",
+    "options": {
+      "A": "erythema multiforme",
+      "B": "erythema induratum",
+      "C": "erythema nodosum",
+      "D": "erythema migrans"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 100,
+    "年度": 114,
+    "第幾次": 2,
+    "question": "關於感染性關節炎，下列敘述何者最不適當？",
+    "options": {
+      "A": "兩歲以下幼兒最常見的化膿性關節炎病原體是沙門氏桿菌（Salmonella）",
+      "B": "成年人的化膿性關節炎最常見之病原體是金黃色葡萄球菌（Staphylococcus aureus）",
+      "C": "結核病關節炎（mycobacterial arthritis）最常感染承重的關節，如髖關節與膝關節",
+      "D": "淋病關節炎（gonococcal arthritis）好發於補體 C5-C9功能缺損的病人"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 76,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "下列何種磷脂質於細胞凋亡後，會由細胞膜的內層翻轉出來到細胞膜的外層，被巨噬細胞識別以進行吞噬作用？",
+    "options": {
+      "A": "phosphatidylcholine",
+      "B": "phosphatidylserine",
+      "C": "sphingomyelin",
+      "D": "glycolipid"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 77,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "下列那一路徑之活化，被認為是生理性肥大（physiologic hypertrophy）中最重要的機制？",
+    "options": {
+      "A": "PI3K/AKT 路徑",
+      "B": "Bax/Bc1-2 路徑",
+      "C": "EGFR/RAS/RAF 路徑",
+      "D": "Wnt/β-catenin 路徑"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 78,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "有關病毒感染與疾病的關係，下列何者錯誤？",
+    "options": {
+      "A": "human papillomavirus 與毛樣白斑病（hairy leukoplakia）",
+      "B": "human herpesvirus 8 與原發性體液淋巴瘤（primary effusion lymphoma）",
+      "C": "Epstein-Barr virus 與淋巴結外鼻腔型自然殺手／T細胞淋巴瘤（extranodal nasal type NK/T-cell lymphoma）",
+      "D": "JC polyomavirus 與進行性多灶性白質腦病（progressive multifocal leukoencephalopathy）"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 79,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "腎臟移植後腎臟切片發現腎臟間質、腎小管上皮細胞間與血管內皮有淋巴細胞浸潤，有小血管壁出現壞死現象，未出現間質纖維化與腎小管萎縮，螢光染色未發現有抗體或 C4d 補體沉積。下列何者為最可能的診斷？",
+    "options": {
+      "A": "慢性排斥（chronic rejection）",
+      "B": "超急性排斥（hyperacute rejection）",
+      "C": "急性細胞排斥（acute cellular rejection）",
+      "D": "急性抗體媒介排斥（acute antibody-mediated rejection）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 80,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "癩皮病（pellagra）最主要是缺乏何種營養因子所引起？",
+    "options": {
+      "A": "vitamin B1（thiamine）",
+      "B": "vitamin B2（riboflavin）",
+      "C": "niacin",
+      "D": "vitamin B6（pyridoxine）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 81,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "60 歲男性突然發生心肌梗塞，於心肌梗塞發生後三小時死亡，解剖時肉眼檢查心臟最可能會看到什麼？",
+    "options": {
+      "A": "看不出變化",
+      "B": "梗塞區域的心肌較為暗紅色，質地較軟",
+      "C": "梗塞區域呈現黃色，質地較軟",
+      "D": "邊界清楚的凹陷區域，質地較硬"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 82,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "下列造成水腫的原因中，何者的主要致病機轉與血中的滲透壓下降最無相關？",
+    "options": {
+      "A": "肝硬化（liver cirrhosis）",
+      "B": "腎病症候群（nephrotic syndrome）",
+      "C": "營養不良（malnutrition）",
+      "D": "鬱血性心衰竭（congestive heart failure）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 83,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "關於巨細胞動脈炎（giant cell arteritis）的臨床病理特徵，下列何者正確？",
+    "options": {
+      "A": "主要影響頭部的血管",
+      "B": "冠狀動脈（coronary artery）出現動脈瘤（aneurysm）是此疾病常見的併發症",
+      "C": "嗜伊紅性白血球（eosinophil）出現在發炎的血管是此疾病的重要病理表現",
+      "D": "此疾病多出現在 35 歲以前的年輕人，可能會造成視力減退"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 84,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "在缺鐵性貧血（iron deficiency anemia）的病人，下列何者最可能高於正常值？",
+    "options": {
+      "A": "血比容（hematocrit）",
+      "B": "紅血球的平均血紅素濃度（mean cell hemoglobin concentration）",
+      "C": "血漿的總鐵結合力（total iron-binding capacity）",
+      "D": "血清中的鐵蛋白（ferritin）"
+    },
+    "answer": "C"
+  },
+  {
+    "題號": 85,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "葡萄糖-6-磷酸鹽去氫酶（glucose-6-phosphate dehydrogenase, G6PD）缺乏症是何種遺傳？",
+    "options": {
+      "A": "體染色體顯性（autosomal dominant）遺傳",
+      "B": "體染色體隱性（autosomal recessive）遺傳",
+      "C": "性聯顯性（X-linked dominant）遺傳",
+      "D": "性聯隱性（X-linked recessive）遺傳"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 86,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "關於乳糜瀉（celiac disease），下列敘述何者最不適當？",
+    "options": {
+      "A": "又稱麩質敏感腸病（gluten-sensitive enteropathy）",
+      "B": "與 HLA-DQ2 或 HLA-DQ8 等位基因有關",
+      "C": "組織病理學特徵包含上皮內淋巴球增多（intraepithelial lymphocytosis）",
+      "D": "最常發生的惡性腫瘤是腸病相關 B細胞淋巴瘤（enteropathy-associated B-cell lymphoma）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 87,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "高惡性度漿液性卵巢癌（high-grade ovarian serous carcinoma）最常突變的基因為：",
+    "options": {
+      "A": "TP53",
+      "B": "KRAS",
+      "C": "BRAF",
+      "D": "ESR1"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 88,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "多重系統退化症（multiple system atrophy）患者中，下列何種細胞最易見到α-突觸核蛋白（α-synuclein）包涵體？",
+    "options": {
+      "A": "星狀細胞（astrocyte）",
+      "B": "寡樹突細胞（oligodendrocyte）",
+      "C": "微膠細胞（microglia）",
+      "D": "血管內皮細胞（endothelial cell）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 89,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "下列何者對於類風濕性關節炎（rheumatoid arthritis）發生機轉的重要性最為明確，且已有專一性拮抗劑用於治療？",
+    "options": {
+      "A": "rheumatoid factor",
+      "B": "IL-2",
+      "C": "IFN-α",
+      "D": "TNF"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 90,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "下列有關肺高壓（pulmonary hypertension）的敘述，何者錯誤？",
+    "options": {
+      "A": "左心衰竭可造成肺高壓",
+      "B": "間質性肺病（interstitial lung disease）可造成肺高壓",
+      "C": "從主肺動脈到小動脈都會受影響而出現 medial hypertrophy 及 intimal fibrosis",
+      "D": "小動脈的 plexiform lesion 為肺高壓早期出現的病理特徵"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 91,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "下列有關細菌性肺炎的敘述，何者錯誤？",
+    "options": {
+      "A": "可造成支氣管肺炎（bronchopneumonia）或大葉性肺炎（lobar pneumonia）",
+      "B": "大葉性肺炎（lobar pneumonia）病理上變化依序可分為充血期（congestion）、灰色肝變期（gray hepatization）、紅色肝變期（red hepatization）、消解期（resolution）",
+      "C": "Streptococcus pneumoniae、Haemophilus influenzae、Moraxella catarrhalis、Staphylococcus aureus 為常見造成社區型肺炎的致病菌",
+      "D": "Pseudomonas aeruginosa 常見於院內感染肺炎"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 92,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "支氣管擴張症與下列何項症狀相關性較低？",
+    "options": {
+      "A": "膿痰（mucopurulent sputum）",
+      "B": "重度持續咳嗽（severe persistent cough）",
+      "C": "咳血（hemoptysis）",
+      "D": "過度換氣（hyperventilation）"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 93,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "關於自體免疫性肝炎（autoimmune hepatitis），下列敘述何者最不適當？",
+    "options": {
+      "A": "與 HLA 等位基因 DR3、DR4 及 DRB1 密切相關",
+      "B": "第 1 型自體免疫性肝炎的典型特徵是存在抗核抗體（ANA）和抗平滑肌肌動蛋白（SMA）抗體",
+      "C": "第 2 型疾病的典型特徵是抗肝腎微粒體 1（LKM-1）抗體",
+      "D": "血清 IgM 升高為自體免疫性肝炎之典型表現"
+    },
+    "answer": "D"
+  },
+  {
+    "題號": 94,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "關於潰瘍性結腸炎（ulcerative colitis），下列敘述何者最不適當？",
+    "options": {
+      "A": "發炎通常僅限於黏膜（mucosa）",
+      "B": "大多會涉及結腸與迴腸（colon and ileum）兩者的嚴重慢性發炎",
+      "C": "常有假性息肉（pseudopolyps）",
+      "D": "可能會造成毒性巨結腸（toxic megacolon）"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 95,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "下列何者為不依賴 ACTH（ACTH-independent）Cushing 氏症候群（Cushing syndrome）最常見的原因？",
+    "options": {
+      "A": "small cell carcinoma of the lung",
+      "B": "adrenocortical adenoma",
+      "C": "adrenocortical carcinoma",
+      "D": "primary cortical hyperplasia"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 96,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "關於局部節段型腎絲球硬化症（focal segmental glomerulosclerosis, FSGS），下列敘述何者正確？",
+    "options": {
+      "A": "該疾病為造成小孩（小於 18 歲）腎病症候群（nephrotic syndrome）最常見的原因",
+      "B": "原發性 FSGS 腎絲球病變最先發生於近髓質（juxtamedullary）腎絲球",
+      "C": "電子顯微鏡下的變化主要為大量免疫沉澱物堆積在膈細胞（mesangial cell）區域造成硬化",
+      "D": "一般而言，以類固醇治療 FSGS 的效果極佳"
+    },
+    "answer": "B"
+  },
+  {
+    "題號": 97,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "橋本氏甲狀腺炎（Hashimoto thyroiditis）病患較常出現下列那些自體免疫抗體？",
+    "options": {
+      "A": "antithyroglobulin antibody 和 antithyroid peroxidase antibody",
+      "B": "antithyroglobulin antibody 和 anti-TSH receptor antibody",
+      "C": "antinuclear antibody 和 antithyroid peroxidase antibody",
+      "D": "antimitochondrial antibody 和 anti-TSH receptor antibody"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 98,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "與乳房乳突瘤（papilloma）的乳突比較，乳突狀原位癌（papillary ductal carcinoma in situ）其乳突的病理特徵中，最有鑑別力者為：",
+    "options": {
+      "A": "無肌上皮細胞",
+      "B": "缺乏纖維血管組織",
+      "C": "有出血現象",
+      "D": "有組織壞死"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 99,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "侵犯性乳癌，其腫瘤細胞之雌激素受體（estrogen receptor, ER），助孕素受體（progesterone receptor, PR），人類表皮生長因子受體 2（HER2）表現，下列何種組合最為常見？",
+    "options": {
+      "A": "ER 陽性，PR 陽性，HER2 陰性",
+      "B": "ER 陰性，PR 陰性，HER2 陽性",
+      "C": "ER 陽性，PR 陽性，HER2 陽性",
+      "D": "ER 陰性，PR 陰性，HER2 陰性"
+    },
+    "answer": "A"
+  },
+  {
+    "題號": 100,
+    "年度": 115,
+    "第幾次": 1,
+    "question": "杜雷特氏出血（Duret hemorrhage）與下列何種腦部脫疝（herniation）最有關係？",
+    "options": {
+      "A": "大腦鎌下脫出（subfalcine herniation）",
+      "B": "扣帶脫出（cingulate herniation）",
+      "C": "經小腦天幕脫出（transtentorial herniation）",
+      "D": "小腦扁桃體脫出（tonsillar herniation）"
+    },
+    "answer": "C"
+  }
+]

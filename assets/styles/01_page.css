@@ -1,0 +1,106 @@
+/* ===== paged-media layout =====
+ * Named pages: cover, colophon, toc, divider, chapter, landscape, back-cover
+ * Running header: chapter name (string-set on h1 of chapter-body)
+ * Running footer: page number + AI-assisted tag
+ */
+
+@page {
+  size: A4 portrait;
+  margin: 18mm 16mm 18mm 16mm;
+  background: #fbfaf6;
+
+  @top-left {
+    content: string(chapter-name);
+    font-family: "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+    font-size: 8.5pt;
+    color: #666;
+    padding-top: 6mm;
+    letter-spacing: 0.05em;
+  }
+  @top-right {
+    content: "病理科國考總複習 · " counter(page);
+    font-family: "Noto Sans TC", sans-serif;
+    font-size: 8.5pt;
+    color: #666;
+    padding-top: 6mm;
+  }
+  @bottom-left {
+    content: "AI-assisted · verify with Robbins";
+    font-family: "Noto Sans TC", sans-serif;
+    font-size: 7.5pt;
+    color: #999;
+    padding-bottom: 6mm;
+    letter-spacing: 0.05em;
+  }
+  @bottom-right {
+    content: counter(page);
+    font-family: "Noto Sans TC", sans-serif;
+    font-size: 10pt;
+    color: #1c3d5a;
+    padding-bottom: 6mm;
+    font-weight: 600;
+  }
+}
+
+@page cover {
+  margin: 0;
+  background: linear-gradient(160deg, #7a1620 0%, #b8232f 38%, #1a1a1a 100%);
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+@page colophon {
+  margin: 22mm 20mm 22mm 20mm;
+  background: #fbfaf6;
+  @top-left { content: none; }
+  @top-right { content: "版權頁 · Colophon"; color: #999; font-size: 8.5pt; padding-top: 6mm; }
+  @bottom-left { content: "AI-assisted educational material"; color: #999; font-size: 7.5pt; padding-bottom: 6mm; }
+  @bottom-right { content: counter(page); color: #999; font-size: 9pt; padding-bottom: 6mm; }
+}
+
+@page toc {
+  margin: 20mm 18mm 20mm 18mm;
+  background: #fbfaf6;
+  @top-left { content: "目次"; color: #999; font-size: 8.5pt; padding-top: 6mm; }
+  @top-right { content: "Table of Contents"; color: #999; font-size: 8.5pt; padding-top: 6mm; }
+  @bottom-right { content: counter(page); }
+}
+
+@page divider {
+  margin: 0;
+  background: var(--accent, #1c3d5a);
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+@page landscape {
+  size: A4 landscape;
+  margin: 14mm 14mm 14mm 14mm;
+}
+
+@page back-cover {
+  margin: 0;
+  background: #1c3d5a;
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+/* page assignment */
+.cover-page        { page: cover;       page-break-before: right; page-break-after: always; }
+.colophon-page     { page: colophon;    page-break-before: right; page-break-after: always; }
+.toc-page          { page: toc;         page-break-before: right; page-break-after: always; }
+.chapter-divider   { page: divider;     page-break-before: right; page-break-after: always; }
+.chapter-body      { page-break-before: auto; }
+.chapter-body.landscape { page: landscape; }
+.back-cover-page   { page: back-cover;  page-break-before: right; }
+
+/* running header from chapter body's H1 */
+.chapter-body h1 {
+  string-set: chapter-name content();
+}

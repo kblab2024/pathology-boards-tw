@@ -1,0 +1,27 @@
+<section class="back-cover-page" id="back-cover">
+  <div class="back-top">
+    <span class="back-rule"></span>
+    <span class="back-eyebrow">PATHOLOGY BOARD REVIEW · TAIWAN</span>
+  </div>
+
+  <div class="back-center">
+    <p class="back-tagline">{{ back_cover_tagline }}</p>
+    <ul class="back-features">
+      <li>50 題模擬考 + 逐題詳解</li>
+      <li>30 組易混淆配對題卡</li>
+      <li>150+ 經典 buzzword 速查</li>
+      <li>14 張弱點補強卡 · 12 週教學大綱</li>
+    </ul>
+  </div>
+
+  <div class="back-bottom">
+    <div class="back-meta">
+      <p>{{ edition_code }}</p>
+      <p>{{ edition_label }}</p>
+      <p>{{ license_line }} · Built with Claude Code</p>
+    </div>
+    <div class="back-barcode" aria-hidden="true">
+      {% for _ in range(48) %}<span></span>{% endfor %}
+    </div>
+  </div>
+</section>

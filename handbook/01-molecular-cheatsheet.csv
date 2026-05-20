@@ -1,0 +1,167 @@
+分類,分子/基因/標記,異常型式,主要對應疾病,診斷意義,治療/標靶意涵,國考出處
+腫瘤抑制基因,TP53,失活突變,High-grade serous ovarian Ca (>96%);Li-Fraumeni syndrome;SCLC;骨肉瘤;許多固態腫瘤,IHC 異常表現 (核強陽 or 完全陰性);分子定序,PARP inhibitor 反應差異;免疫療法考量,115-1-87;104-114 多次
+腫瘤抑制基因,RB,失活突變,Retinoblastoma;SCLC;膀胱癌,IHC 表現缺失,Cyclin D/CDK4-6 inhibitor (palbociclib),歷年 2-3 次
+腫瘤抑制基因,APC,失活突變,Familial adenomatous polyposis;Sporadic CRC,基因檢測,大腸鏡監測;CRC 化療,歷年 2-3 次
+腫瘤抑制基因,VHL,失活,von Hippel-Lindau syndrome;Clear cell RCC;Hemangioblastoma;Pheochromocytoma,基因檢測;IHC,Anti-VEGF (bevacizumab);TKI (sunitinib),歷年 2-3 次
+腫瘤抑制基因,BRCA1/2,germline 突變,Hereditary breast/ovarian Ca,基因檢測,PARP inhibitor (olaparib);選擇性預防手術,歷年 3-4 次
+腫瘤抑制基因,PTEN,失活,Cowden syndrome;子宮內膜癌;膠質瘤;前列腺癌,IHC 失表現,PI3K/mTOR inhibitor,歷年 2-3 次
+腫瘤抑制基因,CDKN2A (p16),失活,Familial melanoma;口腔 SCC;Pancreatic Ca,IHC;FISH,CDK4/6 inhibitor 評估,114-2-89;歷年 2 次
+腫瘤抑制基因,NF1,失活,Neurofibromatosis type 1;MPNST,基因檢測,MEK inhibitor (selumetinib),歷年 2 次
+腫瘤抑制基因,NF2,失活,NF2;Schwannoma;Meningioma,基因檢測,Symptomatic 處理,歷年 1-2 次
+癌基因,KRAS,激活突變 G12 系列,Pancreatic Ca (>90%);CRC;Lung adenoCa,Sanger/NGS,Sotorasib (KRAS G12C);影響 EGFR-TKI 反應,歷年 3-4 次
+癌基因,BRAF V600E,激活突變,Melanoma;PTC;Hairy cell leukemia;CRC,IHC (VE1);分子,Vemurafenib;Dabrafenib + trametinib,歷年 4-5 次
+癌基因,EGFR,L858R;exon 19 del,Lung adenoCa (亞洲非吸菸女性多),IHC;分子,Gefitinib;Erlotinib;Osimertinib (T790M),歷年 3-4 次
+癌基因,HER2 (ERBB2),擴增/過表現,乳癌;胃癌,IHC 0/1+/2+/3+;FISH,Trastuzumab;Pertuzumab;T-DXd,歷年 3-4 次;115-1-99
+癌基因,RET,點突變 (MEN2);融合 (PTC;NSCLC),Medullary thyroid Ca;MEN2A/2B;PTC;NSCLC,分子,Selpercatinib;Pralsetinib,歷年 3-4 次
+癌基因,ALK,EML4-ALK 融合,Lung adenoCa (年輕非吸菸);IMT;ALCL,IHC;FISH,Crizotinib;Alectinib;Lorlatinib,歷年 2-3 次
+癌基因,ROS1,融合,Lung adenoCa,FISH;IHC,Crizotinib;Entrectinib,歷年 1-2 次
+癌基因,c-KIT (CD117),激活突變,GIST;Mastocytosis,IHC;分子,Imatinib (selectivity by exon),歷年 2-3 次
+癌基因,PDGFRA,激活突變,GIST (KIT-);Hypereosinophilic syndrome,分子,Imatinib;Avapritinib,歷年 1-2 次
+癌基因,c-MYC,t(8;14)/t(8;22)/t(2;8),Burkitt lymphoma,FISH (MYC rearrangement),Burkitt 化療方案,歷年 2-3 次
+癌基因,BCL2,t(14;18),Follicular lymphoma;DLBCL,IHC;FISH,Venetoclax,歷年 2-3 次
+癌基因,Cyclin D1 (BCL1),t(11;14),Mantle cell lymphoma,IHC;FISH,Ibrutinib;Venetoclax,歷年 2 次
+癌基因,BCR-ABL1,t(9;22) Ph chromosome,CML;Ph+ ALL,FISH;PCR (BCR-ABL fusion),Imatinib;Dasatinib;Nilotinib,歷年 2 次
+癌基因,JAK2 V617F,點突變,Polycythemia vera;ET;Primary myelofibrosis,分子,Ruxolitinib,歷年 2 次
+癌基因,PIK3CA,激活突變,乳癌;頭頸 SCC;口腔 SCC,分子,Alpelisib,114-2-89
+癌基因,MED12,點突變,子宮平滑肌瘤,分子 (研究用),—,歷年 1 次
+癌基因,DICER1,失活,Sertoli-Leydig cell tumor;Pleuropulmonary blastoma,基因檢測,—,歷年 1 次
+癌基因,H3.3 K27M,激活,Diffuse midline glioma,IHC;分子 (WHO 2021 必查),—,歷年 1 次
+癌基因,IDH1/2,激活突變,Glioma WHO grade 2-3;AML;Cholangiocarcinoma,IHC (IDH1 R132H);分子,Ivosidenib;Enasidenib,歷年 2 次
+癌基因,TMPRSS2-ERG,融合,Prostate Ca,FISH,—,歷年 1-2 次
+癌基因,FGFR3,激活,Bladder Ca (low-grade);軟骨發育不全,分子,Erdafitinib,歷年 1-2 次
+癌基因,CDH1,失活,Hereditary diffuse gastric Ca;Lobular breast Ca,IHC E-cadherin 失表現,預防性胃切除,歷年 1 次
+代謝/分型,MSI-H / dMMR,微衛星不穩定;MMR 蛋白失,Lynch syndrome;CRC;EC;Gastric Ca,IHC (MLH1/MSH2/MSH6/PMS2);PCR (BAT-25/26),Pembrolizumab (PD-1 inhibitor),歷年 2-3 次
+代謝/分型,TMB-H,腫瘤突變負荷,各類腫瘤,NGS Panel,免疫檢查點 inhibitor,新興 (近 1-2 年)
+細胞死亡,Phosphatidylserine (PS),外翻 (flippase 缺失),Apoptosis 細胞標記,Annexin V 染色,—,115-1-76 (新)
+細胞死亡,Caspase 3/7,激活,Apoptosis 執行酶,IHC;螢光 substrate,—,歷年 1-2 次
+細胞死亡,Cytochrome c,釋出至 cytoplasm,粒線體途徑 apoptosis,—,—,歷年 1-2 次
+細胞傷害,Mitochondrial proteins leakage,釋至 cytoplasm,不可逆細胞傷害標誌,Troponin/CK 偵測,—,114-2-77
+細胞傷害,ATP depletion / Ca++ influx,—,可逆 → 不可逆轉折,—,—,歷年 2 次
+信號通路,PI3K/AKT/mTOR,激活,Physiologic hypertrophy;PIK3CA-mut 腫瘤,—,Rapalogs;Alpelisib,115-1-77 (新)
+信號通路,Wnt/β-catenin,激活,APC-mut CRC;HCC;β-catenin HCA,IHC nuclear β-catenin,—,歷年 2 次
+信號通路,Hedgehog (Hh),激活,Basal cell Ca;Medulloblastoma SHH-type,—,Vismodegib;Sonidegib,歷年 1-2 次
+信號通路,Notch,—,T-ALL (NOTCH1);Adenoid cystic Ca,—,—,歷年 1 次
+HLA / 免疫遺傳,HLA-B27,—,Ankylosing spondylitis;Reactive arthritis;IBD-arthritis,基因檢測,—,歷年 2 次
+HLA / 免疫遺傳,HLA-DQ2/DQ8,—,Celiac disease;Type 1 DM,基因檢測,可作排除診斷,115-1-86 (新)
+HLA / 免疫遺傳,HLA-DR3,—,Type 1 DM;SLE;自免肝炎 type 1;Sjögren,—,—,115-1-93 (新)
+HLA / 免疫遺傳,HLA-DR4,—,RA;Type 1 DM;自免肝炎 type 1,—,—,115-1-93 (新)
+HLA / 免疫遺傳,HLA-DRB1,—,自免肝炎 type 1;RA,—,—,115-1-93 (新)
+HLA / 免疫遺傳,HLA-B*57:01,—,Abacavir hypersensitivity,基因檢測 (用藥前篩),停用 abacavir,歷年 1 次
+自體免疫抗體,Anti-desmoglein 1/3,IgG,Pemphigus foliaceus / vulgaris,DIF (網狀魚網樣);ELISA,Rituximab;類固醇,114-2-79
+自體免疫抗體,Anti-BP180/230,IgG,Bullous pemphigoid,DIF (基底膜帶線狀),—,歷年 2 次
+自體免疫抗體,ANA,—,SLE;Autoimmune hepatitis type 1;MCTD,IIF (Hep-2);ELISA,—,歷年 3 次;115-1-93
+自體免疫抗體,Anti-dsDNA;Anti-Smith,—,SLE 特異,ELISA,—,歷年 2 次
+自體免疫抗體,Anti-SSA(Ro);Anti-SSB(La),—,Sjögren;Neonatal SLE,—,—,歷年 1-2 次
+自體免疫抗體,Anti-SMA (smooth muscle Ab),—,Autoimmune hepatitis type 1,IIF,—,115-1-93
+自體免疫抗體,Anti-LKM-1,—,Autoimmune hepatitis type 2 (兒童),IIF,—,115-1-93 (新)
+自體免疫抗體,Anti-AMA (mitochondrial),—,Primary biliary cholangitis,IIF,UDCA;OCA,歷年 2 次
+自體免疫抗體,Anti-TPO + Anti-Tg,—,Hashimoto thyroiditis;Graves,ELISA,—,115-1-97;歷年 3-4 次
+自體免疫抗體,Anti-TSH receptor (TRAb),激活,Graves disease,—,—,歷年 2 次
+自體免疫抗體,c-ANCA (PR3),—,GPA (Wegener),IIF;ELISA,Rituximab;cyclophosphamide,歷年 2 次
+自體免疫抗體,p-ANCA (MPO),—,MPA;EGPA;UC,—,—,歷年 1-2 次
+自體免疫抗體,Anti-GBM,—,Goodpasture syndrome,DIF 線狀,Plasmapheresis,歷年 2 次
+自體免疫抗體,Anti-Jo-1,—,Antisynthetase syndrome (PM/DM),—,—,歷年 1 次
+自體免疫抗體,Anti-Scl-70 / Anti-centromere,—,Diffuse / Limited scleroderma,—,—,歷年 1-2 次
+自體免疫抗體,Anti-AChR;Anti-MuSK,—,Myasthenia gravis,—,Pyridostigmine;Rituximab,歷年 1-2 次
+自體免疫抗體,Rheumatoid factor;Anti-CCP,—,RA (Anti-CCP 特異),ELISA,Anti-TNF;Rituximab;Tocilizumab,歷年 2 次;115-1-89
+血液 IHC (B-cell),CD20,—,B 細胞 NHL;CLL/SLL;MCL,IHC,Rituximab,歷年 3-4 次
+血液 IHC (B-cell),CD19,—,B 細胞 lineage (流式),流式;IHC,CAR-T;Blinatumomab,歷年 2 次
+血液 IHC (B-cell),CD10,—,Follicular lymphoma;Burkitt;Pre-B ALL,IHC,—,歷年 3 次
+血液 IHC (B-cell),CD5,—,CLL/SLL;MCL (T 細胞也表現),流式,—,歷年 3 次
+血液 IHC (B-cell),CD23,—,CLL/SLL (+);MCL (-),流式,—,歷年 2 次
+血液 IHC (B-cell),BCL2,—,Follicular lymphoma (vs reactive germinal center);DLBCL,IHC,Venetoclax,歷年 2 次
+血液 IHC (B-cell),BCL6,—,Germinal center origin (FL;DLBCL-GCB),IHC,—,歷年 1-2 次
+血液 IHC (B-cell),MUM1,—,Plasma cell;ABC-DLBCL,IHC,—,歷年 1-2 次
+血液 IHC (B-cell),Ki-67,>95% Burkitt,Burkitt vs DLBCL 區別 (>95% suggest Burkitt),IHC,—,歷年 2 次
+血液 IHC (T-cell),CD3,—,T 細胞 pan-marker,IHC;流式,—,歷年 2 次
+血液 IHC (T-cell),CD4 / CD8,—,T helper / T cytotoxic;Cutaneous TCL CD4+,IHC;流式,—,歷年 2 次
+血液 IHC (T-cell),CD30,—,Hodgkin RS 細胞;ALCL;EATL,IHC,Brentuximab vedotin,歷年 2 次
+血液 IHC (T-cell),CD15,—,Hodgkin RS 細胞,IHC,—,歷年 2 次
+血液 IHC (其他),CD45 (LCA),—,白血球 pan-marker,IHC,—,歷年 1-2 次
+血液 IHC (其他),CD34,—,造血幹細胞;Vascular markers,IHC;流式,—,歷年 1-2 次
+血液 IHC (其他),TdT,—,Lymphoblast (ALL/LBL),IHC;流式,—,歷年 2 次
+血液 IHC (其他),CD138 (Syndecan-1),—,Plasma cell;Multiple myeloma,IHC,Daratumumab;Isatuximab (CD38),歷年 1 次
+血液 IHC (其他),CD117 (KIT),—,GIST;Mastocytosis;AML,IHC,Imatinib,歷年 2 次
+血液 IHC (其他),Myeloperoxidase (MPO),—,Myeloid lineage (AML),IHC;細胞化學,—,歷年 1-2 次
+血液 IHC (其他),CD55 / CD59,缺失,Paroxysmal nocturnal hemoglobinuria,流式;Ham/FLAER test,Eculizumab,歷年 2 次
+腫瘤 IHC (上皮分化),Cytokeratin (CK) AE1/AE3,—,上皮起源確認,IHC,—,歷年 3 次
+腫瘤 IHC (上皮分化),CK7 + CK20,組合分型,Lung/breast/胰膽 vs CRC/Merkel,IHC,—,歷年 2 次
+腫瘤 IHC (上皮分化),CDX2,—,腸源性腺癌,IHC,—,歷年 1-2 次
+腫瘤 IHC (上皮分化),TTF-1,—,Lung adenoCa;Thyroid follicular,IHC,—,歷年 2 次
+腫瘤 IHC (上皮分化),Napsin A,—,Lung adenoCa,IHC,—,歷年 1 次
+腫瘤 IHC (上皮分化),GATA3,—,乳癌;Urothelial Ca,IHC,—,歷年 1 次
+腫瘤 IHC (上皮分化),PAX8,—,Renal/Thyroid/Müllerian origin,IHC,—,歷年 1 次
+腫瘤 IHC (上皮分化),Calretinin;WT1;D2-40,—,Mesothelioma vs adenoCa,IHC,—,歷年 1-2 次
+腫瘤 IHC (神經內分泌),Chromogranin A;Synaptophysin;CD56;INSM1,—,神經內分泌腫瘤 (NET/NEC),IHC,Somatostatin analogue;PRRT,歷年 3 次
+腫瘤 IHC (神經/melanocytic),S100,—,Melanoma;Schwannoma;Langerhans cell;朗格漢氏細胞,IHC,—,歷年 2 次
+腫瘤 IHC (神經/melanocytic),SOX10;HMB-45;Melan-A,—,Melanoma 特異,IHC,—,歷年 1-2 次
+腫瘤 IHC (肝),HepPar-1;Arginase-1;Glypican-3,—,HCC,IHC,—,歷年 1-2 次
+腫瘤 IHC (肝),LFABP (liver fatty acid-binding protein),失表現,HNF1α-inactivated HCA,IHC,—,114-2-90 (新)
+腫瘤 IHC (婦女),ER;PR;HER2;Ki-67,—,乳癌分子分型;子宮內膜 Ca,IHC,Tamoxifen;AI;Trastuzumab,歷年 3-4 次;115-1-99
+腫瘤 IHC (婦女),p16,瀰漫強陽,HPV-associated SCC/AdCA;HSIL,IHC,—,歷年 2 次
+腫瘤 IHC (婦女),WT1;p53;Napsin A;HNF1β,—,卵巢上皮分型 (HGSC vs CCC vs EC),IHC,—,歷年 2 次
+腫瘤 IHC (前列腺/腎),PSA;PSAP;NKX3.1;AR,—,前列腺癌,IHC,Androgen deprivation,歷年 1-2 次
+腫瘤 IHC (前列腺/腎),CA-IX;CD10;Vimentin,—,Clear cell RCC,IHC,—,歷年 1-2 次
+腫瘤 IHC (軟組織),Vimentin;Desmin;SMA;MyoD1;Myogenin,—,間葉/肌源軟組織腫瘤,IHC,—,歷年 1-2 次
+腫瘤 IHC (其他特異),INI-1 (SMARCB1),失表現,Rhabdoid tumor;Epithelioid sarcoma,IHC,EZH2 inhibitor (tazemetostat),歷年 1 次
+腫瘤 IHC (其他特異),BRAF V600E (VE1),—,Hairy cell;PTC;LCH;Erdheim-Chester,IHC,Vemurafenib,歷年 1 次
+特殊染色,PAS / PAS-diastase,—,Glycogen;mucin;真菌;α1-AT 球體;Whipple 巨噬細胞,組織染色,—,歷年 3 次
+特殊染色,GMS / Grocott silver,—,真菌;Pneumocystis;Actinomyces,—,—,歷年 2 次
+特殊染色,Congo red (apple-green birefringence),—,Amyloid (AL/AA),偏光顯微鏡,—,歷年 2 次
+特殊染色,Prussian blue,—,Hemosiderin;Iron overload,—,—,歷年 2 次
+特殊染色,Masson trichrome,—,Collagen 染藍/綠;肝纖維化分期,—,—,歷年 2 次
+特殊染色,Reticulin,—,肝小葉/HCC trabecular pattern;骨髓 fibrosis,—,—,歷年 1-2 次
+特殊染色,Acid-fast (Ziehl-Neelsen / Fite),—,結核桿菌;痲瘋桿菌,—,—,歷年 1-2 次
+特殊染色,Mucicarmine / Alcian blue,—,黏液;Cryptococcus 莢膜,—,—,歷年 1-2 次
+特殊染色,Oil Red O,—,中性脂肪 (冷凍切片),—,—,歷年 1 次
+分子診斷技術,FISH,—,HER2;ALK;MYC;BCR-ABL;FOXO1 (RMS),—,標靶治療依據,歷年 3 次
+分子診斷技術,NGS / 全外顯子,—,Hotspot panel;TMB;MSI,—,—,新興趨勢
+分子診斷技術,IHC,—,普及性最強,—,—,歷年 5+ 次
+分子診斷技術,流式細胞術 (Flow cytometry),—,白血病淋巴瘤分型 (CD markers);PNH (CD55/CD59),—,—,歷年 2 次
+分子診斷技術,RT-PCR,—,BCR-ABL;EWS-FLI1;SYT-SSX,—,—,歷年 1-2 次
+分子診斷技術,EBER ISH,—,EBV 相關腫瘤 (Burkitt-endemic;NK/T;NPC;PTLD),—,—,歷年 2 次
+分子診斷技術,Electron microscopy,—,Renal oncocytoma (粒線體);FSGS;Amyloid;Langerhans (Birbeck),—,—,歷年 2 次;114-2-92
+血清腫瘤標記,AFP,—,HCC;Yolk sac tumor;Hepatoblastoma,—,監測復發,歷年 3 次
+血清腫瘤標記,β-hCG,—,Choriocarcinoma;Germ cell tumor;Hydatidiform mole,—,—,歷年 2 次
+血清腫瘤標記,CEA,—,CRC;胃癌;肺腺癌,—,—,歷年 2 次
+血清腫瘤標記,CA19-9,—,胰膽管腺癌;CRC,—,—,歷年 1-2 次
+血清腫瘤標記,CA125,—,卵巢漿液性癌;子宮內膜癌;腹膜病變,—,—,歷年 1-2 次
+血清腫瘤標記,PSA,—,Prostate Ca,—,—,歷年 1-2 次
+血清腫瘤標記,Calcitonin,—,Medullary thyroid Ca,—,—,歷年 1-2 次
+血清腫瘤標記,Chromogranin A,—,神經內分泌腫瘤,—,—,歷年 1 次
+移植病理 (新),C4d,毛細血管沉積,抗體媒介移植排斥 (AMR),IHC;DIF,血漿置換;Rituximab;IVIG,115-1-79 (新)
+移植病理 (新),Donor-specific antibody (DSA),—,AMR;Hyperacute rejection,Luminex 測定,—,新興
+移植病理 (新),T 細胞浸潤;血管內皮炎,—,Acute cellular rejection,組織學;Banff 分類,加強免疫抑制 (高劑量類固醇;ATG),115-1-79 (新)
+神經退化包涵體,α-synuclein (Lewy body 神經元),—,Parkinson disease;Dementia with Lewy body,IHC,—,歷年 2 次
+神經退化包涵體,α-synuclein (oligodendrocyte),—,Multiple system atrophy,IHC,—,115-1-88 (新)
+神經退化包涵體,β-amyloid (plaque);Tau (NFT),—,Alzheimer disease,IHC;銀染,Lecanemab;Donanemab (anti-Aβ),歷年 2 次
+神經退化包涵體,TDP-43,—,ALS;FTLD,IHC,—,歷年 1 次
+神經退化包涵體,Huntingtin (polyQ);Ataxin,—,Huntington;SCA,基因檢測 CAG repeats,—,歷年 1 次
+神經退化包涵體,PrPSc,—,CJD;vCJD,Western blot,—,歷年 1 次
+病毒-腫瘤關聯 (新),HPV high-risk (16/18),—,Cervical SCC;HNSCC;Anal;Vulvar/Penile,p16 IHC;HPV-ISH,HPV vaccine,歷年 3-4 次;115-1-78
+病毒-腫瘤關聯 (新),EBV,—,Burkitt-endemic;HL;NK/T lymphoma;NPC;Gastric Ca-EBV+;PTLD,EBER ISH,—,歷年 3 次;115-1-78
+病毒-腫瘤關聯 (新),HHV-8 (KSHV),—,Kaposi sarcoma;Primary effusion lymphoma (PEL);Multicentric Castleman,LANA IHC,—,115-1-78 (新)
+病毒-腫瘤關聯 (新),HTLV-1,—,Adult T-cell leukemia/lymphoma (ATLL),血清;PCR,—,歷年 1 次
+病毒-腫瘤關聯 (新),HBV / HCV,—,HCC;HCV 也與 B-cell lymphoma 相關,血清;PCR,Antiviral therapy,歷年 3 次
+病毒-腫瘤關聯 (新),JC polyomavirus,—,Progressive multifocal leukoencephalopathy (PML),PCR (CSF);IHC,—,115-1-78 (新)
+病毒-腫瘤關聯 (新),MCPyV (Merkel cell polyomavirus),—,Merkel cell carcinoma,IHC,免疫療法,歷年 1 次
+基因印記/染色體,Prader-Willi (Paternal 15q11-q13 缺失),—,Hypotonia;肥胖;intellectual disability,FISH;MS-PCR,—,歷年 2 次
+基因印記/染色體,Angelman (Maternal 15q11-q13),—,Happy puppet syndrome,FISH;MS-PCR,—,歷年 1 次
+基因印記/染色體,Fragile X (FMR1 CGG repeat),—,Mental retardation 男童,PCR (repeat 數),—,歷年 1 次
+基因印記/染色體,Trisomy 21 / 18 / 13,—,Down / Edwards / Patau,Karyotype;FISH,—,歷年 2 次
+基因印記/染色體,Turner (45 X);Klinefelter (47 XXY),—,Turner / Klinefelter,Karyotype,荷爾蒙補充,歷年 2 次
+凝血/血液,Von Willebrand factor,缺失,vWD,vWF antigen/activity;Multimer,Desmopressin;Factor concentrate,114-2-83
+凝血/血液,Factor VIII / IX,缺失,Hemophilia A / B,Factor 活性,Factor concentrate;Emicizumab,114-2-83
+凝血/血液,ADAMTS13,缺失,TTP,Activity;抗體,Plasmapheresis;Caplacizumab,歷年 1 次
+凝血/血液,Anti-phospholipid (LA;aCL;β2-GP1),—,APS;SLE-related,實驗診斷,—,歷年 1 次
+腎絲球病分子,Phospholipase A2 receptor (PLA2R),IgG4 沉積,Primary membranous nephropathy,IHC;血清抗體,—,歷年 1-2 次
+腎絲球病分子,Galactose-deficient IgA1,—,IgA nephropathy / HSP,—,—,歷年 1 次
+腎絲球病分子,Anti-GBM (α3 chain of collagen IV),—,Goodpasture,DIF 線狀,—,歷年 1 次
+腎絲球病分子,Light chain (κ/λ);Amyloid,—,Light chain deposition;AL amyloid,IHC;Congo red,Bortezomib,歷年 1 次
+營養缺乏,Niacin (B3),缺乏,Pellagra (3D),血清,補充 niacin,115-1-80 (新)
+營養缺乏,Thiamine (B1),缺乏,Wernicke-Korsakoff;Beriberi,血清/transketolase,—,歷年 1-2 次
+營養缺乏,B12 / Folate,缺乏,Megaloblastic anemia;SCD of spinal cord (B12),血清,補充,歷年 2 次
+營養缺乏,Vitamin D,缺乏,Rickets;Osteomalacia,血清 25(OH)D,補充,歷年 1 次
+營養缺乏,Vitamin K,缺乏,Hemorrhage;factor II/VII/IX/X 下降,PT/INR,維他命 K,歷年 1 次
+營養缺乏,Vitamin C,缺乏,Scurvy,—,—,歷年 1 次
+營養缺乏,Iodine,缺乏,Goiter;Cretinism,TFT,—,歷年 1 次

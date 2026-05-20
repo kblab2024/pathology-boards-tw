@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<title>{{ title }}</title>
+</head>
+<body class="doc {% if mode == 'master' %}master-edition{% else %}single-chapter {{ chapter.body_class }}{% endif %}">
+
+{% include "cover.html.j2" %}
+{% include "colophon.html.j2" %}
+
+{% if mode == 'master' %}
+  {% include "toc.html.j2" %}
+  {% for ch, body in chapter_docs %}
+    {% include "chapter_divider.html.j2" %}
+    <section class="chapter-body {{ ch.body_class }}" id="ch-{{ ch.num }}-body" data-chapter-num="{{ ch.num }}">
+      {{ body | safe }}
+    </section>
+  {% endfor %}
+{% else %}
+  {% include "chapter_divider.html.j2" %}
+  <section class="chapter-body {{ chapter.body_class }}" id="ch-{{ chapter.num }}-body" data-chapter-num="{{ chapter.num }}">
+    {{ body_html | safe }}
+  </section>
+{% endif %}
+
+{% include "back_cover.html.j2" %}
+
+</body>
+</html>

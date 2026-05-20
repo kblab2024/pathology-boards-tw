@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Rendered PDFs committed deliberately; uncomment below to exclude.
+# rendered/*.pdf
+
+# Local secrets / env
+.env
+.env.local

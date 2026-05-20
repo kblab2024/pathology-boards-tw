@@ -1,0 +1,266 @@
+/* ---- Chapter divider page ---- */
+
+.chapter-divider {
+  width: 210mm;
+  height: 297mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0 24mm;
+  background:
+    linear-gradient(135deg, var(--accent, #b8232f) 0%, #1a1a1a 130%);
+  color: #fbfaf6;
+  position: relative;
+}
+
+.chapter-divider .divider-rule {
+  width: 26mm;
+  height: 2mm;
+  background: #c9a14a;
+  margin-bottom: 14mm;
+}
+
+.chapter-divider .divider-eyebrow {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 10pt;
+  letter-spacing: 4pt;
+  color: #c9a14a;
+  margin-bottom: 6mm;
+  text-transform: uppercase;
+}
+
+.chapter-divider .divider-zh {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 46pt;
+  font-weight: 900;
+  line-height: 1.1;
+  color: #fbfaf6;
+  margin-bottom: 4mm;
+  border: none;
+  padding: 0;
+}
+
+.chapter-divider .divider-en {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 13pt;
+  font-style: italic;
+  letter-spacing: 1pt;
+  color: #f0e6c8;
+  margin-bottom: 22mm;
+}
+
+.chapter-divider .divider-meta {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 9pt;
+  letter-spacing: 1pt;
+  color: rgba(255, 255, 255, 0.7);
+  border-top: 0.6pt solid rgba(201, 161, 74, 0.55);
+  padding-top: 4mm;
+  width: 70mm;
+}
+
+.chapter-divider .divider-badge {
+  position: absolute;
+  right: 18mm;
+  bottom: 18mm;
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 8pt;
+  letter-spacing: 2pt;
+  text-transform: uppercase;
+  color: #c9a14a;
+  border: 0.6pt solid #c9a14a;
+  border-radius: 1mm;
+  padding: 1.4mm 3mm;
+}
+
+/* ---- TOC ---- */
+
+.toc-page {
+  padding: 14mm 16mm;
+}
+
+.toc-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom: 2pt solid #b8232f;
+  padding-bottom: 4mm;
+  margin-bottom: 10mm;
+}
+
+.toc-header h2 {
+  font-size: 28pt;
+  font-weight: 900;
+  color: #1c3d5a;
+  border: none;
+  padding: 0;
+  margin: 0;
+  letter-spacing: 4pt;
+}
+
+.toc-header .toc-en {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 11pt;
+  color: #b8232f;
+  letter-spacing: 2pt;
+  text-transform: uppercase;
+}
+
+.toc-chapters {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.toc-chapter {
+  display: flex;
+  align-items: baseline;
+  padding: 3.5mm 0;
+  border-bottom: 0.4pt dotted #c8c2b3;
+}
+
+.toc-chapter .toc-num {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 18pt;
+  font-weight: 900;
+  color: var(--accent, #b8232f);
+  width: 18mm;
+}
+
+.toc-chapter .toc-titles {
+  display: flex;
+  flex-direction: column;
+}
+
+.toc-chapter .toc-zh {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 13pt;
+  font-weight: 700;
+  color: #1c3d5a;
+}
+
+.toc-chapter .toc-en {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 9pt;
+  color: #777;
+  letter-spacing: 0.5pt;
+}
+
+.toc-chapter .toc-leader {
+  flex: 1 1 auto;
+  border-bottom: 0.5pt dotted #b8b3a3;
+  margin: 0 4mm;
+  height: 1pt;
+  transform: translateY(-2mm);
+}
+
+.toc-chapter .toc-page-ref {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 11pt;
+  font-weight: 700;
+  color: var(--accent, #b8232f);
+  min-width: 14mm;
+  text-align: right;
+}
+
+.toc-chapter .toc-page-ref[data-target]::after {
+  content: target-counter(attr(data-target), page);
+}
+
+.toc-foot {
+  margin-top: 14mm;
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 8.5pt;
+  color: #888;
+  border-top: 0.4pt solid #d8d2c0;
+  padding-top: 3mm;
+}
+
+/* ---- Colophon ---- */
+
+.colophon-page {
+  padding: 0;
+  background: #fbfaf6;
+}
+
+.colophon-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: 2pt solid #1c3d5a;
+  padding-bottom: 3mm;
+  margin-bottom: 8mm;
+}
+
+.colophon-header h2 {
+  font-size: 18pt;
+  border: none;
+  padding: 0;
+  margin: 0;
+  color: #1c3d5a;
+}
+
+.colophon-header .colophon-code {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 9pt;
+  letter-spacing: 2pt;
+  color: #b8232f;
+  border: 0.6pt solid #b8232f;
+  padding: 1mm 3mm;
+  border-radius: 1mm;
+}
+
+.colophon-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.4fr;
+  gap: 10mm;
+  align-items: start;
+}
+
+.colophon-meta dt {
+  font-family: "Noto Sans TC", sans-serif;
+  font-weight: 700;
+  color: #b8232f;
+  font-size: 9.5pt;
+  margin-top: 3mm;
+}
+
+.colophon-meta dd {
+  font-family: "Noto Serif TC", serif;
+  font-size: 10pt;
+  color: #1a1a1a;
+  margin: 0.6mm 0 2.5mm;
+  padding-left: 0;
+}
+
+.colophon-disclosure {
+  background: #fdf8ec;
+  border-left: 3pt solid #c9a14a;
+  padding: 5mm 6mm;
+}
+
+.colophon-disclosure h3 {
+  font-size: 12pt;
+  color: #1c3d5a;
+  margin: 0 0 3mm;
+}
+
+.colophon-disclosure p {
+  font-size: 10pt;
+  line-height: 1.7;
+  margin: 0 0 3mm;
+  color: #2a2a2a;
+}
+
+.colophon-disclosure p.warn {
+  background: #fbecec;
+  border-left: 2pt solid #b8232f;
+  padding: 2.5mm 3mm;
+  color: #4a1a1a;
+}
+
+.colophon-disclosure p.muted {
+  font-size: 9pt;
+  color: #777;
+}

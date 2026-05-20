@@ -1,0 +1,24 @@
+<section class="cover-page" id="cover">
+  <div class="cover-top">
+    <span class="cover-eyebrow">PATHOLOGY BOARD REVIEW · TAIWAN</span>
+    <span class="cover-rule"></span>
+  </div>
+
+  <div class="cover-center">
+    <h1 class="cover-title">病理科<br>國考總複習</h1>
+    {% if mode == 'master' %}
+      <p class="cover-subtitle">補習講義　分子・形態・臨床整合 三位一體</p>
+      <p class="cover-volume">合訂本</p>
+    {% else %}
+      <p class="cover-subtitle">{{ chapter.title_zh }}</p>
+      <p class="cover-volume">章 {{ chapter.num }} · {{ chapter.title_en }}</p>
+    {% endif %}
+    <div class="cover-seal" aria-hidden="true">病</div>
+  </div>
+
+  <div class="cover-bottom">
+    <p class="cover-edition">{{ edition_label }}</p>
+    <p class="cover-ai">{{ generator_line }}</p>
+    <p class="cover-safety">{{ safety_line }}</p>
+  </div>
+</section>

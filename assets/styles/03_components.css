@@ -1,0 +1,163 @@
+/* ---- Tables ---- */
+
+table {
+  margin: 3mm 0 5mm;
+  font-size: 0.95em;
+  border: 0.4pt solid #999;
+}
+
+thead { display: table-header-group; }
+
+thead th {
+  background: #b8232f;
+  color: #fff;
+  font-family: "Noto Sans TC", sans-serif;
+  font-weight: 700;
+  text-align: left;
+  padding: 1.6mm 2.2mm;
+  border: 0.4pt solid #8a1a23;
+  font-size: 0.95em;
+}
+
+tbody td {
+  padding: 1.4mm 2.2mm;
+  border: 0.4pt solid #c8c2b3;
+  vertical-align: top;
+}
+
+tbody tr:nth-child(even) td { background: #f4efe6; }
+
+tbody tr { page-break-inside: avoid; break-inside: avoid; }
+
+table caption {
+  caption-side: top;
+  font-family: "Noto Sans TC", sans-serif;
+  font-weight: 700;
+  color: #1c3d5a;
+  text-align: left;
+  padding: 1mm 0 2mm;
+}
+
+/* Cheatsheet (CSV-derived wide tables) */
+.cheatsheet {
+  table-layout: fixed;
+  width: 100%;
+  font-size: 8.5pt;
+  line-height: 1.45;
+}
+
+.cheatsheet thead th {
+  padding: 1.4mm 1.8mm;
+  font-size: 8.5pt;
+}
+
+.cheatsheet tbody td {
+  padding: 1mm 1.6mm;
+  word-break: break-word;
+}
+
+.cheatsheet td.cat-cell {
+  background: #fdf3d6 !important;
+  font-family: "Noto Sans TC", sans-serif;
+  font-weight: 700;
+  color: #8a4a2c;
+}
+
+.cheatsheet tbody tr.group-row td {
+  background: #1c3d5a;
+  color: #fff;
+  font-family: "Noto Sans TC", sans-serif;
+  font-weight: 700;
+  padding: 1.6mm 2.2mm;
+  font-size: 9pt;
+  letter-spacing: 0.4pt;
+}
+
+.cheatsheet ul.multi {
+  list-style: disc;
+  padding-left: 4mm;
+  margin: 0;
+}
+
+.cheatsheet ul.multi li { line-height: 1.45; margin: 0.3mm 0; }
+
+/* ---- Lists ---- */
+
+.chapter-body ul,
+.chapter-body ol {
+  padding-left: 1.8em;
+  margin: 1.5mm 0 2.5mm;
+}
+
+.chapter-body li {
+  line-height: 1.6;
+  margin: 0.6mm 0;
+}
+
+.chapter-body li > ul,
+.chapter-body li > ol {
+  margin: 0.5mm 0 1mm;
+}
+
+/* ---- Callouts (parsed from blockquote variants) ---- */
+
+.callout {
+  margin: 3mm 0;
+  padding: 3mm 4mm;
+  border-radius: 1mm;
+  background: #f7f3e8;
+  border-left: 4pt solid #c9a14a;
+}
+
+.callout.tip   { border-color: #0f6e5e; background: #e8f5f0; }
+.callout.warn  { border-color: #b8232f; background: #fbecec; }
+.callout.exam  { border-color: #1c3d5a; background: #e8eef5; }
+
+/* ---- Card (used in chapter 09) ---- */
+
+.ch-09 .chapter-body > h2,
+.ch-09 .chapter-body > h3 {
+  page-break-before: auto;
+}
+
+.ch-09 .chapter-body h2 {
+  margin-top: 8mm;
+}
+
+/* Visually wrap each Card group: every h2 starts a coloured stripe */
+.ch-09 .chapter-body h2::before {
+  content: "";
+  display: block;
+  width: 16mm;
+  height: 1.6mm;
+  background: #b8232f;
+  margin-bottom: 2mm;
+}
+
+/* ---- High-frequency star colouring ---- */
+
+.ch-06 .chapter-body { color: #1a1a1a; }
+.ch-06 .chapter-body p,
+.ch-06 .chapter-body li,
+.ch-06 .chapter-body td {
+  text-rendering: optimizeLegibility;
+}
+
+/* The ★ glyph rendered in gold wherever it appears in body text */
+.ch-06 .chapter-body { --star: #c9a14a; }
+
+/* ---- Two-column hint zones (kept conservative for CJK reliability) ---- */
+
+.two-col {
+  column-count: 2;
+  column-gap: 8mm;
+  column-rule: 0.4pt solid #d8d2c0;
+}
+
+/* ---- Misc ---- */
+
+.muted { color: #666; }
+.warn  { color: #b8232f; }
+
+/* Ensure no white-on-white from accidental dark mode media queries */
+@media print, screen { body { color-scheme: light; } }

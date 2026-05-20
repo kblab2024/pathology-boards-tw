@@ -1,0 +1,221 @@
+/* ---- Cover ---- */
+
+.cover-page {
+  width: 210mm;
+  height: 297mm;
+  position: relative;
+  color: #fbfaf6;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.cover-page .cover-top {
+  padding: 18mm 20mm 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4mm;
+}
+
+.cover-page .cover-eyebrow {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 9pt;
+  letter-spacing: 6pt;
+  color: #c9a14a;
+  text-transform: uppercase;
+}
+
+.cover-page .cover-rule {
+  display: block;
+  width: 38mm;
+  height: 2pt;
+  background: #c9a14a;
+}
+
+.cover-page .cover-center {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 20mm;
+  position: relative;
+}
+
+.cover-page .cover-title {
+  font-family: "DFKai", "Noto Serif TC", serif;
+  font-size: 64pt;
+  font-weight: 900;
+  line-height: 1.05;
+  letter-spacing: 4pt;
+  color: #fbfaf6;
+  margin: 0 0 8mm;
+  border: none;
+  padding: 0;
+}
+
+.cover-page .cover-subtitle {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 16pt;
+  font-weight: 400;
+  letter-spacing: 1.5pt;
+  color: #f0e6c8;
+  margin: 0 0 4mm;
+}
+
+.cover-page .cover-volume {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 12pt;
+  letter-spacing: 1pt;
+  color: #c9a14a;
+  margin: 0;
+}
+
+.cover-page .cover-seal {
+  position: absolute;
+  right: 24mm;
+  top: 18mm;
+  width: 38mm;
+  height: 38mm;
+  border: 1.4pt solid #c9a14a;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "DFKai", "Noto Serif TC", serif;
+  font-size: 32pt;
+  color: #c9a14a;
+}
+
+.cover-page .cover-bottom {
+  padding: 0 20mm 20mm;
+  border-top: 0.6pt solid rgba(201, 161, 74, 0.6);
+  padding-top: 8mm;
+}
+
+.cover-page .cover-edition {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 12pt;
+  color: #c9a14a;
+  letter-spacing: 1.5pt;
+  margin: 0 0 2mm;
+}
+
+.cover-page .cover-ai {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 8.5pt;
+  letter-spacing: 0.8pt;
+  color: rgba(251, 250, 246, 0.9);
+  margin: 0 0 1.5mm;
+}
+
+.cover-page .cover-safety {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 8.5pt;
+  color: rgba(251, 250, 246, 0.7);
+  margin: 0;
+}
+
+/* ---- Back cover ---- */
+
+.back-cover-page {
+  width: 210mm;
+  height: 297mm;
+  position: relative;
+  color: #fbfaf6;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+.back-cover-page .back-top {
+  padding: 18mm 20mm 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4mm;
+}
+
+.back-cover-page .back-rule {
+  display: block;
+  width: 38mm;
+  height: 2pt;
+  background: #c9a14a;
+}
+
+.back-cover-page .back-eyebrow {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 9pt;
+  letter-spacing: 6pt;
+  color: #c9a14a;
+  text-transform: uppercase;
+}
+
+.back-cover-page .back-center {
+  flex: 1 1 auto;
+  padding: 30mm 22mm 0;
+}
+
+.back-cover-page .back-tagline {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 22pt;
+  font-weight: 700;
+  letter-spacing: 2pt;
+  color: #c9a14a;
+  margin: 0 0 12mm;
+  line-height: 1.3;
+}
+
+.back-cover-page .back-features {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.back-cover-page .back-features li {
+  font-family: "Noto Serif TC", serif;
+  font-size: 14pt;
+  color: #fbfaf6;
+  padding: 2.2mm 0;
+  border-bottom: 0.4pt solid rgba(201, 161, 74, 0.35);
+  letter-spacing: 0.8pt;
+}
+
+.back-cover-page .back-features li::before {
+  content: "▸";
+  color: #c9a14a;
+  margin-right: 3mm;
+}
+
+.back-cover-page .back-bottom {
+  padding: 0 22mm 22mm;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.back-cover-page .back-meta {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 9pt;
+  color: rgba(251, 250, 246, 0.85);
+}
+
+.back-cover-page .back-meta p { margin: 0.6mm 0; letter-spacing: 0.6pt; }
+
+.back-cover-page .back-barcode {
+  display: flex;
+  gap: 0.5mm;
+  height: 14mm;
+  width: 44mm;
+  align-items: stretch;
+}
+
+.back-cover-page .back-barcode span {
+  display: block;
+  flex: 1 1 auto;
+  background: #fbfaf6;
+  height: 100%;
+}
+
+.back-cover-page .back-barcode span:nth-child(2n)      { width: 0.4mm; flex: 0 0 0.4mm; }
+.back-cover-page .back-barcode span:nth-child(3n)      { width: 1.0mm; flex: 0 0 1.0mm; }
+.back-cover-page .back-barcode span:nth-child(5n)      { width: 0.6mm; flex: 0 0 0.6mm; }
+.back-cover-page .back-barcode span:nth-child(7n)      { width: 1.6mm; flex: 0 0 1.6mm; }

@@ -1,0 +1,22 @@
+<section class="toc-page" id="toc">
+  <header class="toc-header">
+    <h2>目　次</h2>
+    <span class="toc-en">Table of Contents</span>
+  </header>
+
+  <ol class="toc-chapters">
+    {% for entry in toc_entries %}
+    <li class="toc-chapter" style="--accent: {{ entry.accent }};">
+      <span class="toc-num">{{ entry.num }}</span>
+      <span class="toc-titles">
+        <span class="toc-zh">{{ entry.title_zh }}</span>
+        <span class="toc-en">{{ entry.title_en }}</span>
+      </span>
+      <span class="toc-leader"></span>
+      <span class="toc-page-ref">p. {{ entry.page }}</span>
+    </li>
+    {% endfor %}
+  </ol>
+
+  <p class="toc-foot">合計 {{ toc_entries|length }} 章 · {{ edition_label }} · {{ generator_line }}</p>
+</section>

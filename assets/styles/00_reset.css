@@ -1,0 +1,33 @@
+/* ===== reset & cjk basics ===== */
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, table, thead, tbody, tr, th, td, figure, blockquote, pre {
+  margin: 0;
+  padding: 0;
+}
+
+ul, ol {
+  padding-left: 1.2em;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+:lang(zh-Hant), :lang(zh) {
+  word-break: keep-all;
+  line-break: strict;
+  text-spacing: trim-start trim-end;
+}
+
+body {
+  font-feature-settings: "palt" 1;
+}

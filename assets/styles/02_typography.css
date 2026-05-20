@@ -1,0 +1,98 @@
+/* ---- Font registration (local Windows fonts) ---- */
+
+@font-face {
+  font-family: "Noto Sans TC";
+  src: url("file:///C:/Windows/Fonts/NotoSansTC-VF.ttf") format("truetype-variations");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Noto Serif TC";
+  src: url("file:///C:/Windows/Fonts/NotoSerifTC-VF.ttf") format("truetype-variations");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DFKai";
+  src: url("file:///C:/Windows/Fonts/kaiu.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* ---- Base typography ---- */
+
+html, body {
+  font-family: "Noto Serif TC", "Noto Sans TC", "Microsoft JhengHei", serif;
+  font-size: 10.5pt;
+  line-height: 1.65;
+  color: #1a1a1a;
+}
+
+body.ch-01, body.ch-07 { font-size: 9pt; line-height: 1.5; }
+body.ch-06 { font-size: 10pt; }
+body.ch-08 { font-size: 10pt; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Noto Sans TC", sans-serif;
+  font-weight: 700;
+  color: #1c3d5a;
+  line-height: 1.3;
+}
+
+h1 { font-size: 20pt; margin: 0 0 8mm; letter-spacing: 0.5pt;
+     border-bottom: 1.5pt solid #b8232f; padding-bottom: 3mm; }
+h2 { font-size: 15pt; margin: 8mm 0 4mm;
+     border-left: 4pt solid var(--accent, #b8232f); padding-left: 3mm; }
+h3 { font-size: 12pt; margin: 6mm 0 3mm; color: #b8232f; }
+h4 { font-size: 11pt; margin: 4mm 0 2mm; color: #1c3d5a; }
+
+p { margin: 0 0 1.6mm; orphans: 2; widows: 2; }
+
+strong { color: #b8232f; font-weight: 700; }
+em { color: #5a3a8a; font-style: normal; font-weight: 600; }
+
+blockquote {
+  border-left: 3pt solid #c9a14a;
+  background: #fdf8ec;
+  padding: 3mm 5mm;
+  margin: 3mm 0;
+  font-size: 0.95em;
+  color: #4a3a1a;
+}
+
+blockquote p { margin: 0 0 1.2mm; }
+blockquote em {
+  color: #6a4a1a;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 0.95em;
+}
+
+code {
+  font-family: "Consolas", "Courier New", monospace;
+  font-size: 0.92em;
+  background: #f0ece2;
+  padding: 0.4mm 1.2mm;
+  border-radius: 1mm;
+}
+
+pre {
+  font-family: "Consolas", "Courier New", monospace;
+  font-size: 0.92em;
+  background: #f6f1e3;
+  padding: 3mm 4mm;
+  border-left: 3pt solid #1c3d5a;
+  margin: 3mm 0;
+  white-space: pre;
+  overflow-x: auto;
+}
+
+pre code { background: transparent; padding: 0; }
+
+hr {
+  border: none;
+  border-top: 0.6pt solid #c9a14a;
+  margin: 5mm 0;
+}
