@@ -17,6 +17,10 @@ SAFETY_LINE = "請對照 Robbins / WHO 等標準教科書查證使用"
 BACK_COVER_TAGLINE = "十年題庫 × 趨勢解析 × 弱點補強"
 LICENSE_LINE = "MIT License"
 REPO_URL = "github.com/kblab2024/pathology-boards-tw"
+REPO_CLONE_URL = "https://github.com/kblab2024/pathology-boards-tw.git"
+CLONE_CTA_HEADING = "開源 · 歡迎自製專屬版本"
+CLONE_CTA_BODY = "本書 LaTeX 級排版、題庫、render 程式皆開源於 GitHub。Clone 後可改題、改配色、加新章節，再用 Python 一鍵重新 render PDF。"
+CLONE_CTA_HINT = "需 Python 3.11+ · Playwright · MIT License"
 
 PALETTE = {
     "red": "#b8232f",

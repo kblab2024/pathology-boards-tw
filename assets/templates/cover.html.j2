@@ -16,10 +16,20 @@
     <div class="cover-seal" aria-hidden="true">病</div>
   </div>
 
+  <div class="cover-clone-cta" aria-label="Clone this book">
+    <div class="cta-eyebrow">
+      <span class="cta-tag">OPEN SOURCE</span>
+      <span class="cta-heading">{{ clone_cta_heading }}</span>
+    </div>
+    <p class="cta-body">{{ clone_cta_body }}</p>
+    <pre class="cta-command"><span class="cta-prompt">$</span> git clone {{ repo_clone_url }}</pre>
+    <p class="cta-url">{{ repo_url }}</p>
+    <p class="cta-hint">{{ clone_cta_hint }}</p>
+  </div>
+
   <div class="cover-bottom">
     <p class="cover-edition">{{ edition_label }}</p>
     <p class="cover-ai">{{ generator_line }}</p>
     <p class="cover-safety">{{ safety_line }}</p>
-    <p class="cover-repo">{{ repo_url }}</p>
   </div>
 </section>

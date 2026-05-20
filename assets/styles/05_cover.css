@@ -112,17 +112,92 @@
   font-family: "Noto Sans TC", sans-serif;
   font-size: 8.5pt;
   color: rgba(251, 250, 246, 0.7);
+  margin: 0;
+}
+
+/* ---- Clone call-to-action card (cover) ---- */
+
+.cover-page .cover-center {
+  flex: 0 1 auto;
+  padding-top: 22mm;
+  padding-bottom: 6mm;
+}
+
+.cover-clone-cta {
+  margin: 0 20mm 8mm;
+  padding: 5mm 6mm;
+  background: rgba(0, 0, 0, 0.28);
+  border-left: 3pt solid #c9a14a;
+  border-radius: 1mm;
+  flex: 0 0 auto;
+}
+
+.cover-clone-cta .cta-eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 3mm;
+  margin-bottom: 3mm;
+}
+
+.cover-clone-cta .cta-tag {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 7.5pt;
+  letter-spacing: 2pt;
+  color: #1a1a1a;
+  background: #c9a14a;
+  padding: 0.6mm 2.2mm;
+  border-radius: 0.6mm;
+  font-weight: 700;
+}
+
+.cover-clone-cta .cta-heading {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 12pt;
+  color: #c9a14a;
+  letter-spacing: 1pt;
+  font-weight: 700;
+}
+
+.cover-clone-cta .cta-body {
+  font-family: "Noto Serif TC", serif;
+  font-size: 9.5pt;
+  line-height: 1.6;
+  color: rgba(251, 250, 246, 0.92);
   margin: 0 0 3mm;
 }
 
-.cover-page .cover-repo {
-  font-family: "Consolas", "Noto Sans TC", monospace;
+.cover-clone-cta .cta-command {
+  font-family: "Consolas", "Courier New", monospace;
   font-size: 9pt;
-  letter-spacing: 1pt;
+  color: #fbfaf6;
+  background: rgba(0, 0, 0, 0.45);
+  border: 0.4pt solid rgba(201, 161, 74, 0.6);
+  border-radius: 0.8mm;
+  padding: 2.4mm 3mm;
+  margin: 0 0 2mm;
+  white-space: pre;
+  overflow: hidden;
+}
+
+.cover-clone-cta .cta-prompt {
   color: #c9a14a;
+  margin-right: 2mm;
+}
+
+.cover-clone-cta .cta-url {
+  font-family: "Consolas", "Noto Sans TC", monospace;
+  font-size: 8.5pt;
+  letter-spacing: 0.6pt;
+  color: #c9a14a;
+  margin: 0 0 1.5mm;
+}
+
+.cover-clone-cta .cta-hint {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 7.5pt;
+  letter-spacing: 1pt;
+  color: rgba(251, 250, 246, 0.55);
   margin: 0;
-  padding-top: 2mm;
-  border-top: 0.4pt solid rgba(201, 161, 74, 0.45);
 }
 
 /* ---- Back cover ---- */
